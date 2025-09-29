@@ -4,8 +4,8 @@ Intermediate/
 Saved/
 Build/
 
-.vscode
-.vs
+.vscode/
+.vs/
 *.VC.db
 *.opensdf
 *.opendb
@@ -14,3 +14,7 @@ Build/
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.pdb
+*.pch
+*.obj
+
