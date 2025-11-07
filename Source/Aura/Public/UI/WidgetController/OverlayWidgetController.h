@@ -9,6 +9,9 @@
 DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FOnHealthChangedSigniture, float, NewHealth);
 DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FOnMaxHealthChangedSigniture, float, NewMaxHealth);
 
+DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FOnManaChangedSigniture, float, NewMana);
+DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FOnMaxManaChangedSigniture, float, NewMaxMana);
+
 /**
  * 
  */
@@ -26,7 +29,16 @@ public:
 	UPROPERTY(BlueprintAssignable, Category = "GAS|Attributes")
 	FOnMaxHealthChangedSigniture OnMaxHealthChanged;
 
+	UPROPERTY(BlueprintAssignable, Category = "GAS|Attributes")
+	FOnManaChangedSigniture OnManaChanged;
+
+	UPROPERTY(BlueprintAssignable, Category = "GAS|Attributes")
+	FOnMaxManaChangedSigniture OnMaxManaChanged;
+
 protected:
-	void HealthChnaged(const FOnAttributeChangeData& Data) const;
-	void MaxHealthChnaged(const FOnAttributeChangeData& Data) const;
+	void HealthChanged(const FOnAttributeChangeData& Data) const;
+	void MaxHealthChanged(const FOnAttributeChangeData& Data) const;
+
+	void ManaChanged(const FOnAttributeChangeData& Data) const;
+	void MaxManaChanged(const FOnAttributeChangeData& Data) const;
 };
