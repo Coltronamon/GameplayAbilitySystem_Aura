@@ -3,7 +3,6 @@
 
 #include "UI/WidgetController/AuraWidgetController.h"
 
-#include "UI/WidgetController/OverlayWidgetController.h"
 
 void UAuraWidgetController::SetWidgetControllerParams(const FWidgetControllerParams& WCParams)
 {
@@ -14,6 +13,11 @@ void UAuraWidgetController::SetWidgetControllerParams(const FWidgetControllerPar
 }
 
 void UAuraWidgetController::BroadcastInitialValues()
+{
+	
+}
+
+void UAuraWidgetController::BindCallbacksToDependencies()
 {
 	
 }
