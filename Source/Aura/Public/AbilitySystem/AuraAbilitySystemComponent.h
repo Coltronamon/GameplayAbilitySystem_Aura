@@ -7,7 +7,7 @@
 #include "AuraAbilitySystemComponent.generated.h"
 
 /**
- * 
+ *
  */
 UCLASS()
 class AURA_API UAuraAbilitySystemComponent : public UAbilitySystemComponent
