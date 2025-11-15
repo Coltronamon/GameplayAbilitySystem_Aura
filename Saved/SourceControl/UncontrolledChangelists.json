@@ -35,6 +35,8 @@
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Character/Aura/BP_AuraCharacter.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Actor/TestActor/BP_TestActor.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Actor/TestActor/GE_TestAttributeBased.uasset",
+				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraPrimaryAttributes.uasset",
+				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraSecondaryAttributes.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Actor/Potion/CT_PotionHeal.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Actor/Potion/GE_CrystalHeal.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Actor/Potion/GE_CrystalMana.uasset",
