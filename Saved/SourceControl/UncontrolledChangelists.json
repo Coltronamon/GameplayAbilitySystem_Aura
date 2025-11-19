@@ -43,6 +43,7 @@
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/AttributeMenu/WBP_AttributeMenu.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/Button/WPB_Button.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/Button/WBP_Button.uasset",
+				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/Button/WBP_WideButton.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/GameplayEffects/PrimaryAttributes/GE_AuraPrimaryAttributes.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Actor/Potion/CT_PotionHeal.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Actor/Potion/GE_CrystalHeal.uasset",
