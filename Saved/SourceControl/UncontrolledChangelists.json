@@ -59,6 +59,7 @@
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/GameplayAbilities/Fire/FireBolt/GA_FireBolt.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Characters/Aura/Animations/Abilities/AM_Cast_Firebolt.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AnimNotifies/AN_MontageEvent.uasset",
+				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Input/InputActions/IA_Shift.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/Button/WPB_Button.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/GameplayEffects/PrimaryAttributes/GE_AuraPrimaryAttributes.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Actor/Potion/CT_PotionHeal.uasset",
