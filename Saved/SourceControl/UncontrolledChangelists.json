@@ -66,6 +66,7 @@
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/GameplayEffects/GE_Damage.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/ProgressBar/WBP_ProgressBar.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/ProgressBar/WBP_EnemyHealthBar.uasset",
+				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Data/DA_CharacterClassInfo.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/Button/WPB_Button.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/GameplayEffects/PrimaryAttributes/GE_AuraPrimaryAttributes.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Actor/Potion/CT_PotionHeal.uasset",
