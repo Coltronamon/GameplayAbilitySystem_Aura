@@ -83,6 +83,7 @@
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Goblin/Materials/MI_GoblinDissolve.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/FloatingText/WBP_DamageText.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/FloatingText/BP_DamageTextComponent.uasset",
+				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Data/CT_DamageCalculationCoefficients.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraPrimaryAttributes.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraSecondaryAttributes.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraVitalAttributes.uasset",
