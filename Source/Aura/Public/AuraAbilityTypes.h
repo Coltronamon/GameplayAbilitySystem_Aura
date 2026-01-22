@@ -14,7 +14,7 @@ public:
 	bool IsBlockedHit() const { return bIsBlockedHit; }
 
 	void SetIsCriticalHit(bool bInIsCriticalHit) { bIsCriticalHit = bInIsCriticalHit; }
-	void SetISBlockedHit(bool bInIsBlockedHit) { bIsBlockedHit = bInIsBlockedHit; }
+	void SetIsBlockedHit(bool bInIsBlockedHit) { bIsBlockedHit = bInIsBlockedHit; }
 	
 	/** Returns the actual struct used for serialization; subclasses must override this! */
 	virtual UScriptStruct* GetScriptStruct() const override
