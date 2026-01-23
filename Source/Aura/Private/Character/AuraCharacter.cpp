@@ -34,6 +34,8 @@ void AAuraCharacter::PossessedBy(AController* NewController)
 void AAuraCharacter::OnRep_PlayerState()
 {
 	Super::OnRep_PlayerState();
+	UNetConnection* Connection = GetNetConnection();
+	if (Connection) Connection->SetAutoFlush(true);
 
 	// Init ability actor info for the client
 	InitAbilityActorInfo();
