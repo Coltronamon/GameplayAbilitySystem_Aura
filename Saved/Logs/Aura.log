@@ -1378,3 +1378,530 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.23-03.53.51:977][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
 [2026.01.23-03.53.51:998][329]LogPlayLevel: Display: Destroying online subsystem :Context_6
 [2026.01.23-03.53.51:999][329]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2026.01.23-03.57.07:393][845]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 324.427399
+[2026.01.23-03.57.08:393][848]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.23-03.57.08:393][848]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 325.094391, Update Interval: 344.506958
+[2026.01.23-03.59.15:603][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.23-03.59.15:646][497]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BT_EnemyBehaviorTree] ([1] browsable assets)...
+[2026.01.23-03.59.15:646][497]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BT_EnemyBehaviorTree]
+[2026.01.23-03.59.15:646][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BT_EnemyBehaviorTree" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BT_EnemyBehaviorTree.uasset" SILENT=true
+[2026.01.23-03.59.15:648][497]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BT_EnemyBehaviorTree
+[2026.01.23-03.59.15:649][497]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BT_EnemyBehaviorTree0B6558F8446ED6E9CC3D12AC80BCCDA7.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BT_EnemyBehaviorTree.uasset'
+[2026.01.23-03.59.15:654][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.087 ms (total: 100.174 ms)
+[2026.01.23-03.59.15:697][497]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.23-03.59.15:697][497]LogContentValidation: Enabled validators:
+[2026.01.23-03.59.15:697][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.23-03.59.15:697][497]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.23-03.59.15:697][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.23-03.59.15:697][497]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.23-03.59.15:698][497]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.23-03.59.15:698][497]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.23-03.59.15:698][497]AssetCheck: /Game/Blueprints/AI/BT_EnemyBehaviorTree Validating asset
+[2026.01.23-04.02.55:834][448]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 672.867004
+[2026.01.23-04.02.55:942][460]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.23-04.02.55:943][460]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 672.967285, Update Interval: 334.011047
+[2026.01.23-04.03.54:706][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.01.23-04.03.54:710][449]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartupMap' took 0.026
+[2026.01.23-04.03.54:711][449]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BT_EnemyBehaviorTree] ([1] browsable assets)...
+[2026.01.23-04.03.54:711][449]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BT_EnemyBehaviorTree]
+[2026.01.23-04.03.54:713][449]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AI/BT_EnemyBehaviorTree_Auto1
+[2026.01.23-04.03.54:713][449]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BT_EnemyBehaviorTree_Auto1972A0673482F03A6D10012A2B94E6174.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/Autosaves/Game/Blueprints/AI/BT_EnemyBehaviorTree_Auto1.uasset'
+[2026.01.23-04.03.54:713][449]LogFileHelpers: Auto-saving content packages took 0.003
+[2026.01.23-04.06.16:935][225]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.01.23-04.06.16:943][225]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.01.23-04.06.16:947][225]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.01.23-04.06.16:952][226]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.01.23-04.06.27:175][453]LogContentBrowser: Attempting asset rename: NewBlueprint -> BTS_FindNearestPlayer
+[2026.01.23-04.06.27:179][453]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/AI/BTS_FindNearestPlayer.
+[2026.01.23-04.06.27:180][453]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.01.23-04.06.33:076][ 92]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/BTS_FindNearestPlayer.BTS_FindNearestPlayer
+[2026.01.23-04.06.33:076][ 92]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.01.23-04.07.38:713][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.01.23-04.07.39:340][176]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.23-04.07.39:395][176]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTS_FindNearestPlayer] ([2] browsable assets)...
+[2026.01.23-04.07.39:395][176]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTS_FindNearestPlayer]
+[2026.01.23-04.07.39:395][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BTS_FindNearestPlayer" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BTS_FindNearestPlayer.uasset" SILENT=true
+[2026.01.23-04.07.39:400][176]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BTS_FindNearestPlayer
+[2026.01.23-04.07.39:400][176]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BTS_FindNearestPlayerC4368868497B02ACBCD3F88CBC08EC88.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BTS_FindNearestPlayer.uasset'
+[2026.01.23-04.07.39:402][176]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/AI/BTS_FindNearestPlayer.
+[2026.01.23-04.07.39:407][176]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.079 ms (total: 167.253 ms)
+[2026.01.23-04.07.39:462][176]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.23-04.07.39:462][176]LogContentValidation: Enabled validators:
+[2026.01.23-04.07.39:462][176]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.23-04.07.39:462][176]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.23-04.07.39:462][176]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.23-04.07.39:462][176]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.23-04.07.39:462][176]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.23-04.07.39:462][176]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.23-04.07.39:463][176]AssetCheck: /Game/Blueprints/AI/BTS_FindNearestPlayer Validating asset
+[2026.01.23-04.07.39:475][176]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.23-04.07.44:741][783]LogStreaming: Display: FlushAsyncLoading(490): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.23-04.08.37:348][480]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1014.383545
+[2026.01.23-04.08.37:449][491]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.23-04.08.37:449][491]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1014.475159, Update Interval: 319.726562
+[2026.01.23-04.09.04:592][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.01.23-04.09.05:432][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.23-04.09.05:481][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTS_FindNearestPlayer] ([2] browsable assets)...
+[2026.01.23-04.09.05:481][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTS_FindNearestPlayer]
+[2026.01.23-04.09.05:481][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BTS_FindNearestPlayer" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BTS_FindNearestPlayer.uasset" SILENT=true
+[2026.01.23-04.09.05:485][471]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BTS_FindNearestPlayer
+[2026.01.23-04.09.05:486][471]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BTS_FindNearestPlayer6D98702B4E0976FF59DFF3AA8769F5FE.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BTS_FindNearestPlayer.uasset'
+[2026.01.23-04.09.05:492][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.665 ms (total: 226.918 ms)
+[2026.01.23-04.09.05:545][471]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.23-04.09.05:545][471]LogContentValidation: Enabled validators:
+[2026.01.23-04.09.05:545][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.23-04.09.05:545][471]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.23-04.09.05:546][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.23-04.09.05:546][471]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.23-04.09.05:546][471]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.23-04.09.05:546][471]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.23-04.09.05:546][471]AssetCheck: /Game/Blueprints/AI/BTS_FindNearestPlayer Validating asset
+[2026.01.23-04.09.09:089][891]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.23-04.09.09:097][891]LogUMGEditor: Disabling Slate Post Buffers for multi-window PIE session, currently not supported.
+[2026.01.23-04.09.09:102][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.23-04.09.09:102][891]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2026.01.23-04.09.09:112][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010054s)
+[2026.01.23-04.09.09:112][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.010299s)
+[2026.01.23-04.09.09:131][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.01.23-04.09.09:132][891]LogChaosDD: Creating Chaos Debug Draw Scene for world StartupMap
+[2026.01.23-04.09.09:134][891]LogPlayLevel: PIE: World Init took: (0.001452s)
+[2026.01.23-04.09.09:134][891]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.01.23-04.09.09:135][891]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.23-04.09.09:135][891]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.23-04.09.09:135][891]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.23-04.09.09:135][891]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.23-04.09.09:135][891]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.23-04.09.09:135][891]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.23-04.09.09:135][891]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.23-04.09.09:135][891]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.23-04.09.09:135][891]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.23-04.09.09:135][891]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.23-04.09.09:135][891]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.23-04.09.09:137][891]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.23-04.09.09:153][891]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.01.23-04.09.09:154][891]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.23-04.09.09:154][891]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.23-04.09.09:154][891]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.23-04.09.09:154][891]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.01.23-04.09.09:154][891]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.01.23-04.09.09:156][891]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.01.23-04.09.09:156][891]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.01.23-04.09.09:156][891]LogInit: FAudioDevice initialized with ID 4.
+[2026.01.23-04.09.09:156][891]LogAudio: Display: Audio Device (ID: 4) registered with world 'StartupMap'.
+[2026.01.23-04.09.09:157][891]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.01.23-04.09.09:159][891]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2026.01.23-04.09.09:165][891]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2026.01.22-23.09.09
+[2026.01.23-04.09.09:167][891]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2026.01.23-04.09.09:168][891]LogWorld: Bringing up level for play took: 0.007861
+[2026.01.23-04.09.09:171][891]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 112.500000
+[2026.01.23-04.09.09:171][891]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.01.23-04.09.09:171][891]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.01.23-04.09.09:171][891]LogPushModel: PushModel HandleCreation is now enabled
+[2026.01.23-04.09.09:171][891]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.01.23-04.09.09:172][891]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2026.01.23-04.09.09:172][891]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2026.01.23-04.09.09:172][891]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.01.23-04.09.09:172][891]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2026.01.23-04.09.09:173][891]LogTemp: Warning: Changed Health on BP_Goblin_Slingshot_C_2, Health: 117.500000
+[2026.01.23-04.09.09:173][891]LogTemp: Warning: Changed Health on BP_Goblin_Spear_C_1, Health: 117.500000
+[2026.01.23-04.09.09:174][891]LogTemp: Warning: Changed Health on BP_Goblin_Spear_C_3, Health: 117.500000
+[2026.01.23-04.09.09:174][891]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.23-04.09.09:174][891]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.01.23-04.09.09:174][891]PIE: Server logged in
+[2026.01.23-04.09.09:176][891]PIE: Play in editor total start time 0.079 seconds.
+[2026.01.23-04.09.09:176][891]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.01.23-04.09.09:178][891]LogPlayLevel: PIE: World Init took: (0.001298s)
+[2026.01.23-04.09.09:178][891]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.01.23-04.09.09:178][891]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.23-04.09.09:179][891]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.23-04.09.09:179][891]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.23-04.09.09:179][891]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.23-04.09.09:179][891]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.23-04.09.09:179][891]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.23-04.09.09:179][891]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.23-04.09.09:179][891]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.23-04.09.09:179][891]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.23-04.09.09:179][891]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.23-04.09.09:179][891]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.23-04.09.09:181][891]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.23-04.09.09:195][891]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.01.23-04.09.09:195][891]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.23-04.09.09:195][891]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.23-04.09.09:195][891]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.23-04.09.09:196][891]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.01.23-04.09.09:196][891]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.01.23-04.09.09:198][891]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.01.23-04.09.09:198][891]LogInit: FAudioDevice initialized with ID 5.
+[2026.01.23-04.09.09:198][891]LogAudio: Display: Audio Device (ID: 5) registered with world 'Untitled'.
+[2026.01.23-04.09.09:198][891]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.01.23-04.09.09:198][891]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.01.23-04.09.09:242][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.23-04.09.09:242][891]LogGlobalStatus: UEngine::Browse Started Browse: "127.0.0.1:17777/Game/Maps/StartupMap"
+[2026.01.23-04.09.09:242][891]LogNet: Browse: 127.0.0.1:17777/Game/Maps/StartupMap
+[2026.01.23-04.09.09:242][891]LogPushModel: PushModel HandleCreation is now enabled
+[2026.01.23-04.09.09:242][891]LogNet: InitBase PendingNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.01.23-04.09.09:244][891]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2026.01.23-04.09.09:244][891]LogNet: Created socket for bind address: 0.0.0.0:0
+[2026.01.23-04.09.09:244][891]LogNet: IpConnection_2 setting maximum channels to: 32767
+[2026.01.23-04.09.09:244][891]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.01.23-04.09.09:244][891]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 5
+[2026.01.23-04.09.09:245][891]LogNet: Game client on port 17777, rate 100000
+[2026.01.23-04.09.09:247][891]PIE: Client logged in
+[2026.01.23-04.09.09:249][891]PIE: Play in editor total start time 0.151 seconds.
+[2026.01.23-04.09.09:525][916]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_0
+[2026.01.23-04.09.09:539][918]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_1
+[2026.01.23-04.09.09:647][931]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_2
+[2026.01.23-04.09.09:997][973]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_1
+[2026.01.23-04.09.10:005][974]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_0
+[2026.01.23-04.09.10:122][988]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_2
+[2026.01.23-04.09.10:255][  4]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49551
+[2026.01.23-04.09.10:255][  4]LogHandshake: SendConnectChallenge. Timestamp: 1.174998, Cookie: 009194202200008064049070050022143198045125163253067188026240
+[2026.01.23-04.09.10:257][  4]LogHandshake: Cached server SessionID: 0
+[2026.01.23-04.09.10:257][  4]LogHandshake: SendChallengeResponse. Timestamp: 1.174998, Cookie: 009194202200008064049070050022143198045125163253067188026240
+[2026.01.23-04.09.10:263][  5]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49551
+[2026.01.23-04.09.10:263][  5]LogHandshake: SendChallengeAck. InCookie: 009194202200008064049070050022143198045125163253067188026240
+[2026.01.23-04.09.10:263][  5]LogNet: Server accepting post-challenge connection from: 127.0.0.1:49551
+[2026.01.23-04.09.10:263][  5]LogNet: IpConnection_3 setting maximum channels to: 32767
+[2026.01.23-04.09.10:263][  5]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.01.23-04.09.10:264][  5]LogNet: NotifyAcceptedConnection: Name: StartupMap, TimeStamp: 01/22/26 23:09:10, [UNetConnection] RemoteAddr: 127.0.0.1:49551, Name: IpConnection_3, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.01.23-04.09.10:264][  5]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:49551, Name: IpConnection_3, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.01.23-04.09.10:265][  5]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: Name:PendingNetDriver Def:GameNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.01.23-04.09.10:271][  6]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_StartupMap.StartupMap: Accepted
+[2026.01.23-04.09.10:271][  6]LogNet: Remote platform little endian=1
+[2026.01.23-04.09.10:271][  6]LogNet: This platform little endian=1
+[2026.01.23-04.09.10:275][  6]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2026.01.23-04.09.10:280][  7]LogNet: Login request: ?Name=VC-4620258-1164F37B4A214AB7939820B91B9E118B userId: NULL:VC-4620258-1164F37B4A214AB7939820B91B9E118B platform: NULL
+[2026.01.23-04.09.10:281][  7]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_StartupMap, Game: /Game/Blueprints/Game/BP_AuraGameMode.BP_AuraGameMode_C)
+[2026.01.23-04.09.10:281][  7]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/StartupMap?game=/Game/Blueprints/Game/BP_AuraGameMode.BP_AuraGameMode_C
+[2026.01.23-04.09.10:281][  7]LogWorld: BeginTearingDown for /Temp/Untitled_2
+[2026.01.23-04.09.10:281][  7]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.01.23-04.09.10:281][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.23-04.09.10:300][  7]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.23-04.09.10:302][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.01.23-04.09.10:313][  7]LogAudio: Display: Audio Device (ID: 5) registered with world 'StartupMap'.
+[2026.01.23-04.09.10:313][  7]LogChaosDD: Creating Chaos Debug Draw Scene for world StartupMap
+[2026.01.23-04.09.10:315][  7]LogPlayLevel: PIE: World Init took: (0.001285s)
+[2026.01.23-04.09.10:319][  7]LogWorld: Bringing World /Game/Maps/UEDPIE_1_StartupMap.StartupMap up for play (max tick rate 0) at 2026.01.22-23.09.10
+[2026.01.23-04.09.10:319][  7]LogWorld: Bringing up level for play took: 0.004778
+[2026.01.23-04.09.10:319][  7]LogLoad: Took 0.038548 seconds to LoadMap(/Game/Maps/StartupMap)
+[2026.01.23-04.09.10:319][  7]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/StartupMap
+[2026.01.23-04.09.10:320][  7]LogGlobalStatus: UPendingNetGame::TravelCompleted Pending net game travel completed
+[2026.01.23-04.09.10:327][  8]LogNet: Client netspeed is 100000
+[2026.01.23-04.09.10:327][  8]LogNet: Join request: /Game/Maps/StartupMap?Name=VC-4620258-1164F37B4A214AB7939820B91B9E118B?SplitscreenCount=1
+[2026.01.23-04.09.10:330][  8]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_1, Health: 112.500000
+[2026.01.23-04.09.10:330][  8]LogNet: Join succeeded: VC-4620258-1164F37B4
+[2026.01.23-04.09.10:397][ 10]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.23-04.09.10:397][ 10]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.01.23-04.09.10:405][ 11]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_1
+[2026.01.23-04.09.10:532][ 26]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_0
+[2026.01.23-04.09.10:623][ 37]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_2
+[2026.01.23-04.09.10:990][ 81]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_1
+[2026.01.23-04.09.11:089][ 93]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_2
+[2026.01.23-04.09.11:123][ 97]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_0
+[2026.01.23-04.09.11:505][140]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_1
+[2026.01.23-04.09.11:539][144]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_2
+[2026.01.23-04.09.11:564][147]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_0
+[2026.01.23-04.09.11:987][197]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_2
+[2026.01.23-04.09.12:027][201]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_0
+[2026.01.23-04.09.12:077][207]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_1
+[2026.01.23-04.09.12:455][252]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_2
+[2026.01.23-04.09.12:516][259]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_0
+[2026.01.23-04.09.12:607][270]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_1
+[2026.01.23-04.09.12:991][316]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_0
+[2026.01.23-04.09.13:033][321]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_2
+[2026.01.23-04.09.13:209][342]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_1
+[2026.01.23-04.09.13:451][371]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_0
+[2026.01.23-04.09.13:526][380]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_2
+[2026.01.23-04.09.13:643][394]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_1
+[2026.01.23-04.09.13:944][430]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_0
+[2026.01.23-04.09.13:985][435]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_2
+[2026.01.23-04.09.14:061][444]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_1
+[2026.01.23-04.09.14:437][489]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_0
+[2026.01.23-04.09.14:469][493]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_1
+[2026.01.23-04.09.14:486][495]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_2
+[2026.01.23-04.09.14:942][548]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_0
+[2026.01.23-04.09.14:959][550]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_2
+[2026.01.23-04.09.15:034][559]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_1
+[2026.01.23-04.09.15:394][602]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_2
+[2026.01.23-04.09.15:469][611]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_0
+[2026.01.23-04.09.15:577][624]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_1
+[2026.01.23-04.09.15:887][661]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_2
+[2026.01.23-04.09.16:055][681]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_1
+[2026.01.23-04.09.16:063][682]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_AuraAIController_C_0
+[2026.01.23-04.09.16:557][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.23-04.09.16:557][733]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_StartupMap
+[2026.01.23-04.09.16:557][733]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.23-04.09.16:557][733]LogSlate: Window 'Aura Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2026.01.23-04.09.16:561][733]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.23-04.09.16:562][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.23-04.09.16:563][733]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2026.01.23-04.09.16:563][733]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_3 
+[2026.01.23-04.09.16:563][733]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_3, IsServer: NO, PC: BP_AuraPlayerController_C_0, Owner: BP_AuraPlayerController_C_0, UniqueId: NULL:VC-4620258-1164F37B4A214AB7939820B91B9E118B, Channels: 15, Time: 2026.01.23-04.09.16
+[2026.01.23-04.09.16:563][733]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_3, IsServer: NO, PC: BP_AuraPlayerController_C_0, Owner: BP_AuraPlayerController_C_0, UniqueId: NULL:VC-4620258-1164F37B4A214AB7939820B91B9E118B
+[2026.01.23-04.09.16:563][733]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_3 shut down
+[2026.01.23-04.09.16:563][733]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2026.01.23-04.09.16:564][733]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.23-04.09.16:564][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.23-04.09.16:565][733]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.23-04.09.16:566][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.23-04.09.16:567][733]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2026.01.23-04.09.16:567][733]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_2 
+[2026.01.23-04.09.16:567][733]LogNet: UNetConnection::SendCloseReason:
+[2026.01.23-04.09.16:567][733]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2026.01.23-04.09.16:568][733]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:49551, Name: IpConnection_3, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_2, IsServer: YES, PC: BP_AuraPlayerController_C_1, Owner: BP_AuraPlayerController_C_1, UniqueId: NULL:VC-4620258-1164F37B4A214AB7939820B91B9E118B
+[2026.01.23-04.09.16:568][733]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49551, Name: IpConnection_3, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_2, IsServer: YES, PC: BP_AuraPlayerController_C_1, Owner: BP_AuraPlayerController_C_1, UniqueId: NULL:VC-4620258-1164F37B4A214AB7939820B91B9E118B, Channels: 15, Time: 2026.01.23-04.09.16
+[2026.01.23-04.09.16:568][733]LogNet: UNetConnection::SendCloseReason:
+[2026.01.23-04.09.16:568][733]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2026.01.23-04.09.16:568][733]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49551, Name: IpConnection_3, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_2, IsServer: YES, PC: BP_AuraPlayerController_C_1, Owner: BP_AuraPlayerController_C_1, UniqueId: NULL:VC-4620258-1164F37B4A214AB7939820B91B9E118B
+[2026.01.23-04.09.16:568][733]LogNet: UNetDriver::RemoveClientConnection - Removed address 127.0.0.1:49551 from MappedClientConnections for: [UNetConnection] RemoteAddr: 127.0.0.1:49551, Name: IpConnection_3, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_2, IsServer: YES, PC: BP_AuraPlayerController_C_1, Owner: BP_AuraPlayerController_C_1, UniqueId: NULL:VC-4620258-1164F37B4A214AB7939820B91B9E118B
+[2026.01.23-04.09.16:569][733]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_2 shut down
+[2026.01.23-04.09.16:569][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.23-04.09.16:572][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.23-04.09.16:592][733]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.01.23-04.09.16:592][733]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.01.23-04.09.16:593][733]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.01.23-04.09.16:599][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.23-04.09.16:600][733]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.01.23-04.09.16:600][733]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.01.23-04.09.16:601][733]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.01.23-04.09.16:610][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.01.23-04.09.16:630][734]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2026.01.23-04.09.16:631][734]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2026.01.23-04.09.22:076][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.01.23-04.09.23:033][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.23-04.09.23:080][480]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTS_FindNearestPlayer] ([2] browsable assets)...
+[2026.01.23-04.09.23:080][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTS_FindNearestPlayer]
+[2026.01.23-04.09.23:080][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BTS_FindNearestPlayer" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BTS_FindNearestPlayer.uasset" SILENT=true
+[2026.01.23-04.09.23:082][480]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BTS_FindNearestPlayer
+[2026.01.23-04.09.23:083][480]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BTS_FindNearestPlayerCD6B3EB847E4E39A943A1495269D9CCA.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BTS_FindNearestPlayer.uasset'
+[2026.01.23-04.09.23:089][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.771 ms (total: 283.689 ms)
+[2026.01.23-04.09.23:127][480]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.23-04.09.23:128][480]LogContentValidation: Enabled validators:
+[2026.01.23-04.09.23:128][480]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.23-04.09.23:128][480]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.23-04.09.23:128][480]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.23-04.09.23:128][480]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.23-04.09.23:128][480]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.23-04.09.23:128][480]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.23-04.09.23:128][480]AssetCheck: /Game/Blueprints/AI/BTS_FindNearestPlayer Validating asset
+[2026.01.23-04.09.24:596][655]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.23-04.09.24:603][655]LogUMGEditor: Disabling Slate Post Buffers for multi-window PIE session, currently not supported.
+[2026.01.23-04.09.24:607][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.23-04.09.24:608][655]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2026.01.23-04.09.24:618][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010058s)
+[2026.01.23-04.09.24:618][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.010419s)
+[2026.01.23-04.09.24:635][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.01.23-04.09.24:636][655]LogChaosDD: Creating Chaos Debug Draw Scene for world StartupMap
+[2026.01.23-04.09.24:638][655]LogPlayLevel: PIE: World Init took: (0.001430s)
+[2026.01.23-04.09.24:639][655]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.01.23-04.09.24:639][655]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.23-04.09.24:639][655]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.23-04.09.24:639][655]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.23-04.09.24:639][655]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.23-04.09.24:639][655]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.23-04.09.24:639][655]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.23-04.09.24:639][655]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.23-04.09.24:639][655]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.23-04.09.24:639][655]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.23-04.09.24:639][655]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.23-04.09.24:639][655]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.23-04.09.24:642][655]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.23-04.09.24:656][655]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.01.23-04.09.24:656][655]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.23-04.09.24:656][655]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.23-04.09.24:656][655]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.23-04.09.24:656][655]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.01.23-04.09.24:656][655]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.01.23-04.09.24:659][655]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.01.23-04.09.24:659][655]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.01.23-04.09.24:659][655]LogInit: FAudioDevice initialized with ID 6.
+[2026.01.23-04.09.24:659][655]LogAudio: Display: Audio Device (ID: 6) registered with world 'StartupMap'.
+[2026.01.23-04.09.24:659][655]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.01.23-04.09.24:662][655]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2026.01.23-04.09.24:667][655]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2026.01.22-23.09.24
+[2026.01.23-04.09.24:669][655]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2026.01.23-04.09.24:670][655]LogWorld: Bringing up level for play took: 0.007800
+[2026.01.23-04.09.24:672][655]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 112.500000
+[2026.01.23-04.09.24:673][655]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.01.23-04.09.24:673][655]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.01.23-04.09.24:673][655]LogPushModel: PushModel HandleCreation is now enabled
+[2026.01.23-04.09.24:673][655]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.01.23-04.09.24:673][655]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2026.01.23-04.09.24:673][655]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2026.01.23-04.09.24:673][655]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.01.23-04.09.24:673][655]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2026.01.23-04.09.24:674][655]LogTemp: Warning: Changed Health on BP_Goblin_Slingshot_C_2, Health: 117.500000
+[2026.01.23-04.09.24:674][655]LogTemp: Warning: Changed Health on BP_Goblin_Spear_C_1, Health: 117.500000
+[2026.01.23-04.09.24:675][655]LogTemp: Warning: Changed Health on BP_Goblin_Spear_C_3, Health: 117.500000
+[2026.01.23-04.09.24:675][655]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.23-04.09.24:675][655]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.01.23-04.09.24:675][655]PIE: Server logged in
+[2026.01.23-04.09.24:677][655]PIE: Play in editor total start time 0.074 seconds.
+[2026.01.23-04.09.24:677][655]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.01.23-04.09.24:678][655]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2026.01.23-04.09.24:679][655]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.01.23-04.09.24:679][655]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.23-04.09.24:679][655]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.23-04.09.24:679][655]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.23-04.09.24:679][655]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.23-04.09.24:679][655]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.23-04.09.24:679][655]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.23-04.09.24:679][655]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.23-04.09.24:679][655]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.23-04.09.24:680][655]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.23-04.09.24:680][655]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.23-04.09.24:680][655]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.23-04.09.24:682][655]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.23-04.09.24:695][655]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.01.23-04.09.24:695][655]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.23-04.09.24:695][655]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.23-04.09.24:695][655]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.23-04.09.24:696][655]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.01.23-04.09.24:696][655]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.01.23-04.09.24:698][655]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.01.23-04.09.24:698][655]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.01.23-04.09.24:698][655]LogInit: FAudioDevice initialized with ID 7.
+[2026.01.23-04.09.24:698][655]LogAudio: Display: Audio Device (ID: 7) registered with world 'Untitled'.
+[2026.01.23-04.09.24:698][655]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.01.23-04.09.24:741][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.23-04.09.24:741][655]LogGlobalStatus: UEngine::Browse Started Browse: "127.0.0.1:17777/Game/Maps/StartupMap"
+[2026.01.23-04.09.24:742][655]LogNet: Browse: 127.0.0.1:17777/Game/Maps/StartupMap
+[2026.01.23-04.09.24:742][655]LogPushModel: PushModel HandleCreation is now enabled
+[2026.01.23-04.09.24:742][655]LogNet: InitBase PendingNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.01.23-04.09.24:742][655]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2026.01.23-04.09.24:742][655]LogNet: Created socket for bind address: 0.0.0.0:0
+[2026.01.23-04.09.24:742][655]LogNet: IpConnection_4 setting maximum channels to: 32767
+[2026.01.23-04.09.24:743][655]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.01.23-04.09.24:743][655]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 6
+[2026.01.23-04.09.24:743][655]LogNet: Game client on port 17777, rate 100000
+[2026.01.23-04.09.24:745][655]PIE: Client logged in
+[2026.01.23-04.09.24:747][655]PIE: Play in editor total start time 0.144 seconds.
+[2026.01.23-04.09.25:037][683]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Slingshot_C_2
+[2026.01.23-04.09.25:145][696]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_1
+[2026.01.23-04.09.25:188][701]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_3
+[2026.01.23-04.09.25:562][746]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Slingshot_C_2
+[2026.01.23-04.09.25:653][757]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_1
+[2026.01.23-04.09.25:704][763]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_3
+[2026.01.23-04.09.25:753][769]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57195
+[2026.01.23-04.09.25:753][769]LogHandshake: SendConnectChallenge. Timestamp: 1.165630, Cookie: 034034058023243006175147028127238101244064205230210051126217
+[2026.01.23-04.09.25:754][769]LogHandshake: Cached server SessionID: 0
+[2026.01.23-04.09.25:754][769]LogHandshake: SendChallengeResponse. Timestamp: 1.165630, Cookie: 034034058023243006175147028127238101244064205230210051126217
+[2026.01.23-04.09.25:762][770]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57195
+[2026.01.23-04.09.25:762][770]LogHandshake: SendChallengeAck. InCookie: 034034058023243006175147028127238101244064205230210051126217
+[2026.01.23-04.09.25:762][770]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57195
+[2026.01.23-04.09.25:763][770]LogNet: IpConnection_5 setting maximum channels to: 32767
+[2026.01.23-04.09.25:763][770]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.01.23-04.09.25:763][770]LogNet: NotifyAcceptedConnection: Name: StartupMap, TimeStamp: 01/22/26 23:09:25, [UNetConnection] RemoteAddr: 127.0.0.1:57195, Name: IpConnection_5, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.01.23-04.09.25:763][770]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57195, Name: IpConnection_5, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.01.23-04.09.25:764][770]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: Name:PendingNetDriver Def:GameNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.01.23-04.09.25:770][771]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_StartupMap.StartupMap: Accepted
+[2026.01.23-04.09.25:771][771]LogNet: Remote platform little endian=1
+[2026.01.23-04.09.25:771][771]LogNet: This platform little endian=1
+[2026.01.23-04.09.25:773][771]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2026.01.23-04.09.25:778][772]LogNet: Login request: ?Name=VC-4620258-F3B09FED42A7F9E454C1D5BB41A942C9 userId: NULL:VC-4620258-F3B09FED42A7F9E454C1D5BB41A942C9 platform: NULL
+[2026.01.23-04.09.25:779][772]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_StartupMap, Game: /Game/Blueprints/Game/BP_AuraGameMode.BP_AuraGameMode_C)
+[2026.01.23-04.09.25:779][772]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/StartupMap?game=/Game/Blueprints/Game/BP_AuraGameMode.BP_AuraGameMode_C
+[2026.01.23-04.09.25:779][772]LogWorld: BeginTearingDown for /Temp/Untitled_3
+[2026.01.23-04.09.25:779][772]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.01.23-04.09.25:779][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.23-04.09.25:797][772]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.23-04.09.25:798][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.01.23-04.09.25:810][772]LogAudio: Display: Audio Device (ID: 7) registered with world 'StartupMap'.
+[2026.01.23-04.09.25:810][772]LogChaosDD: Creating Chaos Debug Draw Scene for world StartupMap
+[2026.01.23-04.09.25:812][772]LogPlayLevel: PIE: World Init took: (0.001243s)
+[2026.01.23-04.09.25:816][772]LogWorld: Bringing World /Game/Maps/UEDPIE_1_StartupMap.StartupMap up for play (max tick rate 0) at 2026.01.22-23.09.25
+[2026.01.23-04.09.25:817][772]LogWorld: Bringing up level for play took: 0.004886
+[2026.01.23-04.09.25:817][772]LogLoad: Took 0.036993 seconds to LoadMap(/Game/Maps/StartupMap)
+[2026.01.23-04.09.25:817][772]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/StartupMap
+[2026.01.23-04.09.25:817][772]LogGlobalStatus: UPendingNetGame::TravelCompleted Pending net game travel completed
+[2026.01.23-04.09.25:824][773]LogNet: Client netspeed is 100000
+[2026.01.23-04.09.25:824][773]LogNet: Join request: /Game/Maps/StartupMap?Name=VC-4620258-F3B09FED42A7F9E454C1D5BB41A942C9?SplitscreenCount=1
+[2026.01.23-04.09.25:827][773]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_1, Health: 112.500000
+[2026.01.23-04.09.25:827][773]LogNet: Join succeeded: VC-4620258-F3B09FED4
+[2026.01.23-04.09.25:895][775]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.23-04.09.25:895][775]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.01.23-04.09.26:138][804]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_3
+[2026.01.23-04.09.26:155][806]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Slingshot_C_2
+[2026.01.23-04.09.26:205][812]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_1
+[2026.01.23-04.09.26:594][858]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_3
+[2026.01.23-04.09.26:660][866]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_1
+[2026.01.23-04.09.26:685][869]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Slingshot_C_2
+[2026.01.23-04.09.27:045][912]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_3
+[2026.01.23-04.09.27:078][916]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_1
+[2026.01.23-04.09.27:120][921]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Slingshot_C_2
+[2026.01.23-04.09.27:583][976]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_1
+[2026.01.23-04.09.27:625][981]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_3
+[2026.01.23-04.09.27:634][982]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Slingshot_C_2
+[2026.01.23-04.09.28:058][ 33]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_3
+[2026.01.23-04.09.28:109][ 39]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_1
+[2026.01.23-04.09.28:184][ 48]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Slingshot_C_2
+[2026.01.23-04.09.28:483][ 84]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_3
+[2026.01.23-04.09.28:625][101]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_1
+[2026.01.23-04.09.28:784][120]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Slingshot_C_2
+[2026.01.23-04.09.28:942][139]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_3
+[2026.01.23-04.09.29:159][165]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_1
+[2026.01.23-04.09.29:250][176]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Slingshot_C_2
+[2026.01.23-04.09.29:501][206]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_3
+[2026.01.23-04.09.29:717][232]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_1
+[2026.01.23-04.09.29:769][238]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Slingshot_C_2
+[2026.01.23-04.09.29:984][264]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_3
+[2026.01.23-04.09.30:226][293]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_1
+[2026.01.23-04.09.30:277][299]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Slingshot_C_2
+[2026.01.23-04.09.30:397][313]LogBlueprintUserMessages: [BTS_FindNearestPlayer_C_0] Server: BP_Goblin_Spear_C_3
+[2026.01.23-04.09.30:658][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.23-04.09.30:658][334]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_StartupMap
+[2026.01.23-04.09.30:658][334]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.23-04.09.30:658][334]LogSlate: Window 'Aura Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2026.01.23-04.09.30:661][334]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.23-04.09.30:663][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.23-04.09.30:663][334]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2026.01.23-04.09.30:663][334]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_5 
+[2026.01.23-04.09.30:664][334]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_5, IsServer: NO, PC: BP_AuraPlayerController_C_0, Owner: BP_AuraPlayerController_C_0, UniqueId: NULL:VC-4620258-F3B09FED42A7F9E454C1D5BB41A942C9, Channels: 15, Time: 2026.01.23-04.09.30
+[2026.01.23-04.09.30:664][334]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_5, IsServer: NO, PC: BP_AuraPlayerController_C_0, Owner: BP_AuraPlayerController_C_0, UniqueId: NULL:VC-4620258-F3B09FED42A7F9E454C1D5BB41A942C9
+[2026.01.23-04.09.30:664][334]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_5 shut down
+[2026.01.23-04.09.30:664][334]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2026.01.23-04.09.30:664][334]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.23-04.09.30:665][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.23-04.09.30:665][334]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.23-04.09.30:667][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.23-04.09.30:667][334]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2026.01.23-04.09.30:667][334]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_4 
+[2026.01.23-04.09.30:668][334]LogNet: UNetConnection::SendCloseReason:
+[2026.01.23-04.09.30:668][334]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2026.01.23-04.09.30:668][334]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57195, Name: IpConnection_5, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_4, IsServer: YES, PC: BP_AuraPlayerController_C_1, Owner: BP_AuraPlayerController_C_1, UniqueId: NULL:VC-4620258-F3B09FED42A7F9E454C1D5BB41A942C9
+[2026.01.23-04.09.30:668][334]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57195, Name: IpConnection_5, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_4, IsServer: YES, PC: BP_AuraPlayerController_C_1, Owner: BP_AuraPlayerController_C_1, UniqueId: NULL:VC-4620258-F3B09FED42A7F9E454C1D5BB41A942C9, Channels: 15, Time: 2026.01.23-04.09.30
+[2026.01.23-04.09.30:668][334]LogNet: UNetConnection::SendCloseReason:
+[2026.01.23-04.09.30:668][334]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2026.01.23-04.09.30:668][334]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57195, Name: IpConnection_5, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_4, IsServer: YES, PC: BP_AuraPlayerController_C_1, Owner: BP_AuraPlayerController_C_1, UniqueId: NULL:VC-4620258-F3B09FED42A7F9E454C1D5BB41A942C9
+[2026.01.23-04.09.30:668][334]LogNet: UNetDriver::RemoveClientConnection - Removed address 127.0.0.1:57195 from MappedClientConnections for: [UNetConnection] RemoteAddr: 127.0.0.1:57195, Name: IpConnection_5, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_4, IsServer: YES, PC: BP_AuraPlayerController_C_1, Owner: BP_AuraPlayerController_C_1, UniqueId: NULL:VC-4620258-F3B09FED42A7F9E454C1D5BB41A942C9
+[2026.01.23-04.09.30:668][334]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_4 shut down
+[2026.01.23-04.09.30:668][334]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.23-04.09.30:672][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.23-04.09.30:689][334]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.01.23-04.09.30:689][334]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.01.23-04.09.30:692][334]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.01.23-04.09.30:697][334]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.23-04.09.30:697][334]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.01.23-04.09.30:697][334]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.01.23-04.09.30:699][334]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.01.23-04.09.30:703][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.23-04.09.30:708][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.01.23-04.09.30:729][335]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2026.01.23-04.09.30:730][335]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2026.01.23-04.09.37:007][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.01.23-04.09.37:899][181]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.23-04.09.37:929][181]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTS_FindNearestPlayer] ([2] browsable assets)...
+[2026.01.23-04.09.37:929][181]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTS_FindNearestPlayer]
+[2026.01.23-04.09.37:929][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BTS_FindNearestPlayer" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BTS_FindNearestPlayer.uasset" SILENT=true
+[2026.01.23-04.09.37:931][181]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BTS_FindNearestPlayer
+[2026.01.23-04.09.37:932][181]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BTS_FindNearestPlayer16838310415EA62FE5F393AC0FFA1C25.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BTS_FindNearestPlayer.uasset'
+[2026.01.23-04.09.37:937][181]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.522 ms (total: 322.211 ms)
+[2026.01.23-04.09.37:993][181]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.23-04.09.37:994][181]LogContentValidation: Enabled validators:
+[2026.01.23-04.09.37:994][181]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.23-04.09.37:994][181]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.23-04.09.37:994][181]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.23-04.09.37:994][181]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.23-04.09.37:994][181]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.23-04.09.37:994][181]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.23-04.09.37:994][181]AssetCheck: /Game/Blueprints/AI/BTS_FindNearestPlayer Validating asset
