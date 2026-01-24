@@ -102,6 +102,8 @@
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Maps/EQS_TestingMap.umap",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/EQS/BP_EQSTestingPawn.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/EQS/EQ_FindRangedAttackPosition.uasset",
+				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/EQS/EQS_PlayerContext.uasset",
+				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Dungeon/SM_Tile_3x3x3.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraPrimaryAttributes.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraSecondaryAttributes.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraVitalAttributes.uasset",
