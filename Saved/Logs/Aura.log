@@ -2963,3 +2963,430 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.24-21.34.40:851][481]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.24-21.34.40:851][481]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2046.353760, Update Interval: 329.947815
 [2026.01.24-21.35.40:879][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.01.24-21.37.45:253][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.01.24-21.37.45:719][  0]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.01.24-21.37.45:744][  0]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.01.24-21.38.39:410][429]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-21.38.39:446][429]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BT_EnemyBehaviorTree] ([1] browsable assets)...
+[2026.01.24-21.38.39:446][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BT_EnemyBehaviorTree]
+[2026.01.24-21.38.39:446][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BT_EnemyBehaviorTree" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BT_EnemyBehaviorTree.uasset" SILENT=true
+[2026.01.24-21.38.39:449][429]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BT_EnemyBehaviorTree
+[2026.01.24-21.38.39:450][429]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BT_EnemyBehaviorTreeFA2ABFB54FBC18786128B9B6F1A00AA0.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BT_EnemyBehaviorTree.uasset'
+[2026.01.24-21.38.39:457][429]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.278 ms (total: 559.010 ms)
+[2026.01.24-21.38.39:513][429]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-21.38.39:513][429]LogContentValidation: Enabled validators:
+[2026.01.24-21.38.39:513][429]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-21.38.39:513][429]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-21.38.39:513][429]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-21.38.39:513][429]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-21.38.39:513][429]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-21.38.39:513][429]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-21.38.39:513][429]AssetCheck: /Game/Blueprints/AI/BT_EnemyBehaviorTree Validating asset
+[2026.01.24-21.39.07:398][733]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.01.24-21.39.07:443][734]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.01.24-21.39.10:574][ 71]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Character/Goblin_Spear/ABP_Goblin_Spear.ABP_Goblin_Spear
+[2026.01.24-21.39.10:577][ 71]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.01.24-21.39.10:600][ 71]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.01.24-21.39.10:604][ 71]LogStreaming: Display: FlushAsyncLoading(486): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.24-21.39.10:678][ 71]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-21.39.11:116][ 71]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.01.24-21.39.11:380][ 71]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.01.24-21.39.11:515][ 74]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.01.24-21.39.11:533][ 75]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.01.24-21.39.24:040][546]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Assets/Enemies/Goblin/Animations/Spear/BS_GoblinSpear_IdleRun.BS_GoblinSpear_IdleRun
+[2026.01.24-21.39.24:041][546]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.01.24-21.39.24:046][546]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.24-21.39.24:270][546]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.01.24-21.39.24:740][547]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.01.24-21.39.58:843][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.01.24-21.39.58:845][504]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartupMap' took 0.048
+[2026.01.24-21.39.58:846][504]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Character/Goblin_Spear/ABP_Goblin_Spear] ([2] browsable assets)...
+[2026.01.24-21.39.58:851][504]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Character/Goblin_Spear/ABP_Goblin_Spear.ABP_Goblin_Spear]
+[2026.01.24-21.39.58:851][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Goblin_Spear/ABP_Goblin_Spear]
+[2026.01.24-21.39.58:853][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Character/Goblin_Spear/ABP_Goblin_Spear_Auto1
+[2026.01.24-21.39.58:853][504]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/ABP_Goblin_Spear_Auto13A4E8B9D4FF452EF19D5F3912E2CBCC8.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/Autosaves/Game/Blueprints/Character/Goblin_Spear/ABP_Goblin_Spear_Auto1.uasset'
+[2026.01.24-21.39.58:854][504]LogFileHelpers: Auto-saving content packages took 0.010
+[2026.01.24-21.40.12:341][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-21.40.12:397][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Enemies/Goblin/Animations/Spear/BS_GoblinSpear_IdleRun] ([1] browsable assets)...
+[2026.01.24-21.40.12:403][111]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/Assets/Enemies/Goblin/Animations/Spear/BS_GoblinSpear_IdleRun.BS_GoblinSpear_IdleRun]
+[2026.01.24-21.40.12:403][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Goblin/Animations/Spear/BS_GoblinSpear_IdleRun]
+[2026.01.24-21.40.12:406][111]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Goblin/Animations/Spear/BS_GoblinSpear_IdleRun
+[2026.01.24-21.40.12:406][111]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BS_GoblinSpear_IdleRun0A9C65E24759842EDE25E4B88D8AC2D8.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Goblin/Animations/Spear/BS_GoblinSpear_IdleRun.uasset'
+[2026.01.24-21.40.12:413][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.491 ms (total: 630.501 ms)
+[2026.01.24-21.40.12:445][111]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-21.40.12:445][111]LogContentValidation: Enabled validators:
+[2026.01.24-21.40.12:445][111]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-21.40.12:445][111]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-21.40.12:445][111]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-21.40.12:445][111]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-21.40.12:445][111]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-21.40.12:445][111]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-21.40.12:445][111]AssetCheck: /Game/Assets/Enemies/Goblin/Animations/Spear/BS_GoblinSpear_IdleRun Validating asset
+[2026.01.24-21.40.12:461][111]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-21.40.16:488][591]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.24-21.40.16:503][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.24-21.40.16:504][591]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2026.01.24-21.40.16:513][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010135s)
+[2026.01.24-21.40.16:513][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.010432s)
+[2026.01.24-21.40.16:535][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.01.24-21.40.16:536][591]LogChaosDD: Creating Chaos Debug Draw Scene for world StartupMap
+[2026.01.24-21.40.16:538][591]LogPlayLevel: PIE: World Init took: (0.001342s)
+[2026.01.24-21.40.16:538][591]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.01.24-21.40.16:538][591]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.24-21.40.16:539][591]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.24-21.40.16:539][591]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.24-21.40.16:539][591]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.24-21.40.16:539][591]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.24-21.40.16:539][591]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.24-21.40.16:539][591]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.24-21.40.16:539][591]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.24-21.40.16:539][591]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.24-21.40.16:539][591]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.24-21.40.16:539][591]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.24-21.40.16:541][591]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.24-21.40.16:557][591]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.01.24-21.40.16:557][591]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.24-21.40.16:557][591]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.24-21.40.16:558][591]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.24-21.40.16:558][591]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.01.24-21.40.16:558][591]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.01.24-21.40.16:561][591]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.01.24-21.40.16:561][591]LogInit: FAudioDevice initialized with ID 10.
+[2026.01.24-21.40.16:561][591]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.01.24-21.40.16:561][591]LogAudio: Display: Audio Device (ID: 10) registered with world 'StartupMap'.
+[2026.01.24-21.40.16:561][591]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.01.24-21.40.16:563][591]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2026.01.24-21.40.16:569][591]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2026.01.24-16.40.16
+[2026.01.24-21.40.16:571][591]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.01.24-21.40.16:572][591]LogWorld: Bringing up level for play took: 0.008522
+[2026.01.24-21.40.16:575][591]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 112.500000
+[2026.01.24-21.40.16:576][591]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.01.24-21.40.16:576][591]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.01.24-21.40.16:576][591]LogPushModel: PushModel HandleCreation is now enabled
+[2026.01.24-21.40.16:576][591]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.01.24-21.40.16:576][591]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2026.01.24-21.40.16:576][591]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2026.01.24-21.40.16:576][591]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.01.24-21.40.16:576][591]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_8 IpNetDriver listening on port 17777
+[2026.01.24-21.40.16:577][591]LogTemp: Warning: Changed Health on BP_Goblin_Slingshot_C_2, Health: 117.500000
+[2026.01.24-21.40.16:578][591]LogTemp: Warning: Changed Health on BP_Goblin_Spear_C_1, Health: 562.500000
+[2026.01.24-21.40.16:578][591]LogTemp: Warning: Changed Health on BP_Goblin_Spear_C_3, Health: 117.500000
+[2026.01.24-21.40.16:578][591]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.24-21.40.16:578][591]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.01.24-21.40.16:579][591]PIE: Server logged in
+[2026.01.24-21.40.16:580][591]PIE: Play in editor total start time 0.082 seconds.
+[2026.01.24-21.40.38:940][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.24-21.40.38:940][250]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2026.01.24-21.40.38:940][250]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.24-21.40.38:940][250]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-21.40.38:941][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-21.40.38:942][250]LogNet: World NetDriver shutdown IpNetDriver_8 [GameNetDriver]
+[2026.01.24-21.40.38:943][250]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_8 
+[2026.01.24-21.40.38:943][250]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_8 shut down
+[2026.01.24-21.40.38:943][250]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.24-21.40.38:947][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-21.40.38:967][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.24-21.40.38:968][250]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.01.24-21.40.38:968][250]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.01.24-21.40.38:970][250]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.01.24-21.40.38:980][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.01.24-21.40.39:037][251]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.01.24-21.40.47:615][339]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2413.132080
+[2026.01.24-21.40.48:614][342]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-21.40.48:614][342]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2413.798340, Update Interval: 340.478516
+[2026.01.24-21.42.37:862][945]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-21.42.37:862][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-21.42.37:895][945]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-21.42.37:895][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-21.42.37:925][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.01.24-21.42.39:974][185]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-21.42.39:974][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-21.42.39:990][185]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-21.42.39:990][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-21.42.40:016][185]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-21.42.40:016][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-21.42.40:043][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.01.24-21.45.00:070][555]LogSlate: Window 'Save Asset As' being destroyed
+[2026.01.24-21.45.00:081][555]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/BTT_GoAroundTarget.BTT_GoAroundTarget
+[2026.01.24-21.45.00:082][555]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.01.24-21.45.00:156][555]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/AI/BTT_GoAroundTarget.
+[2026.01.24-21.45.21:002][779]LogSlate: Took 0.007453 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.01.24-21.45.43:539][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.01.24-21.45.44:286][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-21.45.44:343][550]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTT_GoAroundTarget] ([2] browsable assets)...
+[2026.01.24-21.45.44:343][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTT_GoAroundTarget]
+[2026.01.24-21.45.44:343][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BTT_GoAroundTarget" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BTT_GoAroundTarget.uasset" SILENT=true
+[2026.01.24-21.45.44:345][550]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BTT_GoAroundTarget
+[2026.01.24-21.45.44:346][550]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BTT_GoAroundTarget256A04524AC480F669EC57891D761D5F.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BTT_GoAroundTarget.uasset'
+[2026.01.24-21.45.44:347][550]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/AI/BTT_GoAroundTarget.
+[2026.01.24-21.45.44:354][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.053 ms (total: 698.554 ms)
+[2026.01.24-21.45.44:406][550]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-21.45.44:408][550]LogContentValidation: Enabled validators:
+[2026.01.24-21.45.44:408][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-21.45.44:408][550]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-21.45.44:408][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-21.45.44:408][550]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-21.45.44:408][550]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-21.45.44:408][550]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-21.45.44:408][550]AssetCheck: /Game/Blueprints/AI/BTT_GoAroundTarget Validating asset
+[2026.01.24-21.45.44:419][550]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-21.45.52:584][497]LogStreaming: Display: FlushAsyncLoading(492): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.24-21.46.00:470][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-21.46.00:510][439]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BT_EnemyBehaviorTree] ([1] browsable assets)...
+[2026.01.24-21.46.00:510][439]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BT_EnemyBehaviorTree]
+[2026.01.24-21.46.00:510][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BT_EnemyBehaviorTree" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BT_EnemyBehaviorTree.uasset" SILENT=true
+[2026.01.24-21.46.00:512][439]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BT_EnemyBehaviorTree
+[2026.01.24-21.46.00:513][439]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BT_EnemyBehaviorTree2C8C2B11464C216FD0A061B076CCB08F.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BT_EnemyBehaviorTree.uasset'
+[2026.01.24-21.46.00:513][439]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BB_EnemyBlackboard] ([1] browsable assets)...
+[2026.01.24-21.46.00:513][439]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BB_EnemyBlackboard]
+[2026.01.24-21.46.00:513][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BB_EnemyBlackboard" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BB_EnemyBlackboard.uasset" SILENT=true
+[2026.01.24-21.46.00:515][439]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BB_EnemyBlackboard
+[2026.01.24-21.46.00:516][439]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BB_EnemyBlackboard4D4E2EB745B16169A3650D9FA9BF2591.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BB_EnemyBlackboard.uasset'
+[2026.01.24-21.46.00:522][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.424 ms (total: 750.979 ms)
+[2026.01.24-21.46.00:574][439]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.24-21.46.00:574][439]LogContentValidation: Enabled validators:
+[2026.01.24-21.46.00:574][439]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-21.46.00:574][439]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-21.46.00:574][439]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-21.46.00:574][439]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-21.46.00:574][439]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-21.46.00:574][439]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-21.46.00:574][439]AssetCheck: /Game/Blueprints/AI/BT_EnemyBehaviorTree Validating asset
+[2026.01.24-21.46.00:574][439]AssetCheck: /Game/Blueprints/AI/BB_EnemyBlackboard Validating asset
+[2026.01.24-21.47.05:071][743]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2790.575684
+[2026.01.24-21.47.05:179][756]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-21.47.05:179][756]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2790.675537, Update Interval: 338.359924
+[2026.01.24-21.47.06:220][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.01.24-21.47.15:178][943]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-21.47.15:227][943]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BT_EnemyBehaviorTree] ([1] browsable assets)...
+[2026.01.24-21.47.15:227][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BT_EnemyBehaviorTree]
+[2026.01.24-21.47.15:228][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BT_EnemyBehaviorTree" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BT_EnemyBehaviorTree.uasset" SILENT=true
+[2026.01.24-21.47.15:231][943]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BT_EnemyBehaviorTree
+[2026.01.24-21.47.15:231][943]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BT_EnemyBehaviorTreeA8AA187444DA660490ACA7BDD05183B5.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BT_EnemyBehaviorTree.uasset'
+[2026.01.24-21.47.15:237][943]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.851 ms (total: 809.830 ms)
+[2026.01.24-21.47.15:273][943]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-21.47.15:273][943]LogContentValidation: Enabled validators:
+[2026.01.24-21.47.15:273][943]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-21.47.15:273][943]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-21.47.15:273][943]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-21.47.15:273][943]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-21.47.15:273][943]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-21.47.15:273][943]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-21.47.15:273][943]AssetCheck: /Game/Blueprints/AI/BT_EnemyBehaviorTree Validating asset
+[2026.01.24-21.49.28:471][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.01.24-21.49.29:295][737]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-21.49.29:341][737]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTT_GoAroundTarget] ([2] browsable assets)...
+[2026.01.24-21.49.29:341][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTT_GoAroundTarget]
+[2026.01.24-21.49.29:341][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BTT_GoAroundTarget" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BTT_GoAroundTarget.uasset" SILENT=true
+[2026.01.24-21.49.29:345][737]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BTT_GoAroundTarget
+[2026.01.24-21.49.29:346][737]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BTT_GoAroundTarget5C302E984E174C2B09510BB65E5C7A0D.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BTT_GoAroundTarget.uasset'
+[2026.01.24-21.49.29:352][737]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.108 ms (total: 866.939 ms)
+[2026.01.24-21.49.29:391][737]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-21.49.29:391][737]LogContentValidation: Enabled validators:
+[2026.01.24-21.49.29:391][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-21.49.29:391][737]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-21.49.29:391][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-21.49.29:391][737]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-21.49.29:391][737]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-21.49.29:391][737]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-21.49.29:391][737]AssetCheck: /Game/Blueprints/AI/BTT_GoAroundTarget Validating asset
+[2026.01.24-21.50.27:475][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.01.24-21.50.28:228][349]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-21.50.28:273][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTT_GoAroundTarget] ([2] browsable assets)...
+[2026.01.24-21.50.28:273][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTT_GoAroundTarget]
+[2026.01.24-21.50.28:273][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BTT_GoAroundTarget" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BTT_GoAroundTarget.uasset" SILENT=true
+[2026.01.24-21.50.28:278][349]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BTT_GoAroundTarget
+[2026.01.24-21.50.28:278][349]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BTT_GoAroundTargetEBCCF2F14ADF429A9AFBFAA2F591217B.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BTT_GoAroundTarget.uasset'
+[2026.01.24-21.50.28:284][349]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.207 ms (total: 923.147 ms)
+[2026.01.24-21.50.28:340][349]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-21.50.28:341][349]LogContentValidation: Enabled validators:
+[2026.01.24-21.50.28:341][349]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-21.50.28:341][349]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-21.50.28:341][349]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-21.50.28:341][349]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-21.50.28:341][349]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-21.50.28:341][349]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-21.50.28:341][349]AssetCheck: /Game/Blueprints/AI/BTT_GoAroundTarget Validating asset
+[2026.01.24-21.50.58:520][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.01.24-21.50.59:301][210]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-21.50.59:356][210]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTT_GoAroundTarget] ([2] browsable assets)...
+[2026.01.24-21.50.59:356][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTT_GoAroundTarget]
+[2026.01.24-21.50.59:356][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BTT_GoAroundTarget" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BTT_GoAroundTarget.uasset" SILENT=true
+[2026.01.24-21.50.59:360][210]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BTT_GoAroundTarget
+[2026.01.24-21.50.59:360][210]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BTT_GoAroundTarget6DE8FCCD489270BA87351F8A24F4BAC9.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BTT_GoAroundTarget.uasset'
+[2026.01.24-21.50.59:367][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.762 ms (total: 988.909 ms)
+[2026.01.24-21.50.59:405][210]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-21.50.59:405][210]LogContentValidation: Enabled validators:
+[2026.01.24-21.50.59:405][210]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-21.50.59:405][210]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-21.50.59:405][210]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-21.50.59:405][210]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-21.50.59:405][210]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-21.50.59:405][210]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-21.50.59:405][210]AssetCheck: /Game/Blueprints/AI/BTT_GoAroundTarget Validating asset
+[2026.01.24-21.51.00:633][357]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-21.51.00:674][357]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTT_GoAroundTarget] ([2] browsable assets)...
+[2026.01.24-21.51.00:674][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTT_GoAroundTarget]
+[2026.01.24-21.51.00:674][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BTT_GoAroundTarget" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BTT_GoAroundTarget.uasset" SILENT=true
+[2026.01.24-21.51.00:678][357]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BTT_GoAroundTarget
+[2026.01.24-21.51.00:678][357]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BTT_GoAroundTarget2BE3DE6948E810DF2E44C084D50A1B46.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BTT_GoAroundTarget.uasset'
+[2026.01.24-21.51.00:685][357]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.252 ms (total: 1.04 sec)
+[2026.01.24-21.51.00:738][357]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-21.51.00:738][357]LogContentValidation: Enabled validators:
+[2026.01.24-21.51.00:738][357]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-21.51.00:740][357]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-21.51.00:740][357]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-21.51.00:740][357]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-21.51.00:740][357]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-21.51.00:740][357]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-21.51.00:740][357]AssetCheck: /Game/Blueprints/AI/BTT_GoAroundTarget Validating asset
+[2026.01.24-21.52.38:948][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.01.24-21.52.38:950][959]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartupMap' took 0.027
+[2026.01.24-21.52.38:951][959]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BT_EnemyBehaviorTree] ([1] browsable assets)...
+[2026.01.24-21.52.38:951][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BT_EnemyBehaviorTree]
+[2026.01.24-21.52.38:954][959]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AI/BT_EnemyBehaviorTree_Auto2
+[2026.01.24-21.52.38:954][959]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BT_EnemyBehaviorTree_Auto20E65E32E431EF335A6848585EB3CB5E8.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/Autosaves/Game/Blueprints/AI/BT_EnemyBehaviorTree_Auto2.uasset'
+[2026.01.24-21.52.38:955][959]LogFileHelpers: Auto-saving content packages took 0.005
+[2026.01.24-21.52.44:186][579]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-21.52.44:239][579]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BT_EnemyBehaviorTree] ([1] browsable assets)...
+[2026.01.24-21.52.44:239][579]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BT_EnemyBehaviorTree]
+[2026.01.24-21.52.44:239][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BT_EnemyBehaviorTree" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BT_EnemyBehaviorTree.uasset" SILENT=true
+[2026.01.24-21.52.44:243][579]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BT_EnemyBehaviorTree
+[2026.01.24-21.52.44:243][579]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BT_EnemyBehaviorTree3C8219FA4BA37C68BEDD86A8D55C6154.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BT_EnemyBehaviorTree.uasset'
+[2026.01.24-21.52.44:249][579]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.920 ms (total: 1.10 sec)
+[2026.01.24-21.52.44:304][579]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-21.52.44:304][579]LogContentValidation: Enabled validators:
+[2026.01.24-21.52.44:304][579]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-21.52.44:304][579]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-21.52.44:304][579]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-21.52.44:304][579]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-21.52.44:304][579]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-21.52.44:304][579]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-21.52.44:304][579]AssetCheck: /Game/Blueprints/AI/BT_EnemyBehaviorTree Validating asset
+[2026.01.24-21.53.24:420][112]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3169.934082
+[2026.01.24-21.53.24:511][123]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-21.53.24:512][123]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3170.017578, Update Interval: 346.028625
+[2026.01.24-21.53.31:244][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-21.53.31:289][927]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BT_EnemyBehaviorTree] ([1] browsable assets)...
+[2026.01.24-21.53.31:289][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BT_EnemyBehaviorTree]
+[2026.01.24-21.53.31:289][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BT_EnemyBehaviorTree" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BT_EnemyBehaviorTree.uasset" SILENT=true
+[2026.01.24-21.53.31:293][927]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BT_EnemyBehaviorTree
+[2026.01.24-21.53.31:293][927]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BT_EnemyBehaviorTree9817A69045DBE36FF6072D99E16B6353.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BT_EnemyBehaviorTree.uasset'
+[2026.01.24-21.53.31:300][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.655 ms (total: 1.16 sec)
+[2026.01.24-21.53.31:357][927]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-21.53.31:357][927]LogContentValidation: Enabled validators:
+[2026.01.24-21.53.31:357][927]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-21.53.31:357][927]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-21.53.31:357][927]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-21.53.31:357][927]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-21.53.31:357][927]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-21.53.31:357][927]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-21.53.31:357][927]AssetCheck: /Game/Blueprints/AI/BT_EnemyBehaviorTree Validating asset
+[2026.01.24-21.53.35:597][293]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.24-21.53.35:612][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.24-21.53.35:635][293]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2026.01.24-21.53.35:646][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010735s)
+[2026.01.24-21.53.35:646][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.011011s)
+[2026.01.24-21.53.35:668][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.01.24-21.53.35:670][293]LogChaosDD: Creating Chaos Debug Draw Scene for world StartupMap
+[2026.01.24-21.53.35:671][293]LogPlayLevel: PIE: World Init took: (0.001420s)
+[2026.01.24-21.53.35:671][293]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.01.24-21.53.35:671][293]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.24-21.53.35:671][293]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.24-21.53.35:671][293]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.24-21.53.35:672][293]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.24-21.53.35:672][293]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.24-21.53.35:672][293]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.24-21.53.35:672][293]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.24-21.53.35:672][293]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.24-21.53.35:672][293]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.24-21.53.35:672][293]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.24-21.53.35:672][293]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.24-21.53.35:674][293]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.24-21.53.35:689][293]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.01.24-21.53.35:690][293]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.24-21.53.35:690][293]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.24-21.53.35:690][293]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.24-21.53.35:691][293]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.01.24-21.53.35:691][293]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.01.24-21.53.35:693][293]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.01.24-21.53.35:693][293]LogInit: FAudioDevice initialized with ID 11.
+[2026.01.24-21.53.35:693][293]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.01.24-21.53.35:693][293]LogAudio: Display: Audio Device (ID: 11) registered with world 'StartupMap'.
+[2026.01.24-21.53.35:693][293]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.01.24-21.53.35:697][293]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2026.01.24-21.53.35:702][293]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2026.01.24-16.53.35
+[2026.01.24-21.53.35:704][293]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2026.01.24-21.53.35:705][293]LogWorld: Bringing up level for play took: 0.008733
+[2026.01.24-21.53.35:708][293]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 112.500000
+[2026.01.24-21.53.35:709][293]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.01.24-21.53.35:709][293]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.01.24-21.53.35:709][293]LogPushModel: PushModel HandleCreation is now enabled
+[2026.01.24-21.53.35:709][293]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.01.24-21.53.35:709][293]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2026.01.24-21.53.35:710][293]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2026.01.24-21.53.35:710][293]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.01.24-21.53.35:710][293]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_9 IpNetDriver listening on port 17777
+[2026.01.24-21.53.35:710][293]LogTemp: Warning: Changed Health on BP_Goblin_Slingshot_C_2, Health: 117.500000
+[2026.01.24-21.53.35:711][293]LogTemp: Warning: Changed Health on BP_Goblin_Spear_C_1, Health: 562.500000
+[2026.01.24-21.53.35:711][293]LogTemp: Warning: Changed Health on BP_Goblin_Spear_C_3, Health: 117.500000
+[2026.01.24-21.53.35:711][293]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.24-21.53.35:711][293]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.01.24-21.53.35:712][293]PIE: Server logged in
+[2026.01.24-21.53.35:714][293]PIE: Play in editor total start time 0.108 seconds.
+[2026.01.24-21.54.16:289][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.24-21.54.16:289][152]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2026.01.24-21.54.16:289][152]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.24-21.54.16:290][152]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-21.54.16:292][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-21.54.16:292][152]LogNet: World NetDriver shutdown IpNetDriver_9 [GameNetDriver]
+[2026.01.24-21.54.16:292][152]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_9 
+[2026.01.24-21.54.16:292][152]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_9 shut down
+[2026.01.24-21.54.16:292][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.24-21.54.16:296][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-21.54.16:318][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.24-21.54.16:318][152]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.01.24-21.54.16:318][152]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.01.24-21.54.16:320][152]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.01.24-21.54.16:327][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.01.24-21.54.16:378][153]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2026.01.24-21.56.40:921][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-21.56.40:972][926]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BT_EnemyBehaviorTree] ([1] browsable assets)...
+[2026.01.24-21.56.40:973][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BT_EnemyBehaviorTree]
+[2026.01.24-21.56.40:973][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BT_EnemyBehaviorTree" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BT_EnemyBehaviorTree.uasset" SILENT=true
+[2026.01.24-21.56.40:976][926]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BT_EnemyBehaviorTree
+[2026.01.24-21.56.40:976][926]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BT_EnemyBehaviorTree4B68D7B64E13B0E27622D1B9ECD2709B.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BT_EnemyBehaviorTree.uasset'
+[2026.01.24-21.56.40:983][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.112 ms (total: 1.22 sec)
+[2026.01.24-21.56.41:035][926]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-21.56.41:036][926]LogContentValidation: Enabled validators:
+[2026.01.24-21.56.41:036][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-21.56.41:036][926]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-21.56.41:036][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-21.56.41:036][926]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-21.56.41:036][926]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-21.56.41:036][926]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-21.56.41:036][926]AssetCheck: /Game/Blueprints/AI/BT_EnemyBehaviorTree Validating asset
+[2026.01.24-21.56.53:595][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.01.24-21.56.54:730][422]LogSlate: Window 'Save Content' being destroyed
+[2026.01.24-21.56.54:744][422]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-21.56.54:803][422]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/Goblin_Spear/ABP_Goblin_Spear] ([2] browsable assets)...
+[2026.01.24-21.56.54:803][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Goblin_Spear/ABP_Goblin_Spear]
+[2026.01.24-21.56.54:805][422]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/Goblin_Spear/ABP_Goblin_Spear
+[2026.01.24-21.56.54:806][422]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/ABP_Goblin_SpearF31E7B0B4325FC4A7D14AAAE81B7CE67.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Character/Goblin_Spear/ABP_Goblin_Spear.uasset'
+[2026.01.24-21.56.54:806][422]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BT_EnemyBehaviorTree] ([1] browsable assets)...
+[2026.01.24-21.56.54:806][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BT_EnemyBehaviorTree]
+[2026.01.24-21.56.54:806][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BT_EnemyBehaviorTree" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BT_EnemyBehaviorTree.uasset" SILENT=true
+[2026.01.24-21.56.54:810][422]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BT_EnemyBehaviorTree
+[2026.01.24-21.56.54:811][422]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BT_EnemyBehaviorTreeF26EFEA844E17A86B77FB9A2535C41EE.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BT_EnemyBehaviorTree.uasset'
+[2026.01.24-21.56.54:817][422]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.722 ms (total: 1.29 sec)
+[2026.01.24-21.56.54:868][422]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.24-21.56.54:868][422]LogContentValidation: Enabled validators:
+[2026.01.24-21.56.54:868][422]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-21.56.54:868][422]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-21.56.54:868][422]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-21.56.54:868][422]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-21.56.54:868][422]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-21.56.54:868][422]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-21.56.54:869][422]AssetCheck: /Game/Blueprints/Character/Goblin_Spear/ABP_Goblin_Spear Validating asset
+[2026.01.24-21.56.54:869][422]AssetCheck: /Game/Blueprints/AI/BT_EnemyBehaviorTree Validating asset
+[2026.01.24-21.56.54:882][422]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
