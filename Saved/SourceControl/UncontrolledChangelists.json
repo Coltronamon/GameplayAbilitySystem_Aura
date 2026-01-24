@@ -89,6 +89,7 @@
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BP_AuraAIController.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BT_EnemyBehaviorTree.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BTS_FindNearestPlayer.uasset",
+				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BTT_Attack.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraPrimaryAttributes.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraSecondaryAttributes.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraVitalAttributes.uasset",
