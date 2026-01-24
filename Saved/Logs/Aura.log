@@ -3390,3 +3390,304 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.24-21.56.54:869][422]AssetCheck: /Game/Blueprints/Character/Goblin_Spear/ABP_Goblin_Spear Validating asset
 [2026.01.24-21.56.54:869][422]AssetCheck: /Game/Blueprints/AI/BT_EnemyBehaviorTree Validating asset
 [2026.01.24-21.56.54:882][422]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-21.59.42:112][112]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3547.618896
+[2026.01.24-21.59.43:107][115]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-21.59.43:107][116]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3548.278320, Update Interval: 333.245636
+[2026.01.24-22.02.32:445][623]LogDerivedDataCache: C:/Users/kkear/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.24-22.03.37:211][911]Cmd: TRANSACTION UNDO
+[2026.01.24-22.03.37:211][911]LogEditorTransaction: Undo Move Node
+[2026.01.24-22.03.42:034][432]Cmd: TRANSACTION UNDO
+[2026.01.24-22.03.42:034][432]LogEditorTransaction: Undo Move Nodes
+[2026.01.24-22.04.18:389][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.01.24-22.04.18:392][647]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartupMap' took 0.025
+[2026.01.24-22.04.18:392][647]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BT_EnemyBehaviorTree] ([1] browsable assets)...
+[2026.01.24-22.04.18:392][647]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BT_EnemyBehaviorTree]
+[2026.01.24-22.04.18:395][647]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AI/BT_EnemyBehaviorTree_Auto3
+[2026.01.24-22.04.18:395][647]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BT_EnemyBehaviorTree_Auto3BEC8116840DF706940E6B8A71018ACF0.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/Autosaves/Game/Blueprints/AI/BT_EnemyBehaviorTree_Auto3.uasset'
+[2026.01.24-22.04.18:396][647]LogFileHelpers: Auto-saving content packages took 0.005
+[2026.01.24-22.04.51:914][838]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.01.24-22.04.51:920][838]LogContentBrowser: Creating deferred item: NewFolder
+[2026.01.24-22.04.51:927][839]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.01.24-22.05.01:238][957]LogContentBrowser: Attempting asset rename: NewFolder -> BehaviorTree
+[2026.01.24-22.05.01:240][957]LogContentBrowser: End creating deferred item NewFolder
+[2026.01.24-22.05.10:539][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-22.05.10:541][822]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/BP_EnemyBase] ([2] browsable assets)...
+[2026.01.24-22.05.10:541][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/BP_EnemyBase]
+[2026.01.24-22.05.10:541][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/BP_EnemyBase" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Character/BP_EnemyBase.uasset" SILENT=true
+[2026.01.24-22.05.10:546][822]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/BP_EnemyBase
+[2026.01.24-22.05.10:547][822]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BP_EnemyBaseB6D2BD1446298A347AC1B9B1273C9899.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Character/BP_EnemyBase.uasset'
+[2026.01.24-22.05.10:548][822]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BehaviorTree/BT_EnemyBehaviorTree] ([1] browsable assets)...
+[2026.01.24-22.05.10:548][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BehaviorTree/BT_EnemyBehaviorTree]
+[2026.01.24-22.05.10:552][822]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BehaviorTree/BT_EnemyBehaviorTree
+[2026.01.24-22.05.10:552][822]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BT_EnemyBehaviorTree5D94E98248569BEEF020FBA9A6E85009.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BehaviorTree/BT_EnemyBehaviorTree.uasset'
+[2026.01.24-22.05.10:554][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 13.291 ms (total: 1.30 sec)
+[2026.01.24-22.05.10:605][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.01.24-22.05.10:624][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.01.24-22.05.10:644][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.01.24-22.05.10:669][822]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.01.24-22.05.10:670][822]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.24-22.05.10:670][822]LogContentValidation: Enabled validators:
+[2026.01.24-22.05.10:670][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-22.05.10:670][822]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-22.05.10:670][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-22.05.10:670][822]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-22.05.10:670][822]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-22.05.10:670][822]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-22.05.10:670][822]AssetCheck: /Game/Blueprints/Character/BP_EnemyBase Validating asset
+[2026.01.24-22.05.10:670][822]AssetCheck: /Game/Blueprints/AI/BehaviorTree/BT_EnemyBehaviorTree Validating asset
+[2026.01.24-22.05.10:685][822]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-22.05.12:456][973]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-22.05.12:456][973]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BehaviorTree/BT_EnemyBehaviorTree] ([1] browsable assets)...
+[2026.01.24-22.05.12:456][973]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BehaviorTree/BT_EnemyBehaviorTree]
+[2026.01.24-22.05.12:459][973]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BehaviorTree/BT_EnemyBehaviorTree
+[2026.01.24-22.05.12:460][973]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BT_EnemyBehaviorTreeC3722DE84CCDC8FD0D99F291EAAFEAF9.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BehaviorTree/BT_EnemyBehaviorTree.uasset'
+[2026.01.24-22.05.12:460][973]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BehaviorTree/BB_EnemyBlackboard] ([1] browsable assets)...
+[2026.01.24-22.05.12:460][973]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BehaviorTree/BB_EnemyBlackboard]
+[2026.01.24-22.05.12:462][973]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BehaviorTree/BB_EnemyBlackboard
+[2026.01.24-22.05.12:462][973]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BB_EnemyBlackboardF1F0BC3E4928AA6C547C4682B581A309.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BehaviorTree/BB_EnemyBlackboard.uasset'
+[2026.01.24-22.05.12:463][973]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.812 ms (total: 1.31 sec)
+[2026.01.24-22.05.12:508][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.01.24-22.05.12:529][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.01.24-22.05.12:550][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.01.24-22.05.12:573][973]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.01.24-22.05.12:573][973]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.24-22.05.12:573][973]LogContentValidation: Enabled validators:
+[2026.01.24-22.05.12:573][973]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-22.05.12:573][973]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-22.05.12:573][973]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-22.05.12:573][973]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-22.05.12:573][973]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-22.05.12:573][973]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-22.05.12:574][973]AssetCheck: /Game/Blueprints/AI/BehaviorTree/BT_EnemyBehaviorTree Validating asset
+[2026.01.24-22.05.12:574][973]AssetCheck: /Game/Blueprints/AI/BehaviorTree/BB_EnemyBlackboard Validating asset
+[2026.01.24-22.05.12:593][973]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-22.05.20:224][383]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.01.24-22.05.20:231][383]LogContentBrowser: Creating deferred item: NewFolder
+[2026.01.24-22.05.20:237][384]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.01.24-22.05.30:099][568]LogContentBrowser: Attempting asset rename: NewFolder -> Tasks
+[2026.01.24-22.05.30:100][568]LogContentBrowser: End creating deferred item NewFolder
+[2026.01.24-22.05.39:082][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-22.05.39:082][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BehaviorTree/BT_EnemyBehaviorTree] ([1] browsable assets)...
+[2026.01.24-22.05.39:083][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BehaviorTree/BT_EnemyBehaviorTree]
+[2026.01.24-22.05.39:086][301]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BehaviorTree/BT_EnemyBehaviorTree
+[2026.01.24-22.05.39:086][301]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BT_EnemyBehaviorTree435EF1C045027E27FD21008B0C8E977E.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BehaviorTree/BT_EnemyBehaviorTree.uasset'
+[2026.01.24-22.05.39:087][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/Tasks/BTT_Attack] ([2] browsable assets)...
+[2026.01.24-22.05.39:087][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/Tasks/BTT_Attack]
+[2026.01.24-22.05.39:087][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/Tasks/BTT_Attack" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/Tasks/BTT_Attack.uasset" SILENT=true
+[2026.01.24-22.05.39:090][301]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/Tasks/BTT_Attack
+[2026.01.24-22.05.39:090][301]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BTT_AttackB2759B1C41B6445E047C168FE9CA3E56.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/Tasks/BTT_Attack.uasset'
+[2026.01.24-22.05.39:093][301]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/AI/Tasks/BTT_Attack.
+[2026.01.24-22.05.39:094][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/Tasks/BTT_GoAroundTarget] ([2] browsable assets)...
+[2026.01.24-22.05.39:094][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/Tasks/BTT_GoAroundTarget]
+[2026.01.24-22.05.39:098][301]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/Tasks/BTT_GoAroundTarget
+[2026.01.24-22.05.39:098][301]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BTT_GoAroundTargetDB53E4054601C14861D1BD8FE7252606.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/Tasks/BTT_GoAroundTarget.uasset'
+[2026.01.24-22.05.39:102][301]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/AI/Tasks/BTT_GoAroundTarget.
+[2026.01.24-22.05.39:102][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 19.899 ms (total: 1.33 sec)
+[2026.01.24-22.05.39:172][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.01.24-22.05.39:194][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.01.24-22.05.39:214][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.24-22.05.39:235][301]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.01.24-22.05.39:235][301]LogContentValidation: Display: Starting to validate 3 assets
+[2026.01.24-22.05.39:235][301]LogContentValidation: Enabled validators:
+[2026.01.24-22.05.39:235][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-22.05.39:235][301]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-22.05.39:235][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-22.05.39:235][301]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-22.05.39:235][301]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-22.05.39:235][301]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-22.05.39:235][301]AssetCheck: /Game/Blueprints/AI/BehaviorTree/BT_EnemyBehaviorTree Validating asset
+[2026.01.24-22.05.39:235][301]AssetCheck: /Game/Blueprints/AI/Tasks/BTT_Attack Validating asset
+[2026.01.24-22.05.39:235][301]AssetCheck: /Game/Blueprints/AI/Tasks/BTT_GoAroundTarget Validating asset
+[2026.01.24-22.05.39:242][301]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-22.05.47:522][122]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3913.023193
+[2026.01.24-22.05.47:612][133]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-22.05.47:612][133]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3913.104980, Update Interval: 312.920319
+[2026.01.24-22.05.48:509][237]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.01.24-22.05.48:540][237]LogContentBrowser: Creating deferred item: NewFolder
+[2026.01.24-22.05.48:549][238]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.01.24-22.05.51:635][609]LogContentBrowser: Attempting asset rename: NewFolder -> Services
+[2026.01.24-22.05.51:636][609]LogContentBrowser: End creating deferred item NewFolder
+[2026.01.24-22.05.55:227][959]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-22.05.55:227][959]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BehaviorTree/BT_EnemyBehaviorTree] ([1] browsable assets)...
+[2026.01.24-22.05.55:227][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BehaviorTree/BT_EnemyBehaviorTree]
+[2026.01.24-22.05.55:231][959]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BehaviorTree/BT_EnemyBehaviorTree
+[2026.01.24-22.05.55:231][959]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BT_EnemyBehaviorTreeD3FFE53F458C4786BE1EE5A7EE4606E8.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BehaviorTree/BT_EnemyBehaviorTree.uasset'
+[2026.01.24-22.05.55:232][959]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/Services/BTS_FindNearestPlayer] ([2] browsable assets)...
+[2026.01.24-22.05.55:232][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/Services/BTS_FindNearestPlayer]
+[2026.01.24-22.05.55:240][959]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/Services/BTS_FindNearestPlayer
+[2026.01.24-22.05.55:240][959]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BTS_FindNearestPlayer6E0CF2DE48F8E47B41019FA3E3BB1FC3.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/Services/BTS_FindNearestPlayer.uasset'
+[2026.01.24-22.05.55:243][959]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/AI/Services/BTS_FindNearestPlayer.
+[2026.01.24-22.05.55:244][959]LogFileHelpers: InternalPromptForCheckoutAndSave took 17.790 ms (total: 1.35 sec)
+[2026.01.24-22.05.55:289][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.01.24-22.05.55:311][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.01.24-22.05.55:333][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.01.24-22.05.55:354][959]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.01.24-22.05.55:355][959]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.24-22.05.55:355][959]LogContentValidation: Enabled validators:
+[2026.01.24-22.05.55:355][959]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-22.05.55:355][959]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-22.05.55:355][959]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-22.05.55:355][959]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-22.05.55:355][959]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-22.05.55:355][959]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-22.05.55:355][959]AssetCheck: /Game/Blueprints/AI/BehaviorTree/BT_EnemyBehaviorTree Validating asset
+[2026.01.24-22.05.55:355][959]AssetCheck: /Game/Blueprints/AI/Services/BTS_FindNearestPlayer Validating asset
+[2026.01.24-22.05.55:363][959]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-22.06.02:608][807]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.01.24-22.06.02:639][807]LogContentBrowser: Creating deferred item: NewFolder
+[2026.01.24-22.06.02:649][808]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.01.24-22.06.07:742][420]LogContentBrowser: Attempting asset rename: NewFolder -> AIController
+[2026.01.24-22.06.07:742][420]LogContentBrowser: End creating deferred item NewFolder
+[2026.01.24-22.06.12:443][918]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-22.06.12:443][918]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/BP_EnemyBase] ([2] browsable assets)...
+[2026.01.24-22.06.12:443][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/BP_EnemyBase]
+[2026.01.24-22.06.12:443][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/BP_EnemyBase" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Character/BP_EnemyBase.uasset" SILENT=true
+[2026.01.24-22.06.12:447][918]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/BP_EnemyBase
+[2026.01.24-22.06.12:447][918]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BP_EnemyBase7601D2D1455E050E0A04598F249A26BE.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Character/BP_EnemyBase.uasset'
+[2026.01.24-22.06.12:448][918]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/AIController/BP_AuraAIController] ([2] browsable assets)...
+[2026.01.24-22.06.12:449][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/AIController/BP_AuraAIController]
+[2026.01.24-22.06.12:450][918]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/AIController/BP_AuraAIController
+[2026.01.24-22.06.12:450][918]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BP_AuraAIControllerF6EC40AD4284DD85B3C3B799CC8E28AF.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/AIController/BP_AuraAIController.uasset'
+[2026.01.24-22.06.12:454][918]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/AI/AIController/BP_AuraAIController.
+[2026.01.24-22.06.12:455][918]LogFileHelpers: InternalPromptForCheckoutAndSave took 12.608 ms (total: 1.36 sec)
+[2026.01.24-22.06.12:506][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.01.24-22.06.12:528][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.01.24-22.06.12:548][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.01.24-22.06.12:570][918]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.01.24-22.06.12:570][918]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.24-22.06.12:570][918]LogContentValidation: Enabled validators:
+[2026.01.24-22.06.12:570][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-22.06.12:570][918]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-22.06.12:570][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-22.06.12:570][918]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-22.06.12:570][918]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-22.06.12:570][918]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-22.06.12:571][918]AssetCheck: /Game/Blueprints/Character/BP_EnemyBase Validating asset
+[2026.01.24-22.06.12:571][918]AssetCheck: /Game/Blueprints/AI/AIController/BP_AuraAIController Validating asset
+[2026.01.24-22.06.12:577][918]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-22.06.16:953][428]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.01.24-22.06.16:992][428]LogContentBrowser: Creating deferred item: NewFolder
+[2026.01.24-22.06.17:002][429]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.01.24-22.06.21:404][958]LogContentBrowser: Attempting asset rename: NewFolder -> EQS
+[2026.01.24-22.06.21:405][958]LogContentBrowser: End creating deferred item NewFolder
+[2026.01.24-22.06.33:244][357]LogContentBrowser: Deferred new asset file creation: NewEnvQuery
+[2026.01.24-22.06.33:249][357]LogContentBrowser: Creating deferred item: NewEnvQuery
+[2026.01.24-22.06.33:273][359]LogContentBrowser: Renaming the item being created (Deferred Item: NewEnvQuery).
+[2026.01.24-22.06.49:694][330]LogContentBrowser: Attempting asset rename: NewEnvQuery -> EQ_FindRangedAttackPosition
+[2026.01.24-22.06.49:700][330]LogContentBrowser: End creating deferred item NewEnvQuery
+[2026.01.24-22.07.29:623][214]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.01.24-22.07.29:632][214]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.01.24-22.07.29:638][214]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.01.24-22.07.29:646][215]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.01.24-22.07.46:116][192]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_EQSTestingPawn
+[2026.01.24-22.07.46:122][192]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/AI/EQS/BP_EQSTestingPawn.
+[2026.01.24-22.07.46:123][192]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.01.24-22.08.03:250][192]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.01.24-22.08.03:280][192]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.01.24-22.08.03:306][192]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.01.24-22.08.03:334][192]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.01.24-22.08.04:529][192]LogSlate: Window 'Pick Skeleton' being destroyed
+[2026.01.24-22.08.09:787][646]LogStreaming: Display: FlushAsyncLoading(493): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.24-22.08.12:152][646]LogSlate: Window 'New Level' being destroyed
+[2026.01.24-22.08.12:160][646]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.01.24-22.08.12:196][646]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-22.08.12:196][646]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.24-22.08.12:197][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-22.08.12:217][646]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.24-22.08.12:225][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.01.24-22.08.12:263][646]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2026.01.24-22.08.12:263][646]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_2
+[2026.01.24-22.08.12:304][646]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.01.24-22.08.12:325][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.01.24-22.08.12:327][646]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.01.24-22.08.12:327][646]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2026.01.24-22.08.54:052][229]LogSlate: Window 'Save Level As' being destroyed
+[2026.01.24-22.08.54:115][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/EQS_TestingMap" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Maps/EQS_TestingMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.24-22.08.54:164][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.01.24-22.08.54:172][229]LogSavePackage: Moving output files for package: /Game/Maps/EQS_TestingMap
+[2026.01.24-22.08.54:172][229]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/EQS_TestingMap80B564FD4157B03E12B8F88DBCF32BDB.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Maps/EQS_TestingMap.umap'
+[2026.01.24-22.08.54:215][229]LogFileHelpers: Saving map 'EQS_TestingMap' took 0.155
+[2026.01.24-22.08.54:215][229]Cmd: MAP LOAD FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Maps/EQS_TestingMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.01.24-22.08.54:265][229]LogWorld: UWorld::CleanupWorld for EQS_TestingMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.24-22.08.54:265][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.24-22.08.54:287][229]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.24-22.08.54:288][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.01.24-22.08.54:290][229]LogStreaming: Display: FlushAsyncLoading(496): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.24-22.08.54:292][229]LogAudio: Display: Audio Device (ID: 1) registered with world 'EQS_TestingMap'.
+[2026.01.24-22.08.54:292][229]LogChaosDD: Creating Chaos Debug Draw Scene for world EQS_TestingMap
+[2026.01.24-22.08.54:330][229]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.01.24-22.08.54:353][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.01.24-22.08.54:365][229]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.01.24-22.08.54:366][229]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.049ms to complete.
+[2026.01.24-22.08.54:431][229]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.24-22.08.54:431][229]LogContentValidation: Enabled validators:
+[2026.01.24-22.08.54:431][229]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-22.08.54:431][229]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-22.08.54:431][229]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-22.08.54:431][229]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-22.08.54:431][229]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-22.08.54:431][229]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-22.08.54:431][229]AssetCheck: /Game/Maps/EQS_TestingMap Validating asset
+[2026.01.24-22.08.54:460][229]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.24-22.09.07:659][565]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/AI/EQS/BP_EQSTestingPawn.BP_EQSTestingPawn_C
+[2026.01.24-22.09.07:659][565]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/AI/EQS/BP_EQSTestingPawn.BP_EQSTestingPawn_C
+[2026.01.24-22.09.07:659][565]LogStreaming: Display: FlushAsyncLoading(497): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.24-22.09.07:668][565]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/AI/EQS/BP_EQSTestingPawn.BP_EQSTestingPawn as actor: BP_EQSTestingPawn_C /Game/Maps/EQS_TestingMap.EQS_TestingMap:PersistentLevel.BP_EQSTestingPawn_C_0
+[2026.01.24-22.09.07:670][565]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/AI/EQS/BP_EQSTestingPawn.BP_EQSTestingPawn as actor: BP_EQSTestingPawn_C /Game/Maps/EQS_TestingMap.EQS_TestingMap:PersistentLevel.BP_EQSTestingPawn_C_0
+[2026.01.24-22.09.07:673][565]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.01.24-22.09.08:878][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.01.24-22.09.08:880][705]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.01.24-22.09.08:885][705]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/AI/EQS/BP_EQSTestingPawn.BP_EQSTestingPawn_C
+[2026.01.24-22.09.08:885][705]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/AI/EQS/BP_EQSTestingPawn.BP_EQSTestingPawn_C
+[2026.01.24-22.09.08:888][705]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/AI/EQS/BP_EQSTestingPawn.BP_EQSTestingPawn as actor: BP_EQSTestingPawn_C /Game/Maps/EQS_TestingMap.EQS_TestingMap:PersistentLevel.BP_EQSTestingPawn_C_1
+[2026.01.24-22.09.08:888][705]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/AI/EQS/BP_EQSTestingPawn.BP_EQSTestingPawn as actor: BP_EQSTestingPawn_C /Game/Maps/EQS_TestingMap.EQS_TestingMap:PersistentLevel.BP_EQSTestingPawn_C_1
+[2026.01.24-22.09.57:338][940]LogEQS: Warning: Query [EQ_FindRangedAttackPosition] doesn't have any valid options!
+[2026.01.24-22.09.57:339][940]LogEQS: Warning: Error creating query instance for QueryTemplate: EQ_FindRangedAttackPosition - Owner: BP_EQSTestingPawn_C_1
+[2026.01.24-22.10.10:923][321]LogAssetEditorSubsystem: Opening Asset editor for EnvQuery /Game/Blueprints/AI/EQS/EQ_FindRangedAttackPosition.EQ_FindRangedAttackPosition
+[2026.01.24-22.10.10:930][321]LogEQS: Warning: Query [EQ_FindRangedAttackPosition] doesn't have any valid options!
+[2026.01.24-22.10.10:930][321]LogEQS: Warning: Error creating query instance for QueryTemplate: EQ_FindRangedAttackPosition - Owner: BP_EQSTestingPawn_C_1
+[2026.01.24-22.10.10:959][321]LogEQS: Warning: Query [EQ_FindRangedAttackPosition] doesn't have any valid options!
+[2026.01.24-22.10.10:959][321]LogEQS: Warning: Error creating query instance for QueryTemplate: EQ_FindRangedAttackPosition - Owner: BP_EQSTestingPawn_C_1
+[2026.01.24-22.12.00:476][256]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4285.994629
+[2026.01.24-22.12.00:605][262]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.24-22.12.00:605][262]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4286.101562, Update Interval: 304.315918
+[2026.01.24-22.13.28:485][688]LogEQS: Warning: Query [EQ_FindRangedAttackPosition] doesn't have any valid options!
+[2026.01.24-22.13.28:486][688]LogEQS: Warning: Error creating query instance for QueryTemplate: EQ_FindRangedAttackPosition - Owner: BP_EQSTestingPawn_C_1
+[2026.01.24-22.13.28:486][688]LogEQS: Warning: Query [EQ_FindRangedAttackPosition] doesn't have any valid options!
+[2026.01.24-22.13.28:486][688]LogEQS: Warning: Error creating query instance for QueryTemplate: EQ_FindRangedAttackPosition - Owner: BP_EQSTestingPawn_C_1
+[2026.01.24-22.14.45:102][931]LogEQS: Warning: Query [EQ_FindRangedAttackPosition] doesn't have any valid options!
+[2026.01.24-22.14.45:103][931]LogEQS: Warning: Error creating query instance for QueryTemplate: EQ_FindRangedAttackPosition - Owner: BP_EQSTestingPawn_C_1
+[2026.01.24-22.14.45:103][931]LogEQS: Warning: Query [EQ_FindRangedAttackPosition] doesn't have any valid options!
+[2026.01.24-22.14.45:103][931]LogEQS: Warning: Error creating query instance for QueryTemplate: EQ_FindRangedAttackPosition - Owner: BP_EQSTestingPawn_C_1
+[2026.01.24-22.14.55:908][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.24-22.14.57:191][958]LogSlate: Window 'Save Content' being destroyed
+[2026.01.24-22.14.57:204][958]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.24-22.14.57:263][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/EQS_TestingMap" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Maps/EQS_TestingMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.24-22.14.57:314][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.01.24-22.14.57:326][958]LogSavePackage: Moving output files for package: /Game/Maps/EQS_TestingMap
+[2026.01.24-22.14.57:326][958]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/EQS_TestingMap63EA79964EA328CC1C0FF0B377D745B8.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Maps/EQS_TestingMap.umap'
+[2026.01.24-22.14.57:342][958]LogFileHelpers: Saving map 'EQS_TestingMap' took 0.081
+[2026.01.24-22.14.57:342][958]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/EQS/BP_EQSTestingPawn] ([2] browsable assets)...
+[2026.01.24-22.14.57:342][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/EQS/BP_EQSTestingPawn]
+[2026.01.24-22.14.57:342][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/EQS/BP_EQSTestingPawn" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/EQS/BP_EQSTestingPawn.uasset" SILENT=true
+[2026.01.24-22.14.57:346][958]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/EQS/BP_EQSTestingPawn
+[2026.01.24-22.14.57:346][958]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BP_EQSTestingPawnAFF08EAA40EDDF3A4F0C35B7B62C30DB.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/EQS/BP_EQSTestingPawn.uasset'
+[2026.01.24-22.14.57:348][958]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/AI/EQS/BP_EQSTestingPawn.
+[2026.01.24-22.14.57:348][958]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/AI/EQS/BP_EQSTestingPawn.
+[2026.01.24-22.14.57:350][958]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/EQS/EQ_FindRangedAttackPosition] ([1] browsable assets)...
+[2026.01.24-22.14.57:350][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/EQS/EQ_FindRangedAttackPosition]
+[2026.01.24-22.14.57:351][958]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/EQS/EQ_FindRangedAttackPosition
+[2026.01.24-22.14.57:352][958]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/EQ_FindRangedAttackPositionFB8F31074FB5342ADD9E5A8722A68C2D.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/EQS/EQ_FindRangedAttackPosition.uasset'
+[2026.01.24-22.14.57:360][958]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.385 ms (total: 1.52 sec)
+[2026.01.24-22.14.57:413][958]LogContentValidation: Display: Starting to validate 3 assets
+[2026.01.24-22.14.57:413][958]LogContentValidation: Enabled validators:
+[2026.01.24-22.14.57:413][958]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.24-22.14.57:413][958]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.24-22.14.57:413][958]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.24-22.14.57:413][958]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.24-22.14.57:413][958]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.24-22.14.57:413][958]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.24-22.14.57:413][958]AssetCheck: /Game/Maps/EQS_TestingMap Validating asset
+[2026.01.24-22.14.57:413][958]AssetCheck: /Game/Blueprints/AI/EQS/BP_EQSTestingPawn Validating asset
+[2026.01.24-22.14.57:414][958]AssetCheck: /Game/Blueprints/AI/EQS/EQ_FindRangedAttackPosition Validating asset
+[2026.01.24-22.14.57:432][958]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
