@@ -1437,3 +1437,266 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.26-22.20.33:759][495]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.01.26-22.20.33:759][495]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.26-22.20.33:760][495]AssetCheck: /Game/Blueprints/AbilitySystem/Data/DA_CharacterClassInfo Validating asset
+[2026.01.26-22.22.56:039][965]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 646.163757
+[2026.01.26-22.22.57:039][968]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-22.22.57:039][968]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 646.830688, Update Interval: 353.636902
+[2026.01.26-22.23.54:786][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.01.26-22.28.56:308][429]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1006.432129
+[2026.01.26-22.28.57:309][432]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-22.28.57:309][432]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1007.098816, Update Interval: 351.686768
+[2026.01.26-22.35.03:044][529]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1373.168701
+[2026.01.26-22.35.04:047][532]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-22.35.04:047][532]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1373.835693, Update Interval: 307.494751
+[2026.01.26-22.37.31:688][661]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.01.26-22.37.49:888][741]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.01.26-22.37.49:925][742]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.01.26-22.37.49:942][743]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.01.26-22.37.51:812][956]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.01.26-22.38.02:628][193]LogStreaming: Display: FlushAsyncLoading(485): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.26-22.38.02:634][193]LogContentBrowser: Deferred new asset file creation: Attack_Spear_Montage
+[2026.01.26-22.38.02:640][193]LogContentBrowser: Creating deferred item: Attack_Spear_Montage
+[2026.01.26-22.38.02:666][194]LogContentBrowser: Renaming the item being created (Deferred Item: Attack_Spear_Montage).
+[2026.01.26-22.38.18:926][146]LogContentBrowser: Attempting asset rename: Attack_Spear_Montage -> AM_Attack_GoblinSpear
+[2026.01.26-22.38.18:935][146]LogContentBrowser: End creating deferred item Attack_Spear_Montage
+[2026.01.26-22.38.27:111][ 94]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Assets/Enemies/Goblin/Animations/Spear/AM_Attack_GoblinSpear.AM_Attack_GoblinSpear
+[2026.01.26-22.38.27:205][ 94]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.01.26-22.38.27:210][ 94]LogStreaming: Display: FlushAsyncLoading(486): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.26-22.38.27:596][ 94]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.26-22.38.28:180][ 94]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.01.26-22.38.28:597][ 94]LogSlate: Took 0.006874 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.01.26-22.38.35:901][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-22.38.35:949][892]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Enemies/Goblin/Animations/Spear/AM_Attack_GoblinSpear] ([1] browsable assets)...
+[2026.01.26-22.38.35:961][892]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Assets/Enemies/Goblin/Animations/Spear/AM_Attack_GoblinSpear.AM_Attack_GoblinSpear]
+[2026.01.26-22.38.35:961][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Goblin/Animations/Spear/AM_Attack_GoblinSpear]
+[2026.01.26-22.38.35:973][892]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Goblin/Animations/Spear/AM_Attack_GoblinSpear
+[2026.01.26-22.38.35:973][892]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/AM_Attack_GoblinSpearF35FA2CF412BA21A58B6079BF4DC6063.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Goblin/Animations/Spear/AM_Attack_GoblinSpear.uasset'
+[2026.01.26-22.38.35:983][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.230 ms (total: 744.985 ms)
+[2026.01.26-22.38.36:030][892]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-22.38.36:030][892]LogContentValidation: Enabled validators:
+[2026.01.26-22.38.36:030][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-22.38.36:030][892]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-22.38.36:031][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-22.38.36:031][892]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-22.38.36:031][892]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-22.38.36:031][892]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-22.38.36:031][892]AssetCheck: /Game/Assets/Enemies/Goblin/Animations/Spear/AM_Attack_GoblinSpear Validating asset
+[2026.01.26-22.38.36:045][892]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.26-22.38.59:144][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.01.26-22.38.59:861][619]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-22.38.59:900][619]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AbilitySystem/GameplayAbilities/GA_MeleeAttack] ([2] browsable assets)...
+[2026.01.26-22.38.59:900][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/GameplayAbilities/GA_MeleeAttack]
+[2026.01.26-22.38.59:904][619]LogSavePackage: Moving output files for package: /Game/Blueprints/AbilitySystem/GameplayAbilities/GA_MeleeAttack
+[2026.01.26-22.38.59:904][619]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/GA_MeleeAttack4D47B9524EDD7E420DE77190ED45023B.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/GameplayAbilities/GA_MeleeAttack.uasset'
+[2026.01.26-22.38.59:912][619]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.742 ms (total: 795.727 ms)
+[2026.01.26-22.38.59:949][619]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-22.38.59:949][619]LogContentValidation: Enabled validators:
+[2026.01.26-22.38.59:949][619]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-22.38.59:949][619]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-22.38.59:949][619]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-22.38.59:949][619]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-22.38.59:949][619]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-22.38.59:949][619]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-22.38.59:950][619]AssetCheck: /Game/Blueprints/AbilitySystem/GameplayAbilities/GA_MeleeAttack Validating asset
+[2026.01.26-22.39.08:291][449]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.26-22.39.08:299][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.26-22.39.08:299][449]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2026.01.26-22.39.08:310][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010287s)
+[2026.01.26-22.39.08:310][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.010545s)
+[2026.01.26-22.39.08:328][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.01.26-22.39.08:330][449]LogChaosDD: Creating Chaos Debug Draw Scene for world StartupMap
+[2026.01.26-22.39.08:331][449]LogPlayLevel: PIE: World Init took: (0.001303s)
+[2026.01.26-22.39.08:332][449]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.01.26-22.39.08:332][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.26-22.39.08:332][449]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.26-22.39.08:332][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.26-22.39.08:332][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.26-22.39.08:332][449]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.26-22.39.08:332][449]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.26-22.39.08:332][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.26-22.39.08:333][449]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.26-22.39.08:333][449]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.26-22.39.08:333][449]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.26-22.39.08:333][449]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.26-22.39.08:335][449]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.26-22.39.08:349][449]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.01.26-22.39.08:350][449]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.26-22.39.08:350][449]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.26-22.39.08:350][449]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.26-22.39.08:350][449]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.01.26-22.39.08:350][449]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.01.26-22.39.08:352][449]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.01.26-22.39.08:352][449]LogInit: FAudioDevice initialized with ID 3.
+[2026.01.26-22.39.08:352][449]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.01.26-22.39.08:352][449]LogAudio: Display: Audio Device (ID: 3) registered with world 'StartupMap'.
+[2026.01.26-22.39.08:352][449]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.01.26-22.39.08:355][449]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2026.01.26-22.39.08:361][449]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2026.01.26-17.39.08
+[2026.01.26-22.39.08:363][449]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2026.01.26-22.39.08:364][449]LogWorld: Bringing up level for play took: 0.008553
+[2026.01.26-22.39.08:367][449]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 112.500000
+[2026.01.26-22.39.08:367][449]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.01.26-22.39.08:367][449]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.01.26-22.39.08:367][449]LogPushModel: PushModel HandleCreation is now enabled
+[2026.01.26-22.39.08:368][449]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.01.26-22.39.08:368][449]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2026.01.26-22.39.08:368][449]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2026.01.26-22.39.08:368][449]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.01.26-22.39.08:368][449]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_1 IpNetDriver listening on port 17777
+[2026.01.26-22.39.08:369][449]LogTemp: Warning: Changed Health on BP_Goblin_Slingshot_C_2, Health: 117.500000
+[2026.01.26-22.39.08:369][449]LogTemp: Warning: Changed Health on BP_Goblin_Spear_C_1, Health: 562.500000
+[2026.01.26-22.39.08:370][449]LogTemp: Warning: Changed Health on BP_Goblin_Spear_C_3, Health: 117.500000
+[2026.01.26-22.39.08:370][449]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.26-22.39.08:370][449]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.01.26-22.39.08:370][449]PIE: Server logged in
+[2026.01.26-22.39.08:372][449]PIE: Play in editor total start time 0.073 seconds.
+[2026.01.26-22.39.19:052][723]LogMetaSound: Display: Auto-Updating '/Game/Assets/Sounds/FootSteps/sfx_Footsteps.sfx_Footsteps' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2026.01.26-22.39.54:329][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-22.39.54:329][715]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2026.01.26-22.39.54:329][715]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.26-22.39.54:330][715]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-22.39.54:333][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-22.39.54:334][715]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2026.01.26-22.39.54:334][715]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_1 
+[2026.01.26-22.39.54:334][715]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_1 shut down
+[2026.01.26-22.39.54:334][715]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.26-22.39.54:337][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-22.39.54:356][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-22.39.54:356][715]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.01.26-22.39.54:356][715]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.01.26-22.39.54:358][715]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.01.26-22.39.54:366][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.01.26-22.39.54:394][717]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2026.01.26-22.40.16:888][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.01.26-22.40.18:008][531]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.01.26-22.40.18:030][531]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.01.26-22.40.39:220][ 40]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1709.343628
+[2026.01.26-22.40.39:313][ 51]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-22.40.39:313][ 51]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1709.427368, Update Interval: 352.926422
+[2026.01.26-22.41.15:843][379]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Character/BP_EnemyBase.BP_EnemyBase
+[2026.01.26-22.41.15:843][379]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.01.26-22.41.15:901][379]LogStreaming: Display: FlushAsyncLoading(492): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.26-22.41.16:284][379]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.41.16:284][379]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.41.16:284][379]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.41.32:098][216]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.41.32:098][216]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.41.32:099][216]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.41.32:099][216]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.41.49:039][ 88]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.41.49:040][ 88]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.41.49:041][ 88]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.41.49:041][ 88]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.41.59:080][274]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.41.59:081][274]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.41.59:082][274]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.41.59:082][274]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.42.32:624][549]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.42.32:624][549]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.42.32:624][549]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.42.32:625][549]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.42.32:625][549]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.42.32:625][549]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.42.32:677][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.01.26-22.42.32:695][549]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.42.32:697][549]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.42.32:697][549]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.42.32:697][549]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.42.32:703][549]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.42.32:703][549]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.42.32:704][549]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.42.32:704][549]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.42.33:359][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-22.42.33:415][617]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/BP_EnemyBase] ([2] browsable assets)...
+[2026.01.26-22.42.33:415][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/BP_EnemyBase]
+[2026.01.26-22.42.33:415][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/BP_EnemyBase" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Character/BP_EnemyBase.uasset" SILENT=true
+[2026.01.26-22.42.33:420][617]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/BP_EnemyBase
+[2026.01.26-22.42.33:420][617]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BP_EnemyBaseDD78110848EC01EFBD0EC2A6FCBEFF04.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Character/BP_EnemyBase.uasset'
+[2026.01.26-22.42.33:427][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.779 ms (total: 863.506 ms)
+[2026.01.26-22.42.33:479][617]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-22.42.33:479][617]LogContentValidation: Enabled validators:
+[2026.01.26-22.42.33:479][617]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-22.42.33:480][617]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-22.42.33:480][617]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-22.42.33:480][617]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-22.42.33:480][617]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-22.42.33:480][617]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-22.42.33:480][617]AssetCheck: /Game/Blueprints/Character/BP_EnemyBase Validating asset
+[2026.01.26-22.42.40:766][488]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-22.42.40:816][488]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/BP_EnemyBase] ([2] browsable assets)...
+[2026.01.26-22.42.40:816][488]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/BP_EnemyBase]
+[2026.01.26-22.42.40:816][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/BP_EnemyBase" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Character/BP_EnemyBase.uasset" SILENT=true
+[2026.01.26-22.42.40:821][488]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/BP_EnemyBase
+[2026.01.26-22.42.40:822][488]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BP_EnemyBase17DDF45D415279A411995C87719A3058.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Character/BP_EnemyBase.uasset'
+[2026.01.26-22.42.40:829][488]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.844 ms (total: 926.351 ms)
+[2026.01.26-22.42.40:879][488]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-22.42.40:879][488]LogContentValidation: Enabled validators:
+[2026.01.26-22.42.40:879][488]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-22.42.40:879][488]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-22.42.40:879][488]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-22.42.40:879][488]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-22.42.40:879][488]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-22.42.40:879][488]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-22.42.40:879][488]AssetCheck: /Game/Blueprints/Character/BP_EnemyBase Validating asset
+[2026.01.26-22.44.28:152][290]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-22.44.28:215][290]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Enemies/Goblin/Animations/Spear/AM_Attack_GoblinSpear] ([1] browsable assets)...
+[2026.01.26-22.44.28:225][290]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Assets/Enemies/Goblin/Animations/Spear/AM_Attack_GoblinSpear.AM_Attack_GoblinSpear]
+[2026.01.26-22.44.28:225][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Goblin/Animations/Spear/AM_Attack_GoblinSpear]
+[2026.01.26-22.44.28:228][290]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Goblin/Animations/Spear/AM_Attack_GoblinSpear
+[2026.01.26-22.44.28:228][290]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/AM_Attack_GoblinSpearFA0E65B149415E81E6A5E0B0321DBD01.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Goblin/Animations/Spear/AM_Attack_GoblinSpear.uasset'
+[2026.01.26-22.44.28:234][290]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.464 ms (total: 1.00 sec)
+[2026.01.26-22.44.28:296][290]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-22.44.28:296][290]LogContentValidation: Enabled validators:
+[2026.01.26-22.44.28:296][290]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-22.44.28:296][290]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-22.44.28:296][290]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-22.44.28:296][290]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-22.44.28:296][290]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-22.44.28:296][290]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-22.44.28:296][290]AssetCheck: /Game/Assets/Enemies/Goblin/Animations/Spear/AM_Attack_GoblinSpear Validating asset
+[2026.01.26-22.44.33:167][842]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-22.44.33:231][842]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Enemies/Goblin/Animations/Spear/AM_Attack_GoblinSpear] ([1] browsable assets)...
+[2026.01.26-22.44.33:231][842]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Goblin/Animations/Spear/AM_Attack_GoblinSpear]
+[2026.01.26-22.44.33:233][842]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Goblin/Animations/Spear/AM_Attack_GoblinSpear
+[2026.01.26-22.44.33:233][842]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/AM_Attack_GoblinSpear6F78654E4BB33A9881A0E8BEDB7A38B7.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Goblin/Animations/Spear/AM_Attack_GoblinSpear.uasset'
+[2026.01.26-22.44.33:239][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.263 ms (total: 1.08 sec)
+[2026.01.26-22.44.33:295][842]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-22.44.33:295][842]LogContentValidation: Enabled validators:
+[2026.01.26-22.44.33:296][842]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-22.44.33:296][842]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-22.44.33:296][842]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-22.44.33:296][842]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-22.44.33:296][842]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-22.44.33:296][842]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-22.44.33:296][842]AssetCheck: /Game/Assets/Enemies/Goblin/Animations/Spear/AM_Attack_GoblinSpear Validating asset
+[2026.01.26-22.44.35:336][ 82]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.44.35:337][ 82]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.44.35:337][ 82]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.44.35:338][ 82]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.44.35:338][ 82]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.44.35:338][ 82]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.44.35:376][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.01.26-22.44.35:378][ 82]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.44.35:380][ 82]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.44.35:380][ 82]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.44.35:380][ 82]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.44.35:386][ 82]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.44.35:386][ 82]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.44.35:387][ 82]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.44.35:387][ 82]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_EnemyBase_C /Engine/Transient.World_11:PersistentLevel.BP_EnemyBase_C_0)
+[2026.01.26-22.44.36:198][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-22.44.36:247][175]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/BP_EnemyBase] ([2] browsable assets)...
+[2026.01.26-22.44.36:248][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/BP_EnemyBase]
+[2026.01.26-22.44.36:248][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/BP_EnemyBase" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Character/BP_EnemyBase.uasset" SILENT=true
+[2026.01.26-22.44.36:253][175]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/BP_EnemyBase
+[2026.01.26-22.44.36:253][175]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BP_EnemyBaseE24D35F04D840FBF7DEC49842A769E07.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Character/BP_EnemyBase.uasset'
+[2026.01.26-22.44.36:260][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.446 ms (total: 1.14 sec)
+[2026.01.26-22.44.36:311][175]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-22.44.36:311][175]LogContentValidation: Enabled validators:
+[2026.01.26-22.44.36:311][175]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-22.44.36:311][175]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-22.44.36:311][175]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-22.44.36:311][175]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-22.44.36:311][175]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-22.44.36:311][175]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-22.44.36:312][175]AssetCheck: /Game/Blueprints/Character/BP_EnemyBase Validating asset
+[2026.01.26-22.45.43:357][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
