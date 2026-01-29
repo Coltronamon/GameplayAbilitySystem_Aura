@@ -2730,3 +2730,116 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.29-22.45.38:973][545]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.29-22.45.38:973][545]AssetCheck: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack Validating asset
 [2026.01.29-22.45.38:987][545]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.29-22.48.08:746][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.01.29-22.48.09:413][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-22.48.09:439][549]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_MeleeAttack] ([2] browsable assets)...
+[2026.01.29-22.48.09:439][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_MeleeAttack]
+[2026.01.29-22.48.09:446][549]LogSavePackage: Moving output files for package: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_MeleeAttack
+[2026.01.29-22.48.09:446][549]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/GA_MeleeAttack98F0503C4D05B3CD5442EB8C998E7006.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Enemy/Abilities/GA_MeleeAttack.uasset'
+[2026.01.29-22.48.09:453][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.805 ms (total: 513.489 ms)
+[2026.01.29-22.48.09:487][549]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-22.48.09:487][549]LogContentValidation: Enabled validators:
+[2026.01.29-22.48.09:487][549]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-22.48.09:487][549]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-22.48.09:487][549]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-22.48.09:487][549]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-22.48.09:487][549]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-22.48.09:487][549]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-22.48.09:487][549]AssetCheck: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_MeleeAttack Validating asset
+[2026.01.29-22.48.55:116][251]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3191.947021
+[2026.01.29-22.48.56:116][254]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.29-22.48.56:117][255]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3192.615723, Update Interval: 320.651276
+[2026.01.29-22.50.52:959][264]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.01.29-22.50.52:967][264]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.01.29-22.50.52:974][264]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.01.29-22.50.52:976][264]LogAutomationController: Ignoring very large delta of 7.57 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.01.29-22.50.52:983][265]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.01.29-22.50.59:176][  9]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_SlingshotRock
+[2026.01.29-22.50.59:182][  9]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/AbilitySystem/Enemy/Abilities/BP_SlingshotRock.
+[2026.01.29-22.50.59:182][  9]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.01.29-22.51.01:060][220]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AbilitySystem/Enemy/Abilities/BP_SlingshotRock.BP_SlingshotRock
+[2026.01.29-22.51.01:061][220]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.01.29-22.51.50:436][916]LogStreaming: Display: FlushAsyncLoading(491): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.29-22.51.50:454][916]LogTexture: Display: Building textures: /Game/Assets/Enemies/Goblin/Slingshot/Materials/SlingshotRock/SlingshotRock_low_DefaultMaterial_OcclusionRoughnessMetallic.SlingshotRock_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2026.01.29-22.51.50:454][916]LogTexture: Display: Building textures: /Game/Assets/Enemies/Goblin/Slingshot/Materials/SlingshotRock/SlingshotRock_low_DefaultMaterial_BaseColor.SlingshotRock_low_DefaultMaterial_BaseColor (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2026.01.29-22.51.50:455][916]LogTexture: Display: Building textures: /Game/Assets/Enemies/Goblin/Slingshot/Materials/SlingshotRock/SlingshotRock_low_DefaultMaterial_Normal.SlingshotRock_low_DefaultMaterial_Normal (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 82.499988 MB), EncodeSpeed: Fast
+[2026.01.29-22.51.50:455][916]LogStaticMesh: Display: Building static mesh SM_SlingshotRock (Required Memory Estimate: 0.133715 MB)...
+[2026.01.29-22.51.50:469][916]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Enemies/Goblin/Slingshot/SM_SlingshotRock.SM_SlingshotRock
+[2026.01.29-22.51.50:480][916]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.01.29-22.51.56:796][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.01.29-22.51.57:625][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-22.51.57:654][593]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/BP_SlingshotRock] ([2] browsable assets)...
+[2026.01.29-22.51.57:677][593]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AbilitySystem/Enemy/Abilities/BP_SlingshotRock.BP_SlingshotRock]
+[2026.01.29-22.51.57:677][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/BP_SlingshotRock]
+[2026.01.29-22.51.57:680][593]LogSavePackage: Moving output files for package: /Game/Blueprints/AbilitySystem/Enemy/Abilities/BP_SlingshotRock
+[2026.01.29-22.51.57:680][593]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BP_SlingshotRock2D22EF4849A6E8648C4117ACC35F89D6.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Enemy/Abilities/BP_SlingshotRock.uasset'
+[2026.01.29-22.51.57:682][593]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/AbilitySystem/Enemy/Abilities/BP_SlingshotRock.
+[2026.01.29-22.51.57:687][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.479 ms (total: 575.969 ms)
+[2026.01.29-22.51.57:716][593]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-22.51.57:716][593]LogContentValidation: Enabled validators:
+[2026.01.29-22.51.57:716][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-22.51.57:716][593]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-22.51.57:716][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-22.51.57:716][593]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-22.51.57:716][593]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-22.51.57:716][593]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-22.51.57:716][593]AssetCheck: /Game/Blueprints/AbilitySystem/Enemy/Abilities/BP_SlingshotRock Validating asset
+[2026.01.29-22.51.57:733][593]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.29-22.52.10:598][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.01.29-22.52.11:657][217]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-22.52.11:685][217]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/BP_SlingshotRock] ([2] browsable assets)...
+[2026.01.29-22.52.11:706][217]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AbilitySystem/Enemy/Abilities/BP_SlingshotRock.BP_SlingshotRock]
+[2026.01.29-22.52.11:706][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/BP_SlingshotRock]
+[2026.01.29-22.52.11:709][217]LogSavePackage: Moving output files for package: /Game/Blueprints/AbilitySystem/Enemy/Abilities/BP_SlingshotRock
+[2026.01.29-22.52.11:709][217]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BP_SlingshotRockC9EFDBE24AEF987374AD3C8345DC795F.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Enemy/Abilities/BP_SlingshotRock.uasset'
+[2026.01.29-22.52.11:716][217]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.834 ms (total: 634.803 ms)
+[2026.01.29-22.52.11:745][217]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-22.52.11:746][217]LogContentValidation: Enabled validators:
+[2026.01.29-22.52.11:746][217]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-22.52.11:746][217]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-22.52.11:746][217]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-22.52.11:746][217]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-22.52.11:746][217]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-22.52.11:746][217]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-22.52.11:746][217]AssetCheck: /Game/Blueprints/AbilitySystem/Enemy/Abilities/BP_SlingshotRock Validating asset
+[2026.01.29-22.52.21:407][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.01.29-22.52.22:162][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-22.52.22:189][448]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/BP_SlingshotRock] ([2] browsable assets)...
+[2026.01.29-22.52.22:210][448]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AbilitySystem/Enemy/Abilities/BP_SlingshotRock.BP_SlingshotRock]
+[2026.01.29-22.52.22:210][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/BP_SlingshotRock]
+[2026.01.29-22.52.22:213][448]LogSavePackage: Moving output files for package: /Game/Blueprints/AbilitySystem/Enemy/Abilities/BP_SlingshotRock
+[2026.01.29-22.52.22:213][448]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BP_SlingshotRock5BA68F5246728EFEA4F23E891362A38E.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Enemy/Abilities/BP_SlingshotRock.uasset'
+[2026.01.29-22.52.22:219][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.590 ms (total: 691.394 ms)
+[2026.01.29-22.52.22:251][448]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-22.52.22:251][448]LogContentValidation: Enabled validators:
+[2026.01.29-22.52.22:251][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-22.52.22:251][448]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-22.52.22:251][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-22.52.22:251][448]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-22.52.22:251][448]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-22.52.22:251][448]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-22.52.22:251][448]AssetCheck: /Game/Blueprints/AbilitySystem/Enemy/Abilities/BP_SlingshotRock Validating asset
+[2026.01.29-22.53.13:175][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.01.29-22.53.13:177][491]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartupMap' took 0.022
+[2026.01.29-22.53.13:179][491]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack] ([2] browsable assets)...
+[2026.01.29-22.53.13:179][491]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack]
+[2026.01.29-22.53.13:181][491]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack_Auto2
+[2026.01.29-22.53.13:181][491]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/GA_RangedAttack_Auto27E76694F4F77931EF0B8E291EF97F4A4.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/Autosaves/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack_Auto2.uasset'
+[2026.01.29-22.53.13:181][491]LogFileHelpers: Auto-saving content packages took 0.003
+[2026.01.29-22.53.40:922][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.01.29-22.53.41:765][ 93]LogSlate: Window 'Save Content' being destroyed
+[2026.01.29-22.53.41:775][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-22.53.41:800][ 93]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack] ([2] browsable assets)...
+[2026.01.29-22.53.41:800][ 93]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack]
+[2026.01.29-22.53.41:802][ 93]LogSavePackage: Moving output files for package: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack
+[2026.01.29-22.53.41:803][ 93]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/GA_RangedAttack13630B13459399242BA91B8E0FBFA1C9.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack.uasset'
+[2026.01.29-22.53.41:809][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.509 ms (total: 725.903 ms)
+[2026.01.29-22.53.41:836][ 93]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-22.53.41:836][ 93]LogContentValidation: Enabled validators:
+[2026.01.29-22.53.41:836][ 93]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-22.53.41:836][ 93]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-22.53.41:836][ 93]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-22.53.41:836][ 93]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-22.53.41:836][ 93]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-22.53.41:836][ 93]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-22.53.41:836][ 93]AssetCheck: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack Validating asset
