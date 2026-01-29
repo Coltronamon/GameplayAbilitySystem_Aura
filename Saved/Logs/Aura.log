@@ -2843,3 +2843,140 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.29-22.53.41:836][ 93]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.01.29-22.53.41:836][ 93]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.29-22.53.41:836][ 93]AssetCheck: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack Validating asset
+[2026.01.29-22.54.43:867][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.01.29-22.54.44:481][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-22.54.44:509][538]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack] ([2] browsable assets)...
+[2026.01.29-22.54.44:509][538]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack]
+[2026.01.29-22.54.44:511][538]LogSavePackage: Moving output files for package: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack
+[2026.01.29-22.54.44:511][538]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/GA_RangedAttackC39C636F4E5F3384A70F55BABF1CB8A0.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack.uasset'
+[2026.01.29-22.54.44:517][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.852 ms (total: 761.755 ms)
+[2026.01.29-22.54.44:550][538]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-22.54.44:550][538]LogContentValidation: Enabled validators:
+[2026.01.29-22.54.44:550][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-22.54.44:550][538]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-22.54.44:550][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-22.54.44:550][538]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-22.54.44:550][538]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-22.54.44:550][538]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-22.54.44:550][538]AssetCheck: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack Validating asset
+[2026.01.29-22.54.58:345][749]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3555.181152
+[2026.01.29-22.54.59:345][752]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.29-22.54.59:345][752]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3555.847900, Update Interval: 349.214752
+[2026.01.29-22.55.18:846][507]LogAssetEditorSubsystem: Opening Asset editor for CurveTable /Game/Blueprints/AbilitySystem/Data/CT_Damage.CT_Damage
+[2026.01.29-22.56.40:066][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-22.56.40:093][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AbilitySystem/Data/CT_Damage] ([1] browsable assets)...
+[2026.01.29-22.56.40:093][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/Data/CT_Damage]
+[2026.01.29-22.56.40:094][199]LogSavePackage: Moving output files for package: /Game/Blueprints/AbilitySystem/Data/CT_Damage
+[2026.01.29-22.56.40:094][199]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/CT_Damage0287AFFD4C7FA163222A80BF03307769.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Data/CT_Damage.uasset'
+[2026.01.29-22.56.40:102][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.901 ms (total: 797.656 ms)
+[2026.01.29-22.56.40:119][199]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-22.56.40:119][199]LogContentValidation: Enabled validators:
+[2026.01.29-22.56.40:119][199]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-22.56.40:120][199]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-22.56.40:120][199]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-22.56.40:120][199]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-22.56.40:120][199]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-22.56.40:120][199]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-22.56.40:120][199]AssetCheck: /Game/Blueprints/AbilitySystem/Data/CT_Damage Validating asset
+[2026.01.29-22.57.41:053][154]LogDerivedDataCache: C:/Users/kkear/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.29-22.57.47:792][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.01.29-22.57.48:471][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-22.57.48:501][839]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack] ([2] browsable assets)...
+[2026.01.29-22.57.48:502][839]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack]
+[2026.01.29-22.57.48:504][839]LogSavePackage: Moving output files for package: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack
+[2026.01.29-22.57.48:504][839]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/GA_RangedAttack49257D154D0B51D66DE28B9076DC140E.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack.uasset'
+[2026.01.29-22.57.48:510][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.699 ms (total: 836.356 ms)
+[2026.01.29-22.57.48:536][839]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-22.57.48:536][839]LogContentValidation: Enabled validators:
+[2026.01.29-22.57.48:536][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-22.57.48:536][839]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-22.57.48:537][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-22.57.48:537][839]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-22.57.48:537][839]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-22.57.48:537][839]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-22.57.48:537][839]AssetCheck: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack Validating asset
+[2026.01.29-22.58.01:270][865]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AbilitySystem/Aura/Abilities/Fire/FireBolt/GA_FireBolt.GA_FireBolt
+[2026.01.29-22.58.01:271][865]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.01.29-22.58.12:862][214]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-22.58.12:862][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-22.58.12:919][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.01.29-22.58.25:419][238]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-22.58.25:448][238]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack] ([2] browsable assets)...
+[2026.01.29-22.58.25:448][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack]
+[2026.01.29-22.58.25:449][238]LogSavePackage: Moving output files for package: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack
+[2026.01.29-22.58.25:450][238]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/GA_RangedAttack513AA38646D8352BF1107B9FB6F72148.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack.uasset'
+[2026.01.29-22.58.25:455][238]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.638 ms (total: 872.994 ms)
+[2026.01.29-22.58.25:474][238]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-22.58.25:474][238]LogContentValidation: Enabled validators:
+[2026.01.29-22.58.25:474][238]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-22.58.25:474][238]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-22.58.25:474][238]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-22.58.25:474][238]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-22.58.25:474][238]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-22.58.25:474][238]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-22.58.25:475][238]AssetCheck: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack Validating asset
+[2026.01.29-22.59.08:728][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-22.59.08:765][309]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AbilitySystem/Data/CT_Damage] ([1] browsable assets)...
+[2026.01.29-22.59.08:765][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/Data/CT_Damage]
+[2026.01.29-22.59.08:767][309]LogSavePackage: Moving output files for package: /Game/Blueprints/AbilitySystem/Data/CT_Damage
+[2026.01.29-22.59.08:767][309]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/CT_Damage6C67426B416265A3A38E0986DC68321D.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Data/CT_Damage.uasset'
+[2026.01.29-22.59.08:773][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.745 ms (total: 918.740 ms)
+[2026.01.29-22.59.08:794][309]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-22.59.08:795][309]LogContentValidation: Enabled validators:
+[2026.01.29-22.59.08:795][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-22.59.08:795][309]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-22.59.08:795][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-22.59.08:795][309]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-22.59.08:795][309]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-22.59.08:795][309]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-22.59.08:795][309]AssetCheck: /Game/Blueprints/AbilitySystem/Data/CT_Damage Validating asset
+[2026.01.29-22.59.41:609][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-22.59.41:639][699]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AbilitySystem/Data/CT_Damage] ([1] browsable assets)...
+[2026.01.29-22.59.41:639][699]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/Data/CT_Damage]
+[2026.01.29-22.59.41:641][699]LogSavePackage: Moving output files for package: /Game/Blueprints/AbilitySystem/Data/CT_Damage
+[2026.01.29-22.59.41:641][699]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/CT_Damage3B1F14E9423490BC35FE76B1F628A7DF.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Data/CT_Damage.uasset'
+[2026.01.29-22.59.41:648][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.198 ms (total: 956.938 ms)
+[2026.01.29-22.59.41:676][699]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-22.59.41:676][699]LogContentValidation: Enabled validators:
+[2026.01.29-22.59.41:676][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-22.59.41:676][699]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-22.59.41:678][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-22.59.41:678][699]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-22.59.41:678][699]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-22.59.41:678][699]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-22.59.41:678][699]AssetCheck: /Game/Blueprints/AbilitySystem/Data/CT_Damage Validating asset
+[2026.01.29-23.00.30:472][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.01.29-23.00.31:345][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-23.00.31:372][508]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack] ([2] browsable assets)...
+[2026.01.29-23.00.31:372][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack]
+[2026.01.29-23.00.31:374][508]LogSavePackage: Moving output files for package: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack
+[2026.01.29-23.00.31:374][508]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/GA_RangedAttack20D6023B4522D11CB79D1B974CDDA1C8.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack.uasset'
+[2026.01.29-23.00.31:379][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.159 ms (total: 991.097 ms)
+[2026.01.29-23.00.31:398][508]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-23.00.31:399][508]LogContentValidation: Enabled validators:
+[2026.01.29-23.00.31:399][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-23.00.31:399][508]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-23.00.31:399][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-23.00.31:399][508]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-23.00.31:399][508]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-23.00.31:399][508]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-23.00.31:399][508]AssetCheck: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack Validating asset
+[2026.01.29-23.01.37:208][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-23.01.37:241][402]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack] ([2] browsable assets)...
+[2026.01.29-23.01.37:241][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack]
+[2026.01.29-23.01.37:243][402]LogSavePackage: Moving output files for package: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack
+[2026.01.29-23.01.37:243][402]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/GA_RangedAttackF657D7E640076254DE395DA890AB4147.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack.uasset'
+[2026.01.29-23.01.37:248][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.250 ms (total: 1.03 sec)
+[2026.01.29-23.01.37:281][402]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-23.01.37:281][402]LogContentValidation: Enabled validators:
+[2026.01.29-23.01.37:281][402]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-23.01.37:281][402]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-23.01.37:281][402]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-23.01.37:282][402]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-23.01.37:282][402]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-23.01.37:282][402]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-23.01.37:282][402]AssetCheck: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack Validating asset
+[2026.01.29-23.01.45:315][365]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3962.101562
+[2026.01.29-23.01.45:482][385]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.29-23.01.45:482][385]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3962.260498, Update Interval: 357.549988
+[2026.01.29-23.02.32:679][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
