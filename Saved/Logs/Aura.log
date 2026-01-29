@@ -3452,3 +3452,98 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.29-23.23.47:447][208]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
 [2026.01.29-23.23.47:455][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
 [2026.01.29-23.23.47:506][209]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.01.29-23.25.56:485][914]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.01.29-23.25.56:499][915]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.01.29-23.25.59:396][254]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.01.29-23.25.59:437][256]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.01.29-23.26.25:317][280]LogStreaming: Display: FlushAsyncLoading(492): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.29-23.26.25:321][280]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Assets/Enemies/Goblin/Animations/Slingshot/Attack_Slingshot.Attack_Slingshot
+[2026.01.29-23.26.25:326][280]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.01.29-23.26.25:332][280]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Assets/Enemies/Goblin/Animations/Slingshot/Attack_Slingshot.Attack_Slingshot (Required Memory Estimate: 2.63 MB)
+[2026.01.29-23.26.25:344][280]LogAnimationCompression: Display: Storing compressed animation data for /Game/Assets/Enemies/Goblin/Animations/Slingshot/Attack_Slingshot.Attack_Slingshot, at AnimationSequence/3b2aa5876b31126acd1f09afcb9d617552c7271c
+[2026.01.29-23.26.25:349][280]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.29-23.26.25:579][280]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.01.29-23.26.25:967][280]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.01.29-23.26.25:971][280]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2026.01.29-23.26.25:977][280]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.01.29-23.26.39:317][407]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-23.26.39:317][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-23.26.39:323][407]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-23.26.39:324][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-23.26.39:355][407]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-23.26.39:355][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-23.26.39:394][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.01.29-23.26.46:277][213]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-23.26.46:277][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-23.26.46:357][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.01.29-23.26.48:339][447]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-23.26.48:339][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-23.26.48:409][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.01.29-23.26.56:596][393]LogContentBrowser: Deferred new asset file creation: Attack_Slingshot_Montage
+[2026.01.29-23.26.56:602][393]LogContentBrowser: Creating deferred item: Attack_Slingshot_Montage
+[2026.01.29-23.26.56:611][394]LogContentBrowser: Renaming the item being created (Deferred Item: Attack_Slingshot_Montage).
+[2026.01.29-23.27.15:436][456]LogContentBrowser: Attempting asset rename: Attack_Slingshot_Montage -> AM_Attack_GoblinSlingshot
+[2026.01.29-23.27.15:437][456]LogContentBrowser: End creating deferred item Attack_Slingshot_Montage
+[2026.01.29-23.27.18:680][798]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Assets/Enemies/Goblin/Animations/Slingshot/AM_Attack_GoblinSlingshot.AM_Attack_GoblinSlingshot
+[2026.01.29-23.27.18:680][798]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.01.29-23.27.18:685][798]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.29-23.27.18:907][798]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.01.29-23.28.01:690][658]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5538.210938
+[2026.01.29-23.28.01:773][668]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.29-23.28.01:773][668]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5538.284668, Update Interval: 358.553406
+[2026.01.29-23.28.32:437][  4]LogAbilitySystem: Error: UAbilitySystemBlueprintLibrary::SendGameplayEventToActor: Invalid ability system component retrieved from Actor AnimationEditorPreviewActor_0. EventTag was None
+[2026.01.29-23.28.32:779][ 45]LogAbilitySystem: Error: UAbilitySystemBlueprintLibrary::SendGameplayEventToActor: Invalid ability system component retrieved from Actor AnimationEditorPreviewActor_0. EventTag was None
+[2026.01.29-23.28.34:137][208]LogAbilitySystem: Error: UAbilitySystemBlueprintLibrary::SendGameplayEventToActor: Invalid ability system component retrieved from Actor AnimationEditorPreviewActor_0. EventTag was None
+[2026.01.29-23.28.35:304][348]LogAbilitySystem: Error: UAbilitySystemBlueprintLibrary::SendGameplayEventToActor: Invalid ability system component retrieved from Actor AnimationEditorPreviewActor_0. EventTag was None
+[2026.01.29-23.28.48:730][958]LogAbilitySystem: Error: UAbilitySystemBlueprintLibrary::SendGameplayEventToActor: Invalid ability system component retrieved from Actor AnimationEditorPreviewActor_0. EventTag was None
+[2026.01.29-23.28.50:047][116]LogAbilitySystem: Error: UAbilitySystemBlueprintLibrary::SendGameplayEventToActor: Invalid ability system component retrieved from Actor AnimationEditorPreviewActor_0. EventTag was None
+[2026.01.29-23.29.44:060][249]LogAbilitySystem: Error: UAbilitySystemBlueprintLibrary::SendGameplayEventToActor: Invalid ability system component retrieved from Actor AnimationEditorPreviewActor_0. EventTag was Montage.Attack.Weapon
+[2026.01.29-23.30.04:342][505]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-23.30.04:372][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Enemies/Goblin/Animations/Slingshot/AM_Attack_GoblinSlingshot] ([1] browsable assets)...
+[2026.01.29-23.30.04:379][505]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Assets/Enemies/Goblin/Animations/Slingshot/AM_Attack_GoblinSlingshot.AM_Attack_GoblinSlingshot]
+[2026.01.29-23.30.04:379][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Goblin/Animations/Slingshot/AM_Attack_GoblinSlingshot]
+[2026.01.29-23.30.04:380][505]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Goblin/Animations/Slingshot/AM_Attack_GoblinSlingshot
+[2026.01.29-23.30.04:380][505]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/AM_Attack_GoblinSlingshotF4E280E943FE4916A4C7E894A6FFCB68.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Goblin/Animations/Slingshot/AM_Attack_GoblinSlingshot.uasset'
+[2026.01.29-23.30.04:389][505]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.204 ms (total: 1.30 sec)
+[2026.01.29-23.30.04:407][505]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-23.30.04:407][505]LogContentValidation: Enabled validators:
+[2026.01.29-23.30.04:407][505]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-23.30.04:407][505]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-23.30.04:407][505]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-23.30.04:407][505]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-23.30.04:407][505]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-23.30.04:407][505]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-23.30.04:407][505]AssetCheck: /Game/Assets/Enemies/Goblin/Animations/Slingshot/AM_Attack_GoblinSlingshot Validating asset
+[2026.01.29-23.30.04:428][505]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.29-23.30.33:974][941]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.01.29-23.30.33:989][942]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.01.29-23.30.40:633][719]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Character/Goblin_Slingshot/BP_Goblin_Slingshot.BP_Goblin_Slingshot
+[2026.01.29-23.30.40:634][719]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.01.29-23.30.42:679][915]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-23.30.42:680][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-23.30.42:706][915]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Character/Goblin_Slingshot/BP_Goblin_Slingshot.BP_Goblin_Slingshot
+[2026.01.29-23.30.42:707][915]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.01.29-23.30.43:109][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.01.29-23.31.19:854][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.01.29-23.31.20:932][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-23.31.20:965][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/Goblin_Slingshot/BP_Goblin_Slingshot] ([2] browsable assets)...
+[2026.01.29-23.31.20:989][563]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/Goblin_Slingshot/BP_Goblin_Slingshot.BP_Goblin_Slingshot]
+[2026.01.29-23.31.20:989][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Goblin_Slingshot/BP_Goblin_Slingshot]
+[2026.01.29-23.31.20:993][563]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/Goblin_Slingshot/BP_Goblin_Slingshot
+[2026.01.29-23.31.20:993][563]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BP_Goblin_Slingshot3A73EA1A46DE9FE1260C8CB370E28789.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Character/Goblin_Slingshot/BP_Goblin_Slingshot.uasset'
+[2026.01.29-23.31.21:001][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.903 ms (total: 1.36 sec)
+[2026.01.29-23.31.21:026][563]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-23.31.21:026][563]LogContentValidation: Enabled validators:
+[2026.01.29-23.31.21:026][563]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-23.31.21:026][563]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-23.31.21:026][563]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-23.31.21:026][563]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-23.31.21:026][563]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-23.31.21:026][563]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-23.31.21:026][563]AssetCheck: /Game/Blueprints/Character/Goblin_Slingshot/BP_Goblin_Slingshot Validating asset
+[2026.01.29-23.31.23:614][858]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.01.29-23.31.25:273][ 47]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.01.29-23.31.26:586][179]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Enemies/Goblin/Slingshot/Centered/SKM_Slingshot.SKM_Slingshot
+[2026.01.29-23.31.26:587][179]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.01.29-23.31.26:591][179]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.29-23.32.50:055][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
