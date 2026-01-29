@@ -2980,3 +2980,475 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.29-23.01.45:482][385]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.29-23.01.45:482][385]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3962.260498, Update Interval: 357.549988
 [2026.01.29-23.02.32:679][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.01.29-23.08.39:106][313]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4375.901855
+[2026.01.29-23.08.40:105][316]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.29-23.08.40:105][316]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4376.568848, Update Interval: 340.853912
+[2026.01.29-23.15.04:155][142]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4760.869629
+[2026.01.29-23.15.04:255][154]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.29-23.15.04:255][154]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4760.961426, Update Interval: 334.172180
+[2026.01.29-23.20.24:496][398]LogAssetEditorSubsystem: Opening Asset editor for CharacterClassInfo /Game/Blueprints/AbilitySystem/Data/DA_CharacterClassInfo.DA_CharacterClassInfo
+[2026.01.29-23.20.41:739][424]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-23.20.41:766][424]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AbilitySystem/Data/DA_CharacterClassInfo] ([1] browsable assets)...
+[2026.01.29-23.20.41:767][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/Data/DA_CharacterClassInfo]
+[2026.01.29-23.20.41:768][424]LogSavePackage: Moving output files for package: /Game/Blueprints/AbilitySystem/Data/DA_CharacterClassInfo
+[2026.01.29-23.20.41:768][424]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/DA_CharacterClassInfoD01EEED34E6C60729DEDEBB25030EDBC.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Data/DA_CharacterClassInfo.uasset'
+[2026.01.29-23.20.41:774][424]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.410 ms (total: 1.06 sec)
+[2026.01.29-23.20.41:792][424]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-23.20.41:792][424]LogContentValidation: Enabled validators:
+[2026.01.29-23.20.41:792][424]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-23.20.41:792][424]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-23.20.41:792][424]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-23.20.41:792][424]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-23.20.41:792][424]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-23.20.41:792][424]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-23.20.41:794][424]AssetCheck: /Game/Blueprints/AbilitySystem/Data/DA_CharacterClassInfo Validating asset
+[2026.01.29-23.21.24:277][817]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5140.887695
+[2026.01.29-23.21.24:368][828]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.29-23.21.24:368][828]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5140.969727, Update Interval: 356.427490
+[2026.01.29-23.21.40:234][ 38]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.29-23.21.40:255][ 38]LogAutomationController: Ignoring very large delta of 3.43 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.01.29-23.21.45:037][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.01.29-23.21.45:782][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-23.21.45:809][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack] ([2] browsable assets)...
+[2026.01.29-23.21.45:809][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack]
+[2026.01.29-23.21.45:811][691]LogSavePackage: Moving output files for package: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack
+[2026.01.29-23.21.45:811][691]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/GA_RangedAttackEE6E6A8A42F8EE79F13E45935D211207.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack.uasset'
+[2026.01.29-23.21.45:817][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.207 ms (total: 1.10 sec)
+[2026.01.29-23.21.45:835][691]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-23.21.45:835][691]LogContentValidation: Enabled validators:
+[2026.01.29-23.21.45:835][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-23.21.45:835][691]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-23.21.45:835][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-23.21.45:835][691]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-23.21.45:835][691]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-23.21.45:835][691]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-23.21.45:835][691]AssetCheck: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack Validating asset
+[2026.01.29-23.21.48:432][  1]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.29-23.21.48:453][  1]LogPlayLevel: [PlayLevel] Compiling GA_HitReact before play...
+[2026.01.29-23.21.48:457][  1]LogPlayLevel: [PlayLevel] Compiling GA_FireBolt before play...
+[2026.01.29-23.21.48:464][  1]LogPlayLevel: [PlayLevel] Compiling ABP_Aura before play...
+[2026.01.29-23.21.48:464][  1]LogPlayLevel: [PlayLevel]   Compiling BP_AuraCharacter as a dependent...
+[2026.01.29-23.21.48:492][  1]LogPlayLevel: [PlayLevel] Compiling BP_EnemyBase before play...
+[2026.01.29-23.21.48:492][  1]LogPlayLevel: [PlayLevel]   Compiling BP_Ghoul as a dependent...
+[2026.01.29-23.21.48:492][  1]LogPlayLevel: [PlayLevel]   Compiling BP_Goblin_Slingshot as a dependent...
+[2026.01.29-23.21.48:492][  1]LogPlayLevel: [PlayLevel]   Compiling BP_Goblin_Spear as a dependent...
+[2026.01.29-23.21.48:632][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.01.29-23.21.48:634][  1]LogPlayLevel: PlayLevel: Blueprint regeneration took 180 ms (8 blueprints)
+[2026.01.29-23.21.48:634][  1]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2026.01.29-23.21.48:645][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010922s)
+[2026.01.29-23.21.48:646][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.011210s)
+[2026.01.29-23.21.48:665][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.01.29-23.21.48:666][  1]LogChaosDD: Creating Chaos Debug Draw Scene for world StartupMap
+[2026.01.29-23.21.48:668][  1]LogPlayLevel: PIE: World Init took: (0.001373s)
+[2026.01.29-23.21.48:669][  1]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.01.29-23.21.48:669][  1]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.29-23.21.48:669][  1]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.29-23.21.48:669][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.29-23.21.48:669][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.29-23.21.48:669][  1]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.29-23.21.48:669][  1]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.29-23.21.48:669][  1]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.29-23.21.48:669][  1]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.29-23.21.48:669][  1]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.29-23.21.48:669][  1]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.29-23.21.48:669][  1]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.29-23.21.48:672][  1]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.29-23.21.48:686][  1]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.01.29-23.21.48:687][  1]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.29-23.21.48:687][  1]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.29-23.21.48:687][  1]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.29-23.21.48:687][  1]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.01.29-23.21.48:687][  1]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.01.29-23.21.48:690][  1]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.01.29-23.21.48:690][  1]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.01.29-23.21.48:690][  1]LogInit: FAudioDevice initialized with ID 9.
+[2026.01.29-23.21.48:690][  1]LogAudio: Display: Audio Device (ID: 9) registered with world 'StartupMap'.
+[2026.01.29-23.21.48:690][  1]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.01.29-23.21.48:695][  1]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2026.01.29-23.21.48:699][  1]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2026.01.29-18.21.48
+[2026.01.29-23.21.48:702][  1]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2026.01.29-23.21.48:704][  1]LogWorld: Bringing up level for play took: 0.009507
+[2026.01.29-23.21.48:707][  1]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 112.500000
+[2026.01.29-23.21.48:707][  1]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.01.29-23.21.48:707][  1]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.01.29-23.21.48:707][  1]LogPushModel: PushModel HandleCreation is now enabled
+[2026.01.29-23.21.48:707][  1]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.01.29-23.21.48:707][  1]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2026.01.29-23.21.48:707][  1]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2026.01.29-23.21.48:707][  1]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.01.29-23.21.48:707][  1]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_7 IpNetDriver listening on port 17777
+[2026.01.29-23.21.48:709][  1]LogTemp: Warning: Changed Health on BP_Ghoul_C_1, Health: 29.375000
+[2026.01.29-23.21.48:709][  1]LogTemp: Warning: Changed Health on BP_Goblin_Slingshot_C_2, Health: 29.375000
+[2026.01.29-23.21.48:709][  1]LogTemp: Warning: Changed Health on BP_Goblin_Spear_C_1, Health: 29.375000
+[2026.01.29-23.21.48:710][  1]LogTemp: Warning: Changed Health on BP_Goblin_Spear_C_3, Health: 29.375000
+[2026.01.29-23.21.48:710][  1]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.29-23.21.48:710][  1]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.01.29-23.21.48:711][  1]PIE: Server logged in
+[2026.01.29-23.21.48:712][  1]PIE: Play in editor total start time 0.272 seconds.
+[2026.01.29-23.21.58:956][223]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.21.58:956][223]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.21.58:956][223]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.21.59:445][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.29-23.21.59:445][278]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2026.01.29-23.21.59:445][278]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.29-23.21.59:445][278]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-23.21.59:446][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-23.21.59:450][278]LogNet: World NetDriver shutdown IpNetDriver_7 [GameNetDriver]
+[2026.01.29-23.21.59:451][278]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_7 
+[2026.01.29-23.21.59:451][278]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_7 shut down
+[2026.01.29-23.21.59:451][278]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.29-23.21.59:454][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-23.21.59:476][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.29-23.21.59:477][278]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.01.29-23.21.59:477][278]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.01.29-23.21.59:478][278]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.01.29-23.21.59:487][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.01.29-23.21.59:535][279]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2026.01.29-23.22.00:011][334]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.29-23.22.00:025][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.29-23.22.00:025][334]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2026.01.29-23.22.00:036][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010427s)
+[2026.01.29-23.22.00:036][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.010642s)
+[2026.01.29-23.22.00:055][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.01.29-23.22.00:057][334]LogChaosDD: Creating Chaos Debug Draw Scene for world StartupMap
+[2026.01.29-23.22.00:059][334]LogPlayLevel: PIE: World Init took: (0.001277s)
+[2026.01.29-23.22.00:059][334]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.01.29-23.22.00:059][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.29-23.22.00:059][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.29-23.22.00:059][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.29-23.22.00:059][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.29-23.22.00:059][334]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.29-23.22.00:059][334]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.29-23.22.00:059][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.29-23.22.00:059][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.29-23.22.00:060][334]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.29-23.22.00:060][334]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.29-23.22.00:060][334]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.29-23.22.00:062][334]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.29-23.22.00:076][334]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.01.29-23.22.00:076][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.29-23.22.00:076][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.29-23.22.00:076][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.29-23.22.00:077][334]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.01.29-23.22.00:077][334]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.01.29-23.22.00:079][334]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.01.29-23.22.00:079][334]LogInit: FAudioDevice initialized with ID 10.
+[2026.01.29-23.22.00:079][334]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.01.29-23.22.00:079][334]LogAudio: Display: Audio Device (ID: 10) registered with world 'StartupMap'.
+[2026.01.29-23.22.00:079][334]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.01.29-23.22.00:082][334]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2026.01.29-23.22.00:087][334]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2026.01.29-18.22.00
+[2026.01.29-23.22.00:089][334]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2026.01.29-23.22.00:091][334]LogWorld: Bringing up level for play took: 0.008453
+[2026.01.29-23.22.00:092][334]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 112.500000
+[2026.01.29-23.22.00:094][334]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.01.29-23.22.00:094][334]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.01.29-23.22.00:094][334]LogPushModel: PushModel HandleCreation is now enabled
+[2026.01.29-23.22.00:094][334]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.01.29-23.22.00:094][334]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2026.01.29-23.22.00:095][334]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2026.01.29-23.22.00:095][334]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.01.29-23.22.00:095][334]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_8 IpNetDriver listening on port 17777
+[2026.01.29-23.22.00:095][334]LogTemp: Warning: Changed Health on BP_Ghoul_C_1, Health: 29.375000
+[2026.01.29-23.22.00:096][334]LogTemp: Warning: Changed Health on BP_Goblin_Slingshot_C_2, Health: 29.375000
+[2026.01.29-23.22.00:096][334]LogTemp: Warning: Changed Health on BP_Goblin_Spear_C_1, Health: 29.375000
+[2026.01.29-23.22.00:096][334]LogTemp: Warning: Changed Health on BP_Goblin_Spear_C_3, Health: 29.375000
+[2026.01.29-23.22.00:096][334]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.29-23.22.00:097][334]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.01.29-23.22.00:097][334]PIE: Server logged in
+[2026.01.29-23.22.00:099][334]PIE: Play in editor total start time 0.079 seconds.
+[2026.01.29-23.22.04:811][894]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.04:811][894]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.04:811][894]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.06:545][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.29-23.22.06:545][ 98]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2026.01.29-23.22.06:545][ 98]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.29-23.22.06:546][ 98]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-23.22.06:547][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-23.22.06:551][ 98]LogNet: World NetDriver shutdown IpNetDriver_8 [GameNetDriver]
+[2026.01.29-23.22.06:551][ 98]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_8 
+[2026.01.29-23.22.06:551][ 98]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_8 shut down
+[2026.01.29-23.22.06:551][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.29-23.22.06:553][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-23.22.06:573][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.29-23.22.06:573][ 98]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.01.29-23.22.06:573][ 98]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.01.29-23.22.06:575][ 98]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.01.29-23.22.06:582][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.01.29-23.22.06:629][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.01.29-23.22.13:593][721]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.01.29-23.22.14:476][825]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.29-23.22.14:488][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.29-23.22.14:488][825]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2026.01.29-23.22.14:499][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010204s)
+[2026.01.29-23.22.14:499][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.010406s)
+[2026.01.29-23.22.14:519][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.01.29-23.22.14:520][825]LogChaosDD: Creating Chaos Debug Draw Scene for world StartupMap
+[2026.01.29-23.22.14:521][825]LogPlayLevel: PIE: World Init took: (0.001240s)
+[2026.01.29-23.22.14:522][825]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.01.29-23.22.14:522][825]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.29-23.22.14:522][825]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.29-23.22.14:522][825]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.29-23.22.14:522][825]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.29-23.22.14:522][825]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.29-23.22.14:522][825]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.29-23.22.14:523][825]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.29-23.22.14:523][825]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.29-23.22.14:523][825]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.29-23.22.14:523][825]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.29-23.22.14:523][825]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.29-23.22.14:525][825]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.29-23.22.14:539][825]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.01.29-23.22.14:539][825]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.29-23.22.14:539][825]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.29-23.22.14:539][825]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.29-23.22.14:540][825]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.01.29-23.22.14:540][825]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.01.29-23.22.14:542][825]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.01.29-23.22.14:542][825]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.01.29-23.22.14:542][825]LogInit: FAudioDevice initialized with ID 11.
+[2026.01.29-23.22.14:542][825]LogAudio: Display: Audio Device (ID: 11) registered with world 'StartupMap'.
+[2026.01.29-23.22.14:542][825]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.01.29-23.22.14:545][825]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2026.01.29-23.22.14:550][825]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2026.01.29-18.22.14
+[2026.01.29-23.22.14:552][825]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.01.29-23.22.14:554][825]LogWorld: Bringing up level for play took: 0.008649
+[2026.01.29-23.22.14:556][825]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 112.500000
+[2026.01.29-23.22.14:557][825]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.01.29-23.22.14:557][825]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.01.29-23.22.14:557][825]LogPushModel: PushModel HandleCreation is now enabled
+[2026.01.29-23.22.14:557][825]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.01.29-23.22.14:559][825]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2026.01.29-23.22.14:559][825]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2026.01.29-23.22.14:559][825]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.01.29-23.22.14:559][825]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_9 IpNetDriver listening on port 17777
+[2026.01.29-23.22.14:559][825]LogTemp: Warning: Changed Health on BP_Ghoul_C_1, Health: 29.375000
+[2026.01.29-23.22.14:559][825]LogTemp: Warning: Changed Health on BP_Goblin_Slingshot_C_2, Health: 29.375000
+[2026.01.29-23.22.14:560][825]LogTemp: Warning: Changed Health on BP_Goblin_Spear_C_1, Health: 29.375000
+[2026.01.29-23.22.14:560][825]LogTemp: Warning: Changed Health on BP_Goblin_Spear_C_3, Health: 29.375000
+[2026.01.29-23.22.14:560][825]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.29-23.22.14:561][825]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.01.29-23.22.14:561][825]PIE: Server logged in
+[2026.01.29-23.22.14:563][825]PIE: Play in editor total start time 0.079 seconds.
+[2026.01.29-23.22.17:876][217]LogTemp: Warning: Changed Health on BP_Goblin_Slingshot_C_2, Health: 24.375000
+[2026.01.29-23.22.18:108][245]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.18:108][245]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.18:108][245]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.18:768][324]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.18:768][324]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.18:768][324]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.20:055][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.29-23.22.20:055][474]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2026.01.29-23.22.20:055][474]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.29-23.22.20:055][474]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-23.22.20:056][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-23.22.20:060][474]LogNet: World NetDriver shutdown IpNetDriver_9 [GameNetDriver]
+[2026.01.29-23.22.20:060][474]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_9 
+[2026.01.29-23.22.20:060][474]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_9 shut down
+[2026.01.29-23.22.20:060][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.29-23.22.20:063][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-23.22.20:083][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.29-23.22.20:084][474]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.01.29-23.22.20:084][474]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.01.29-23.22.20:087][474]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.01.29-23.22.20:093][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.01.29-23.22.20:132][475]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.01.29-23.22.44:542][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.01.29-23.22.45:147][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-23.22.45:170][940]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack] ([2] browsable assets)...
+[2026.01.29-23.22.45:170][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack]
+[2026.01.29-23.22.45:172][940]LogSavePackage: Moving output files for package: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack
+[2026.01.29-23.22.45:173][940]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/GA_RangedAttackAFF4159649E98AAA758F9382A7F8CDFD.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack.uasset'
+[2026.01.29-23.22.45:178][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.747 ms (total: 1.13 sec)
+[2026.01.29-23.22.45:210][940]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-23.22.45:210][940]LogContentValidation: Enabled validators:
+[2026.01.29-23.22.45:210][940]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-23.22.45:210][940]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-23.22.45:210][940]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-23.22.45:210][940]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-23.22.45:210][940]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-23.22.45:210][940]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-23.22.45:211][940]AssetCheck: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_RangedAttack Validating asset
+[2026.01.29-23.22.48:024][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.01.29-23.22.49:131][271]LogSlate: Window 'Save Content' being destroyed
+[2026.01.29-23.22.49:144][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-23.22.49:169][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartupMap" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Maps/StartupMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.29-23.22.49:214][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.29-23.22.49:243][271]LogSavePackage: Moving output files for package: /Game/Maps/StartupMap
+[2026.01.29-23.22.49:243][271]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/StartupMapA2182A5D4D6BB713D9AF428C51019854.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Maps/StartupMap.umap'
+[2026.01.29-23.22.49:257][271]LogFileHelpers: Saving map 'StartupMap' took 0.089
+[2026.01.29-23.22.49:265][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.628 ms (total: 1.25 sec)
+[2026.01.29-23.22.49:295][271]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-23.22.49:295][271]LogContentValidation: Enabled validators:
+[2026.01.29-23.22.49:295][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-23.22.49:295][271]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-23.22.49:295][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-23.22.49:295][271]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-23.22.49:295][271]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-23.22.49:295][271]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-23.22.49:295][271]AssetCheck: /Game/Maps/StartupMap Validating asset
+[2026.01.29-23.22.51:454][517]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.29-23.22.51:466][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.29-23.22.51:466][517]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2026.01.29-23.22.51:477][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010337s)
+[2026.01.29-23.22.51:477][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.010637s)
+[2026.01.29-23.22.51:496][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.01.29-23.22.51:497][517]LogChaosDD: Creating Chaos Debug Draw Scene for world StartupMap
+[2026.01.29-23.22.51:498][517]LogPlayLevel: PIE: World Init took: (0.001351s)
+[2026.01.29-23.22.51:500][517]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.01.29-23.22.51:500][517]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.29-23.22.51:500][517]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.29-23.22.51:500][517]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.29-23.22.51:500][517]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.29-23.22.51:500][517]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.29-23.22.51:500][517]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.29-23.22.51:501][517]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.29-23.22.51:501][517]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.29-23.22.51:501][517]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.29-23.22.51:501][517]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.29-23.22.51:501][517]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.29-23.22.51:503][517]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.29-23.22.51:517][517]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.01.29-23.22.51:517][517]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.29-23.22.51:517][517]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.29-23.22.51:517][517]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.29-23.22.51:517][517]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.01.29-23.22.51:517][517]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.01.29-23.22.51:520][517]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.01.29-23.22.51:520][517]LogInit: FAudioDevice initialized with ID 12.
+[2026.01.29-23.22.51:520][517]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.01.29-23.22.51:520][517]LogAudio: Display: Audio Device (ID: 12) registered with world 'StartupMap'.
+[2026.01.29-23.22.51:520][517]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.01.29-23.22.51:523][517]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2026.01.29-23.22.51:529][517]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2026.01.29-18.22.51
+[2026.01.29-23.22.51:530][517]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.01.29-23.22.51:532][517]LogWorld: Bringing up level for play took: 0.008608
+[2026.01.29-23.22.51:534][517]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 112.500000
+[2026.01.29-23.22.51:535][517]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.01.29-23.22.51:535][517]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.01.29-23.22.51:535][517]LogPushModel: PushModel HandleCreation is now enabled
+[2026.01.29-23.22.51:535][517]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.01.29-23.22.51:535][517]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2026.01.29-23.22.51:535][517]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2026.01.29-23.22.51:535][517]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.01.29-23.22.51:535][517]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_10 IpNetDriver listening on port 17777
+[2026.01.29-23.22.51:536][517]LogTemp: Warning: Changed Health on BP_Ghoul_C_1, Health: 29.375000
+[2026.01.29-23.22.51:536][517]LogTemp: Warning: Changed Health on BP_Goblin_Slingshot_C_2, Health: 29.375000
+[2026.01.29-23.22.51:537][517]LogTemp: Warning: Changed Health on BP_Goblin_Spear_C_1, Health: 29.375000
+[2026.01.29-23.22.51:537][517]LogTemp: Warning: Changed Health on BP_Goblin_Spear_C_3, Health: 29.375000
+[2026.01.29-23.22.51:537][517]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.01.29-23.22.51:537][517]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.01.29-23.22.51:537][517]PIE: Server logged in
+[2026.01.29-23.22.51:540][517]PIE: Play in editor total start time 0.078 seconds.
+[2026.01.29-23.22.54:473][863]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.54:473][863]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.54:473][863]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.55:782][ 20]LogTemp: Warning: Changed Health on BP_Goblin_Slingshot_C_2, Health: 24.375000
+[2026.01.29-23.22.55:932][ 38]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.55:932][ 38]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.55:932][ 38]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.57:216][192]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.57:216][192]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.57:216][192]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.58:765][378]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.58:765][378]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.58:765][378]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.59:474][463]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.59:474][463]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.22.59:474][463]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.00:416][576]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.00:416][576]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.00:416][576]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.06:016][248]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.06:016][248]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.06:016][248]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.07:891][473]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.07:892][473]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.07:892][473]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.09:225][633]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.09:225][633]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.09:225][633]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.12:134][982]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.12:135][982]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.12:135][982]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.13:793][181]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.13:793][181]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.13:793][181]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.15:010][327]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.15:010][327]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.15:011][327]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.16:035][450]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.16:035][450]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.16:035][450]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.21:303][ 82]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.21:303][ 82]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.21:303][ 82]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Physical on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.22:103][178]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.22:103][178]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.22:103][178]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.24:737][494]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.24:737][494]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.24:737][494]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Physical on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.24:812][503]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.24:812][503]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.24:812][503]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.26:346][687]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.26:346][687]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.26:346][687]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.29:936][116]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.29:937][116]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.29:937][116]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Physical on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.32:370][408]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.32:370][408]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.32:370][408]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Physical on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.34:177][625]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.34:177][625]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.34:177][625]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Physical on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.35:637][800]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.35:637][800]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.35:637][800]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Physical on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.36:629][919]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.36:629][919]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.36:629][919]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Physical on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.37:420][ 14]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.37:420][ 14]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.37:420][ 14]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Physical on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.38:352][126]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.38:352][126]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.38:352][126]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.38:386][130]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.38:386][130]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.38:386][130]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Physical on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.40:011][325]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.40:011][325]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.40:012][325]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Physical on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.40:427][375]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.40:427][375]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.40:429][375]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.01.29-23.23.46:372][ 88]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 26.759964
+[2026.01.29-23.23.46:472][100]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 27.759964
+[2026.01.29-23.23.46:546][109]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 46.509964
+[2026.01.29-23.23.46:571][112]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 47.509964
+[2026.01.29-23.23.46:630][119]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 57.509964
+[2026.01.29-23.23.46:671][124]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 58.509964
+[2026.01.29-23.23.46:771][136]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 59.509964
+[2026.01.29-23.23.46:871][148]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 60.509964
+[2026.01.29-23.23.46:971][160]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 61.509964
+[2026.01.29-23.23.47:072][172]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 62.509964
+[2026.01.29-23.23.47:171][184]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 63.509964
+[2026.01.29-23.23.47:415][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.29-23.23.47:415][208]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2026.01.29-23.23.47:415][208]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.01.29-23.23.47:415][208]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-23.23.47:417][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-23.23.47:420][208]LogNet: World NetDriver shutdown IpNetDriver_10 [GameNetDriver]
+[2026.01.29-23.23.47:420][208]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_10 
+[2026.01.29-23.23.47:421][208]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_10 shut down
+[2026.01.29-23.23.47:421][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.29-23.23.47:424][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-23.23.47:445][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.29-23.23.47:445][208]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.01.29-23.23.47:445][208]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2026.01.29-23.23.47:447][208]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2026.01.29-23.23.47:455][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.01.29-23.23.47:506][209]LogPlayLevel: Display: Destroying online subsystem :Context_26
