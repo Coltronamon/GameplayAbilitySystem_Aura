@@ -1528,3 +1528,155 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.30-23.22.02:830][283]AssetCheck: /Game/Assets/Enemies/Shaman/Animations/BS_IdleWalk Validating asset
 [2026.01.30-23.22.02:830][283]AssetCheck: /Game/Assets/Enemies/Shaman/SK_Shaman Validating asset
 [2026.01.30-23.22.02:847][283]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.30-23.24.23:642][837]LogStreaming: Display: FlushAsyncLoading(500): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.30-23.24.23:651][837]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Assets/Enemies/Shaman/Animations/Shaman_Attack.Shaman_Attack (Required Memory Estimate: 10.16 MB)
+[2026.01.30-23.24.23:661][837]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Assets/Enemies/Shaman/Animations/Shaman_Attack.Shaman_Attack
+[2026.01.30-23.24.23:671][837]LogAnimationCompression: Display: Storing compressed animation data for /Game/Assets/Enemies/Shaman/Animations/Shaman_Attack.Shaman_Attack, at AnimationSequence/a0237bb64671b602c6eeb94d493050b6a5af8f88
+[2026.01.30-23.24.23:757][837]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2026.01.30-23.24.35:135][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-23.24.35:167][132]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Enemies/Shaman/Animations/Shaman_Attack] ([1] browsable assets)...
+[2026.01.30-23.24.35:173][132]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Assets/Enemies/Shaman/Animations/Shaman_Attack.Shaman_Attack]
+[2026.01.30-23.24.35:173][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Shaman/Animations/Shaman_Attack]
+[2026.01.30-23.24.35:182][132]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Shaman/Animations/Shaman_Attack
+[2026.01.30-23.24.35:182][132]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/Shaman_Attack6671314C4DD4FF5627AB16BAB22F892C.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Shaman/Animations/Shaman_Attack.uasset'
+[2026.01.30-23.24.35:190][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.688 ms (total: 511.231 ms)
+[2026.01.30-23.24.35:218][132]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-23.24.35:218][132]LogContentValidation: Enabled validators:
+[2026.01.30-23.24.35:219][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-23.24.35:219][132]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-23.24.35:219][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-23.24.35:219][132]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-23.24.35:219][132]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-23.24.35:219][132]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-23.24.35:219][132]AssetCheck: /Game/Assets/Enemies/Shaman/Animations/Shaman_Attack Validating asset
+[2026.01.30-23.24.35:238][132]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.30-23.24.48:114][236]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6261.311523
+[2026.01.30-23.24.48:219][248]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.30-23.24.48:219][248]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6261.408203, Update Interval: 315.000458
+[2026.01.30-23.25.02:321][801]LogContentBrowser: Deferred new asset file creation: Shaman_Attack_Montage
+[2026.01.30-23.25.02:340][801]LogContentBrowser: Creating deferred item: Shaman_Attack_Montage
+[2026.01.30-23.25.02:363][802]LogContentBrowser: Renaming the item being created (Deferred Item: Shaman_Attack_Montage).
+[2026.01.30-23.25.13:981][134]LogContentBrowser: Attempting asset rename: Shaman_Attack_Montage -> AM_Shaman_Attack
+[2026.01.30-23.25.14:003][134]LogContentBrowser: End creating deferred item Shaman_Attack_Montage
+[2026.01.30-23.25.23:880][293]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Attack.AM_Shaman_Attack
+[2026.01.30-23.25.23:977][293]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2026.01.30-23.25.23:977][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.30-23.25.24:034][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.01.30-23.26.28:778][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-23.26.28:803][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Attack] ([1] browsable assets)...
+[2026.01.30-23.26.28:810][972]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Attack.AM_Shaman_Attack]
+[2026.01.30-23.26.28:810][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Attack]
+[2026.01.30-23.26.28:811][972]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Attack
+[2026.01.30-23.26.28:812][972]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/AM_Shaman_AttackD4200E354C028B18B8F926ABE187327D.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Shaman/Animations/AM_Shaman_Attack.uasset'
+[2026.01.30-23.26.28:841][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.167 ms (total: 574.398 ms)
+[2026.01.30-23.26.28:865][972]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-23.26.28:866][972]LogContentValidation: Enabled validators:
+[2026.01.30-23.26.28:866][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-23.26.28:866][972]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-23.26.28:866][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-23.26.28:866][972]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-23.26.28:866][972]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-23.26.28:866][972]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-23.26.28:866][972]AssetCheck: /Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Attack Validating asset
+[2026.01.30-23.26.28:882][972]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.30-23.27.02:660][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-23.27.02:688][976]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Attack] ([1] browsable assets)...
+[2026.01.30-23.27.02:696][976]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Attack.AM_Shaman_Attack]
+[2026.01.30-23.27.02:696][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Attack]
+[2026.01.30-23.27.02:698][976]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Attack
+[2026.01.30-23.27.02:698][976]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/AM_Shaman_Attack320977264C1009FCB36B9ABDE8F5F8B1.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Shaman/Animations/AM_Shaman_Attack.uasset'
+[2026.01.30-23.27.02:706][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.440 ms (total: 619.839 ms)
+[2026.01.30-23.27.02:734][976]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-23.27.02:735][976]LogContentValidation: Enabled validators:
+[2026.01.30-23.27.02:735][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-23.27.02:735][976]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-23.27.02:735][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-23.27.02:735][976]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-23.27.02:735][976]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-23.27.02:735][976]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-23.27.02:735][976]AssetCheck: /Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Attack Validating asset
+[2026.01.30-23.27.28:919][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.01.30-23.27.29:943][125]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-23.27.29:971][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/Shaman/BP_Shaman] ([2] browsable assets)...
+[2026.01.30-23.27.29:991][125]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/Shaman/BP_Shaman.BP_Shaman]
+[2026.01.30-23.27.29:991][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Shaman/BP_Shaman]
+[2026.01.30-23.27.29:991][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/Shaman/BP_Shaman" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Character/Shaman/BP_Shaman.uasset" SILENT=true
+[2026.01.30-23.27.29:995][125]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/Shaman/BP_Shaman
+[2026.01.30-23.27.29:995][125]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BP_Shaman1B7E534340E3494DD6191A925789BE20.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Character/Shaman/BP_Shaman.uasset'
+[2026.01.30-23.27.30:001][125]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.543 ms (total: 677.382 ms)
+[2026.01.30-23.27.30:025][125]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-23.27.30:025][125]LogContentValidation: Enabled validators:
+[2026.01.30-23.27.30:025][125]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-23.27.30:025][125]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-23.27.30:025][125]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-23.27.30:025][125]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-23.27.30:025][125]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-23.27.30:025][125]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-23.27.30:026][125]AssetCheck: /Game/Blueprints/Character/Shaman/BP_Shaman Validating asset
+[2026.01.30-23.27.45:220][889]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Enemies/Shaman/ShamanStaff/SKM_ShamanStaff.SKM_ShamanStaff
+[2026.01.30-23.27.45:220][889]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.01.30-23.27.45:227][889]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.30-23.28.21:289][849]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-23.28.21:319][849]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Enemies/Shaman/ShamanStaff/SKM_ShamanStaff] ([1] browsable assets)...
+[2026.01.30-23.28.21:319][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Shaman/ShamanStaff/SKM_ShamanStaff]
+[2026.01.30-23.28.21:323][849]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Shaman/ShamanStaff/SKM_ShamanStaff
+[2026.01.30-23.28.21:324][849]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SKM_ShamanStaff11B9FACE4A5F4E9B5FD25487087F36BC.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Shaman/ShamanStaff/SKM_ShamanStaff.uasset'
+[2026.01.30-23.28.21:330][849]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.897 ms (total: 718.280 ms)
+[2026.01.30-23.28.21:353][849]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-23.28.21:353][849]LogContentValidation: Enabled validators:
+[2026.01.30-23.28.21:354][849]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-23.28.21:354][849]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-23.28.21:354][849]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-23.28.21:354][849]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-23.28.21:354][849]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-23.28.21:354][849]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-23.28.21:354][849]AssetCheck: /Game/Assets/Enemies/Shaman/ShamanStaff/SKM_ShamanStaff Validating asset
+[2026.01.30-23.28.21:366][849]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.30-23.29.04:594][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-23.29.04:624][937]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Enemies/Shaman/ShamanStaff/SKM_ShamanStaff] ([1] browsable assets)...
+[2026.01.30-23.29.04:624][937]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Shaman/ShamanStaff/SKM_ShamanStaff]
+[2026.01.30-23.29.04:628][937]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Shaman/ShamanStaff/SKM_ShamanStaff
+[2026.01.30-23.29.04:628][937]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SKM_ShamanStaff71A8F1AC49F87DD725AFE38C242E0E65.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Shaman/ShamanStaff/SKM_ShamanStaff.uasset'
+[2026.01.30-23.29.04:634][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.760 ms (total: 759.041 ms)
+[2026.01.30-23.29.04:658][937]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-23.29.04:658][937]LogContentValidation: Enabled validators:
+[2026.01.30-23.29.04:658][937]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-23.29.04:658][937]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-23.29.04:658][937]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-23.29.04:658][937]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-23.29.04:658][937]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-23.29.04:658][937]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-23.29.04:658][937]AssetCheck: /Game/Assets/Enemies/Shaman/ShamanStaff/SKM_ShamanStaff Validating asset
+[2026.01.30-23.29.12:484][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-23.29.12:514][832]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Attack] ([1] browsable assets)...
+[2026.01.30-23.29.12:514][832]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Attack]
+[2026.01.30-23.29.12:515][832]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Attack
+[2026.01.30-23.29.12:516][832]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/AM_Shaman_AttackFF277AB24898FBD6BD2619AD8EFC8C8F.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Shaman/Animations/AM_Shaman_Attack.uasset'
+[2026.01.30-23.29.12:522][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.086 ms (total: 798.127 ms)
+[2026.01.30-23.29.12:555][832]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-23.29.12:555][832]LogContentValidation: Enabled validators:
+[2026.01.30-23.29.12:556][832]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-23.29.12:556][832]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-23.29.12:556][832]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-23.29.12:556][832]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-23.29.12:556][832]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-23.29.12:556][832]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-23.29.12:556][832]AssetCheck: /Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Attack Validating asset
+[2026.01.30-23.29.15:116][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.01.30-23.29.16:179][112]LogSlate: Window 'Save Content' being destroyed
+[2026.01.30-23.29.16:188][112]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-23.29.16:215][112]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Enemies/Shaman/ShamanStaff/SM_ShamanStaff] ([1] browsable assets)...
+[2026.01.30-23.29.16:215][112]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Shaman/ShamanStaff/SM_ShamanStaff]
+[2026.01.30-23.29.16:216][112]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Shaman/ShamanStaff/SM_ShamanStaff
+[2026.01.30-23.29.16:217][112]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SM_ShamanStaffBD8AF7984B9CB37DD9AAB9B10A28A16F.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Shaman/ShamanStaff/SM_ShamanStaff.uasset'
+[2026.01.30-23.29.16:224][112]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.540 ms (total: 833.667 ms)
+[2026.01.30-23.29.16:243][112]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-23.29.16:243][112]LogContentValidation: Enabled validators:
+[2026.01.30-23.29.16:243][112]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-23.29.16:243][112]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-23.29.16:243][112]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-23.29.16:243][112]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-23.29.16:243][112]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-23.29.16:243][112]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-23.29.16:243][112]AssetCheck: /Game/Assets/Enemies/Shaman/ShamanStaff/SM_ShamanStaff Validating asset
+[2026.01.30-23.29.16:262][112]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
