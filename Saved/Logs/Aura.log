@@ -1363,3 +1363,249 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.30-19.32.23:819][884]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 321.498016
 [2026.01.30-19.32.24:818][886]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.30-19.32.24:818][886]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 322.164734, Update Interval: 307.452606
+[2026.01.30-19.35.58:521][870]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.01.30-19.35.58:543][870]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.01.30-19.37.34:245][352]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 631.926697
+[2026.01.30-19.37.34:336][363]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.30-19.37.34:336][363]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 632.009644, Update Interval: 340.322876
+[2026.01.30-19.38.07:990][166]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.01.30-19.38.09:692][363]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.01.30-19.38.09:714][363]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.01.30-19.38.09:728][364]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.01.30-19.38.20:086][578]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.01.30-19.38.20:108][578]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.01.30-19.38.20:993][672]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Character/Goblin_Slingshot/BP_Goblin_Slingshot.BP_Goblin_Slingshot
+[2026.01.30-19.38.20:994][672]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.01.30-19.38.21:023][672]LogStreaming: Display: FlushAsyncLoading(330): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.30-19.38.24:389][854]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.01.30-19.38.24:389][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.30-19.38.24:412][854]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Character/Goblin_Slingshot/BP_Goblin_Slingshot.BP_Goblin_Slingshot
+[2026.01.30-19.38.24:412][854]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.01.30-19.38.24:441][854]LogStreaming: Display: FlushAsyncLoading(485): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.30-19.38.25:246][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.01.30-19.38.25:262][854]LogSlate: Took 0.002748 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.01.30-19.39.12:130][753]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.01.30-19.39.12:170][753]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.01.30-19.39.12:196][753]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.01.30-19.39.12:210][753]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.01.30-19.39.12:221][753]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.01.30-19.39.21:959][753]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2026.01.30-19.39.21:972][753]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2026.01.30-19.39.21:979][753]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2026.01.30-19.39.22:000][754]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2026.01.30-19.39.30:731][561]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_Slingshot
+[2026.01.30-19.39.30:740][561]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2026.01.30-19.39.30:741][561]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.01.30-19.39.32:333][721]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot
+[2026.01.30-19.39.32:333][721]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.01.30-19.39.32:349][721]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.01.30-19.39.32:353][721]LogStreaming: Display: FlushAsyncLoading(489): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.30-19.39.32:617][721]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.30-19.39.32:938][721]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.01.30-19.39.33:192][721]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.01.30-19.39.33:239][721]LogSlate: Took 0.007448 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.01.30-19.40.23:892][988]LogStreaming: Display: FlushAsyncLoading(495): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.30-19.40.23:896][988]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Assets/Enemies/Goblin/Slingshot/Centered/Slingshot_Idle.Slingshot_Idle (Required Memory Estimate: 0.03 MB)
+[2026.01.30-19.40.23:932][988]LogAnimationCompression: Display: Storing compressed animation data for /Game/Assets/Enemies/Goblin/Slingshot/Centered/Slingshot_Idle.Slingshot_Idle, at AnimationSequence/e6968c1a051a238efdc9213712a993688b426d0a
+[2026.01.30-19.40.23:943][988]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.01.30-19.40.39:525][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.01.30-19.40.39:536][471]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2026.01.30-19.41.21:553][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.01.30-19.41.22:463][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-19.41.22:485][256]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot] ([2] browsable assets)...
+[2026.01.30-19.41.22:490][256]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot]
+[2026.01.30-19.41.22:491][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot]
+[2026.01.30-19.41.22:497][256]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot
+[2026.01.30-19.41.22:497][256]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/ABP_SlingshotEE1918C94253F010CC054A8AA0F3AFC8.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.uasset'
+[2026.01.30-19.41.22:508][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.947 ms
+[2026.01.30-19.41.22:539][256]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-19.41.22:539][256]LogContentValidation: Enabled validators:
+[2026.01.30-19.41.22:539][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-19.41.22:539][256]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-19.41.22:539][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-19.41.22:539][256]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-19.41.22:539][256]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-19.41.22:539][256]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-19.41.22:539][256]AssetCheck: /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot Validating asset
+[2026.01.30-19.41.22:555][256]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.30-19.41.44:415][843]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Enemies/Goblin/SKM_Goblin.SKM_Goblin
+[2026.01.30-19.41.44:416][843]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.01.30-19.41.44:421][843]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.30-19.42.41:727][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-19.42.41:776][294]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Enemies/Goblin/SKM_Goblin] ([1] browsable assets)...
+[2026.01.30-19.42.41:776][294]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Goblin/SKM_Goblin]
+[2026.01.30-19.42.41:776][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enemies/Goblin/SKM_Goblin" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Goblin/SKM_Goblin.uasset" SILENT=true
+[2026.01.30-19.42.41:852][294]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Goblin/SKM_Goblin
+[2026.01.30-19.42.41:852][294]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SKM_Goblin7AA760F74F175B5EFC51138D79A90ECB.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Goblin/SKM_Goblin.uasset'
+[2026.01.30-19.42.41:859][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.490 ms (total: 175.438 ms)
+[2026.01.30-19.42.41:886][294]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-19.42.41:886][294]LogContentValidation: Enabled validators:
+[2026.01.30-19.42.41:886][294]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-19.42.41:886][294]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-19.42.41:886][294]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-19.42.41:886][294]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-19.42.41:886][294]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-19.42.41:887][294]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-19.42.41:887][294]AssetCheck: /Game/Assets/Enemies/Goblin/SKM_Goblin Validating asset
+[2026.01.30-19.42.41:901][294]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.30-19.43.19:910][757]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 977.592773
+[2026.01.30-19.43.19:986][766]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.30-19.43.19:986][766]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 977.659424, Update Interval: 304.942169
+[2026.01.30-19.45.30:738][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.01.30-19.45.30:749][676]LogScript: Warning: Accessed None trying to read (real) property OwnerMesh in ABP_Slingshot_C
+	ABP_Slingshot_C /Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slingshot_C_0
+	Function /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot_C:ExecuteUbergraph_ABP_Slingshot:0028
+[2026.01.30-19.45.30:770][677]LogScript: Warning: Accessed None trying to read (real) property OwnerMesh in ABP_Slingshot_C
+	ABP_Slingshot_C /Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slingshot_C_0
+	Function /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot_C:ExecuteUbergraph_ABP_Slingshot:0028
+[2026.01.30-19.45.30:778][678]LogScript: Warning: Accessed None trying to read (real) property OwnerMesh in ABP_Slingshot_C
+	ABP_Slingshot_C /Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slingshot_C_0
+	Function /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot_C:ExecuteUbergraph_ABP_Slingshot:0028
+[2026.01.30-19.45.30:785][679]LogScript: Warning: Accessed None trying to read (real) property OwnerMesh in ABP_Slingshot_C
+	ABP_Slingshot_C /Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slingshot_C_0
+	Function /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot_C:ExecuteUbergraph_ABP_Slingshot:0028
+[2026.01.30-19.45.30:794][680]LogScript: Warning: Accessed None trying to read (real) property OwnerMesh in ABP_Slingshot_C
+	ABP_Slingshot_C /Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slingshot_C_0
+	Function /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot_C:ExecuteUbergraph_ABP_Slingshot:0028
+[2026.01.30-19.45.30:802][681]LogScript: Warning: Accessed None trying to read (real) property OwnerMesh in ABP_Slingshot_C
+	ABP_Slingshot_C /Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slingshot_C_0
+	Function /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot_C:ExecuteUbergraph_ABP_Slingshot:0028
+[2026.01.30-19.45.30:812][682]LogScript: Warning: Accessed None trying to read (real) property OwnerMesh in ABP_Slingshot_C
+	ABP_Slingshot_C /Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slingshot_C_0
+	Function /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot_C:ExecuteUbergraph_ABP_Slingshot:0028
+[2026.01.30-19.45.30:820][683]LogScript: Warning: Accessed None trying to read (real) property OwnerMesh in ABP_Slingshot_C
+	ABP_Slingshot_C /Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slingshot_C_0
+	Function /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot_C:ExecuteUbergraph_ABP_Slingshot:0028
+[2026.01.30-19.45.30:829][684]LogScript: Warning: Accessed None trying to read (real) property OwnerMesh in ABP_Slingshot_C
+	ABP_Slingshot_C /Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slingshot_C_0
+	Function /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot_C:ExecuteUbergraph_ABP_Slingshot:0028
+[2026.01.30-19.45.30:837][685]LogScript: Warning: Accessed None trying to read (real) property OwnerMesh in ABP_Slingshot_C
+	ABP_Slingshot_C /Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slingshot_C_0
+	Function /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot_C:ExecuteUbergraph_ABP_Slingshot:0028
+[2026.01.30-19.45.30:846][686]LogScript: Warning: Accessed None trying to read (real) property OwnerMesh in ABP_Slingshot_C
+	ABP_Slingshot_C /Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slingshot_C_0
+	Function /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot_C:ExecuteUbergraph_ABP_Slingshot:0028
+[2026.01.30-19.45.30:854][687]LogScript: Warning: Accessed None trying to read (real) property OwnerMesh in ABP_Slingshot_C
+	ABP_Slingshot_C /Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slingshot_C_0
+	Function /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot_C:ExecuteUbergraph_ABP_Slingshot:0028
+[2026.01.30-19.45.30:862][688]LogScript: Warning: Accessed None trying to read (real) property OwnerMesh in ABP_Slingshot_C
+	ABP_Slingshot_C /Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slingshot_C_0
+	Function /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot_C:ExecuteUbergraph_ABP_Slingshot:0028
+[2026.01.30-19.45.30:871][689]LogScript: Warning: Accessed None trying to read (real) property OwnerMesh in ABP_Slingshot_C
+	ABP_Slingshot_C /Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slingshot_C_0
+	Function /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot_C:ExecuteUbergraph_ABP_Slingshot:0028
+[2026.01.30-19.45.30:879][690]LogScript: Warning: Accessed None trying to read (real) property OwnerMesh in ABP_Slingshot_C
+	ABP_Slingshot_C /Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slingshot_C_0
+	Function /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot_C:ExecuteUbergraph_ABP_Slingshot:0028
+[2026.01.30-19.45.30:887][691]LogScript: Warning: Accessed None trying to read (real) property OwnerMesh in ABP_Slingshot_C
+	ABP_Slingshot_C /Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slingshot_C_0
+	Function /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot_C:ExecuteUbergraph_ABP_Slingshot:0028
+[2026.01.30-19.45.31:555][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-19.45.31:581][771]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot] ([2] browsable assets)...
+[2026.01.30-19.45.31:581][771]LogScript: Warning: Accessed None trying to read (real) property OwnerMesh in ABP_Slingshot_C
+	ABP_Slingshot_C /Engine/Transient.World_14:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Slingshot_C_74
+	Function /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot_C:ExecuteUbergraph_ABP_Slingshot:0028
+[2026.01.30-19.45.31:588][771]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot]
+[2026.01.30-19.45.31:588][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot]
+[2026.01.30-19.45.31:595][771]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot
+[2026.01.30-19.45.31:595][771]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/ABP_Slingshot779F05A642EC87F2D2868C9106155317.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.uasset'
+[2026.01.30-19.45.31:602][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.212 ms (total: 222.650 ms)
+[2026.01.30-19.45.31:629][771]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-19.45.31:629][771]LogContentValidation: Enabled validators:
+[2026.01.30-19.45.31:629][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-19.45.31:629][771]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-19.45.31:629][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-19.45.31:629][771]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-19.45.31:629][771]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-19.45.31:629][771]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-19.45.31:630][771]AssetCheck: /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot Validating asset
+[2026.01.30-19.46.43:088][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.01.30-19.46.54:785][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.01.30-19.47.27:758][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.01.30-19.47.28:683][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-19.47.28:715][467]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot] ([2] browsable assets)...
+[2026.01.30-19.47.28:715][467]LogScript: Warning: Accessed None trying to read (real) property OwnerMesh in ABP_Slingshot_C
+	ABP_Slingshot_C /Engine/Transient.World_14:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Slingshot_C_75
+	Function /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot_C:ExecuteUbergraph_ABP_Slingshot:0028
+[2026.01.30-19.47.28:723][467]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot]
+[2026.01.30-19.47.28:723][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot]
+[2026.01.30-19.47.28:730][467]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot
+[2026.01.30-19.47.28:730][467]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/ABP_Slingshot471FFED04BB88974AA2333860ED87953.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.uasset'
+[2026.01.30-19.47.28:737][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.227 ms (total: 276.878 ms)
+[2026.01.30-19.47.28:769][467]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-19.47.28:769][467]LogContentValidation: Enabled validators:
+[2026.01.30-19.47.28:769][467]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-19.47.28:769][467]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-19.47.28:769][467]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-19.47.28:769][467]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-19.47.28:770][467]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-19.47.28:770][467]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-19.47.28:770][467]AssetCheck: /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot Validating asset
+[2026.01.30-19.48.34:020][ 73]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1291.694214
+[2026.01.30-19.48.34:129][ 86]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.30-19.48.34:129][ 86]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1291.794067, Update Interval: 347.054047
+[2026.01.30-19.48.54:376][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.01.30-19.48.57:770][879]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-19.48.57:793][879]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot] ([2] browsable assets)...
+[2026.01.30-19.48.57:793][879]LogScript: Warning: Accessed None trying to read (real) property OwnerMesh in ABP_Slingshot_C
+	ABP_Slingshot_C /Engine/Transient.World_14:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Slingshot_C_76
+	Function /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot_C:ExecuteUbergraph_ABP_Slingshot:0026
+[2026.01.30-19.48.57:799][879]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.ABP_Slingshot]
+[2026.01.30-19.48.57:799][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot]
+[2026.01.30-19.48.57:807][879]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot
+[2026.01.30-19.48.57:807][879]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/ABP_Slingshot1BE10F9E4E34B05E99774AB513F9DB09.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot.uasset'
+[2026.01.30-19.48.57:814][879]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.650 ms (total: 321.528 ms)
+[2026.01.30-19.48.57:845][879]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-19.48.57:846][879]LogContentValidation: Enabled validators:
+[2026.01.30-19.48.57:846][879]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-19.48.57:846][879]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-19.48.57:846][879]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-19.48.57:846][879]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-19.48.57:846][879]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-19.48.57:846][879]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-19.48.57:846][879]AssetCheck: /Game/Blueprints/Character/Goblin_Slingshot/ABP_Slingshot Validating asset
+[2026.01.30-19.49.22:586][393]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2026.01.30-19.49.30:362][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.01.30-19.49.33:022][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-19.49.33:042][600]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/Goblin_Slingshot/BP_Goblin_Slingshot] ([2] browsable assets)...
+[2026.01.30-19.49.33:062][600]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/Goblin_Slingshot/BP_Goblin_Slingshot.BP_Goblin_Slingshot]
+[2026.01.30-19.49.33:062][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/Goblin_Slingshot/BP_Goblin_Slingshot]
+[2026.01.30-19.49.33:066][600]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/Goblin_Slingshot/BP_Goblin_Slingshot
+[2026.01.30-19.49.33:067][600]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/BP_Goblin_SlingshotD8602E254BEB69C1BDA1649B4C2E2A96.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/Character/Goblin_Slingshot/BP_Goblin_Slingshot.uasset'
+[2026.01.30-19.49.33:074][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.284 ms (total: 373.813 ms)
+[2026.01.30-19.49.33:103][600]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-19.49.33:104][600]LogContentValidation: Enabled validators:
+[2026.01.30-19.49.33:104][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-19.49.33:104][600]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-19.49.33:104][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-19.49.33:104][600]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-19.49.33:104][600]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-19.49.33:104][600]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-19.49.33:104][600]AssetCheck: /Game/Blueprints/Character/Goblin_Slingshot/BP_Goblin_Slingshot Validating asset
+[2026.01.30-19.50.11:683][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.01.30-19.50.11:686][181]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartupMap' took 0.024
+[2026.01.30-19.50.11:687][181]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Enemies/Goblin/SK_Goblin] ([1] browsable assets)...
+[2026.01.30-19.50.11:694][181]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Assets/Enemies/Goblin/SK_Goblin.SK_Goblin]
+[2026.01.30-19.50.11:694][181]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Goblin/SK_Goblin]
+[2026.01.30-19.50.11:695][181]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Enemies/Goblin/SK_Goblin_Auto1
+[2026.01.30-19.50.11:696][181]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SK_Goblin_Auto17942C9694760FEABF46B4BA06768D6F1.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/Autosaves/Game/Assets/Enemies/Goblin/SK_Goblin_Auto1.uasset'
+[2026.01.30-19.50.11:696][181]LogFileHelpers: Auto-saving content packages took 0.010
+[2026.01.30-19.51.05:882][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.01.30-19.51.06:822][114]LogSlate: Window 'Save Content' being destroyed
+[2026.01.30-19.51.06:832][114]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-19.51.06:861][114]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Enemies/Goblin/SK_Goblin] ([1] browsable assets)...
+[2026.01.30-19.51.06:862][114]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Goblin/SK_Goblin]
+[2026.01.30-19.51.06:862][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enemies/Goblin/SK_Goblin" FILE="../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Goblin/SK_Goblin.uasset" SILENT=true
+[2026.01.30-19.51.06:864][114]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Goblin/SK_Goblin
+[2026.01.30-19.51.06:864][114]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SK_GoblinBDD90AD14297CDC83853C993234FDFFC.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Goblin/SK_Goblin.uasset'
+[2026.01.30-19.51.06:869][114]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.857 ms (total: 411.670 ms)
+[2026.01.30-19.51.06:888][114]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.30-19.51.06:888][114]LogContentValidation: Enabled validators:
+[2026.01.30-19.51.06:888][114]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-19.51.06:888][114]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-19.51.06:888][114]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-19.51.06:888][114]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-19.51.06:888][114]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-19.51.06:888][114]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-19.51.06:889][114]AssetCheck: /Game/Assets/Enemies/Goblin/SK_Goblin Validating asset
+[2026.01.30-19.51.06:904][114]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
