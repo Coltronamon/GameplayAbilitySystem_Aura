@@ -177,6 +177,8 @@
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Sounds/Enemies/Demon/Death/sfx_DemonDeath.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Enemy/Abilities/GA_SummonAbility.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Effects/Combat/NS_GroundSummon.uasset",
+				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon.uasset",
+				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Shaman/Animations/Shaman_Summon.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Sounds/Enemies/Ghoul/Growl/sfx_Template_multi.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Goblin/Animations/Spear/AM_HitReact_GoblinSpear.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Goblin/Animations/Slingshot/AM_HitReact_GoblinSlingshot.uasset",

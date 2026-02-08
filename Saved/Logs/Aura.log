@@ -1619,3 +1619,598 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.08-22.13.02:711][807]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9584.929688
 [2026.02.08-22.13.03:711][810]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.08-22.13.03:711][810]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9585.596680, Update Interval: 308.408447
+[2026.02.08-22.17.09:544][591]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.02.08-22.17.09:681][599]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.02.08-22.17.16:494][  7]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.02.08-22.17.16:601][ 13]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.02.08-22.17.17:304][ 54]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-22.17.17:304][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-22.17.17:332][ 54]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-22.17.17:333][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-22.17.17:368][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.08-22.17.17:381][ 55]LogNiagara: Compiling System NiagaraSystem /Game/Assets/Effects/Combat/NS_GroundSummon.NS_GroundSummon took 0.089093 sec (time since issued).
+[2026.02.08-22.17.28:629][725]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.02.08-22.17.28:657][726]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.02.08-22.17.28:676][727]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.02.08-22.17.29:408][769]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.02.08-22.17.29:460][772]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.02.08-22.17.31:287][805]LogStreaming: Display: FlushAsyncLoading(499): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.08-22.17.31:291][805]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Assets/Enemies/Shaman/Animations/Shaman_Summon.Shaman_Summon (Required Memory Estimate: 11.39 MB)
+[2026.02.08-22.17.31:320][805]LogAnimationCompression: Display: Storing compressed animation data for /Game/Assets/Enemies/Shaman/Animations/Shaman_Summon.Shaman_Summon, at AnimationSequence/f884a67157981357462455239b9f282ed5b3a5d0
+[2026.02.08-22.17.35:013][  1]LogContentBrowser: Deferred new asset file creation: Shaman_Summon_Montage
+[2026.02.08-22.17.35:019][  1]LogContentBrowser: Creating deferred item: Shaman_Summon_Montage
+[2026.02.08-22.17.35:028][  2]LogContentBrowser: Renaming the item being created (Deferred Item: Shaman_Summon_Montage).
+[2026.02.08-22.17.40:672][341]LogContentBrowser: Attempting asset rename: Shaman_Summon_Montage -> AM_Shaman_Summon
+[2026.02.08-22.17.40:678][341]LogContentBrowser: End creating deferred item Shaman_Summon_Montage
+[2026.02.08-22.17.42:769][466]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon.AM_Shaman_Summon
+[2026.02.08-22.17.42:790][466]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.02.08-22.17.42:802][466]LogStreaming: Display: FlushAsyncLoading(500): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.08-22.17.42:805][466]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-22.17.43:138][466]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.02.08-22.19.07:734][641]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9949.884766
+[2026.02.08-22.19.08:367][679]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-22.19.08:367][680]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9950.499023, Update Interval: 302.556244
+[2026.02.08-22.20.34:792][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.08-22.20.35:768][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-22.20.35:800][169]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_SummonAbility] ([2] browsable assets)...
+[2026.02.08-22.20.35:801][169]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_SummonAbility]
+[2026.02.08-22.20.35:807][169]LogSavePackage: Moving output files for package: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_SummonAbility
+[2026.02.08-22.20.35:807][169]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/GA_SummonAbility7B3F72BF490C75F13D21ADB1253310B9.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Enemy/Abilities/GA_SummonAbility.uasset'
+[2026.02.08-22.20.35:813][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.280 ms (total: 223.749 ms)
+[2026.02.08-22.20.35:832][169]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-22.20.35:832][169]LogContentValidation: Enabled validators:
+[2026.02.08-22.20.35:832][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-22.20.35:833][169]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-22.20.35:833][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-22.20.35:833][169]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-22.20.35:833][169]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-22.20.35:833][169]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-22.20.35:833][169]AssetCheck: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_SummonAbility Validating asset
+[2026.02.08-22.21.10:830][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.02.08-22.21.11:647][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-22.21.11:674][313]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_SummonAbility] ([2] browsable assets)...
+[2026.02.08-22.21.11:674][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_SummonAbility]
+[2026.02.08-22.21.11:680][313]LogSavePackage: Moving output files for package: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_SummonAbility
+[2026.02.08-22.21.11:680][313]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/GA_SummonAbility1FC6515E42ED0DA3C0E91886CC9F2E95.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Enemy/Abilities/GA_SummonAbility.uasset'
+[2026.02.08-22.21.11:687][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.944 ms (total: 263.693 ms)
+[2026.02.08-22.21.11:708][313]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-22.21.11:708][313]LogContentValidation: Enabled validators:
+[2026.02.08-22.21.11:708][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-22.21.11:709][313]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-22.21.11:709][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-22.21.11:709][313]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-22.21.11:709][313]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-22.21.11:709][313]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-22.21.11:709][313]AssetCheck: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_SummonAbility Validating asset
+[2026.02.08-22.21.16:378][534]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.08-22.21.16:391][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.08-22.21.16:391][534]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2026.02.08-22.21.16:403][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010970s)
+[2026.02.08-22.21.16:403][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.011317s)
+[2026.02.08-22.21.16:422][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.02.08-22.21.16:424][534]LogChaosDD: Creating Chaos Debug Draw Scene for world StartupMap
+[2026.02.08-22.21.16:425][534]LogPlayLevel: PIE: World Init took: (0.001549s)
+[2026.02.08-22.21.16:426][534]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.02.08-22.21.16:426][534]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.08-22.21.16:426][534]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.08-22.21.16:426][534]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.08-22.21.16:426][534]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.08-22.21.16:427][534]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.08-22.21.16:427][534]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.08-22.21.16:427][534]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.08-22.21.16:427][534]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.08-22.21.16:427][534]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.08-22.21.16:427][534]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.08-22.21.16:427][534]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.08-22.21.16:429][534]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.08-22.21.16:445][534]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.08-22.21.16:445][534]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.08-22.21.16:445][534]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.08-22.21.16:445][534]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.08-22.21.16:445][534]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.02.08-22.21.16:446][534]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.02.08-22.21.16:448][534]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.02.08-22.21.16:448][534]LogInit: FAudioDevice initialized with ID 6.
+[2026.02.08-22.21.16:448][534]LogAudio: Display: Audio Device (ID: 6) registered with world 'StartupMap'.
+[2026.02.08-22.21.16:448][534]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.02.08-22.21.16:448][534]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.02.08-22.21.16:451][534]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2026.02.08-22.21.16:456][534]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 60) at 2026.02.08-17.21.16
+[2026.02.08-22.21.16:458][534]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2026.02.08-22.21.16:459][534]LogWorld: Bringing up level for play took: 0.007449
+[2026.02.08-22.21.16:462][534]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 112.500000
+[2026.02.08-22.21.16:462][534]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.02.08-22.21.16:462][534]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.02.08-22.21.16:463][534]LogPushModel: PushModel HandleCreation is now enabled
+[2026.02.08-22.21.16:463][534]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.02.08-22.21.16:463][534]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2026.02.08-22.21.16:463][534]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2026.02.08-22.21.16:463][534]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.02.08-22.21.16:463][534]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2026.02.08-22.21.16:464][534]LogTemp: Warning: Changed Health on BP_Shaman_C_1, Health: 26.875000
+[2026.02.08-22.21.16:464][534]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.08-22.21.16:464][534]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.02.08-22.21.16:464][534]PIE: Server logged in
+[2026.02.08-22.21.16:466][534]PIE: Play in editor total start time 0.076 seconds.
+[2026.02.08-22.21.19:356][706]LogTemp: Warning: Changed Health on BP_Demon_Ranger_C_0, Health: 29.375000
+[2026.02.08-22.21.19:540][717]LogTemp: Warning: Changed Health on BP_Demon_Ranger_C_1, Health: 29.375000
+[2026.02.08-22.21.19:740][729]LogTemp: Warning: Changed Health on BP_Demon_Ranger_C_2, Health: 29.375000
+[2026.02.08-22.21.19:940][741]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_0, Health: 29.375000
+[2026.02.08-22.21.20:140][753]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_1, Health: 29.375000
+[2026.02.08-22.21.24:257][  0]LogTemp: Warning: Changed Health on BP_Demon_Ranger_C_3, Health: 29.375000
+[2026.02.08-22.21.24:441][ 11]LogTemp: Warning: Changed Health on BP_Demon_Ranger_C_4, Health: 29.375000
+[2026.02.08-22.21.24:641][ 23]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_2, Health: 29.375000
+[2026.02.08-22.21.24:841][ 35]LogTemp: Warning: Changed Health on BP_Demon_Ranger_C_5, Health: 29.375000
+[2026.02.08-22.21.25:042][ 47]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_3, Health: 29.375000
+[2026.02.08-22.21.26:645][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-22.21.26:645][142]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2026.02.08-22.21.26:646][142]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.02.08-22.21.26:646][142]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-22.21.26:648][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-22.21.26:649][142]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2026.02.08-22.21.26:649][142]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_4 
+[2026.02.08-22.21.26:650][142]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_4 shut down
+[2026.02.08-22.21.26:650][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.08-22.21.26:652][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-22.21.26:672][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-22.21.26:673][142]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.02.08-22.21.26:673][142]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.02.08-22.21.26:675][142]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.02.08-22.21.26:683][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.02.08-22.21.26:723][144]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2026.02.08-22.24.22:194][737]LogAbilitySystem: Error: UAbilitySystemBlueprintLibrary::SendGameplayEventToActor: Invalid ability system component retrieved from Actor AnimationEditorPreviewActor_0. EventTag was Montage.Attack.1
+[2026.02.08-22.24.39:474][602]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-22.24.39:503][602]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon] ([1] browsable assets)...
+[2026.02.08-22.24.39:556][602]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon.AM_Shaman_Summon]
+[2026.02.08-22.24.39:556][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon]
+[2026.02.08-22.24.39:561][602]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon
+[2026.02.08-22.24.39:561][602]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/AM_Shaman_SummonAAAE61464AACDE52DDA3C8AD2653C71F.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon.uasset'
+[2026.02.08-22.24.39:573][602]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.382 ms (total: 363.076 ms)
+[2026.02.08-22.24.39:604][602]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-22.24.39:604][602]LogContentValidation: Enabled validators:
+[2026.02.08-22.24.39:604][602]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-22.24.39:604][602]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-22.24.39:605][602]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-22.24.39:605][602]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-22.24.39:605][602]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-22.24.39:605][602]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-22.24.39:605][602]AssetCheck: /Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon Validating asset
+[2026.02.08-22.24.39:620][602]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.08-22.24.50:065][229]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10291.842773
+[2026.02.08-22.24.52:231][264]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-22.24.52:232][264]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10293.674805, Update Interval: 308.813141
+[2026.02.08-22.24.52:930][305]LogAbilitySystem: Error: UAbilitySystemBlueprintLibrary::SendGameplayEventToActor: Invalid ability system component retrieved from Actor AnimationEditorPreviewActor_0. EventTag was Montage.Attack.1
+[2026.02.08-22.24.58:932][532]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-22.24.58:960][532]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon] ([1] browsable assets)...
+[2026.02.08-22.24.58:967][532]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon.AM_Shaman_Summon]
+[2026.02.08-22.24.58:967][532]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon]
+[2026.02.08-22.24.58:969][532]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon
+[2026.02.08-22.24.58:969][532]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/AM_Shaman_SummonD875D5804C3CFA4FC1953C939FA1062D.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon.uasset'
+[2026.02.08-22.24.58:976][532]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.618 ms (total: 406.694 ms)
+[2026.02.08-22.24.59:007][532]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-22.24.59:007][532]LogContentValidation: Enabled validators:
+[2026.02.08-22.24.59:007][532]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-22.24.59:008][532]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-22.24.59:008][532]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-22.24.59:008][532]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-22.24.59:008][532]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-22.24.59:008][532]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-22.24.59:008][532]AssetCheck: /Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon Validating asset
+[2026.02.08-22.25.00:855][586]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.08-22.25.00:866][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.08-22.25.00:866][586]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2026.02.08-22.25.00:878][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011197s)
+[2026.02.08-22.25.00:878][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.011444s)
+[2026.02.08-22.25.00:902][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.08-22.25.00:904][586]LogChaosDD: Creating Chaos Debug Draw Scene for world StartupMap
+[2026.02.08-22.25.00:905][586]LogPlayLevel: PIE: World Init took: (0.001561s)
+[2026.02.08-22.25.00:907][586]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.02.08-22.25.00:907][586]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.08-22.25.00:907][586]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.08-22.25.00:907][586]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.08-22.25.00:907][586]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.08-22.25.00:907][586]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.08-22.25.00:907][586]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.08-22.25.00:907][586]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.08-22.25.00:907][586]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.08-22.25.00:908][586]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.08-22.25.00:908][586]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.08-22.25.00:908][586]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.08-22.25.00:910][586]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.08-22.25.00:925][586]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.08-22.25.00:925][586]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.08-22.25.00:926][586]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.08-22.25.00:926][586]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.08-22.25.00:926][586]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.02.08-22.25.00:926][586]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.02.08-22.25.00:928][586]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.02.08-22.25.00:929][586]LogInit: FAudioDevice initialized with ID 7.
+[2026.02.08-22.25.00:929][586]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.02.08-22.25.00:929][586]LogAudio: Display: Audio Device (ID: 7) registered with world 'StartupMap'.
+[2026.02.08-22.25.00:929][586]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.02.08-22.25.00:932][586]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2026.02.08-22.25.00:936][586]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 60) at 2026.02.08-17.25.00
+[2026.02.08-22.25.00:938][586]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2026.02.08-22.25.00:939][586]LogWorld: Bringing up level for play took: 0.007724
+[2026.02.08-22.25.00:942][586]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 112.500000
+[2026.02.08-22.25.00:942][586]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.02.08-22.25.00:942][586]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.02.08-22.25.00:942][586]LogPushModel: PushModel HandleCreation is now enabled
+[2026.02.08-22.25.00:942][586]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.02.08-22.25.00:943][586]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2026.02.08-22.25.00:943][586]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2026.02.08-22.25.00:943][586]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.02.08-22.25.00:943][586]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_5 IpNetDriver listening on port 17777
+[2026.02.08-22.25.00:943][586]LogTemp: Warning: Changed Health on BP_Shaman_C_1, Health: 26.875000
+[2026.02.08-22.25.00:945][586]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.08-22.25.00:945][586]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.02.08-22.25.00:945][586]PIE: Server logged in
+[2026.02.08-22.25.00:947][586]PIE: Play in editor total start time 0.082 seconds.
+[2026.02.08-22.25.03:128][715]LogTemp: Warning: Changed Health on BP_Demon_Ranger_C_0, Health: 29.375000
+[2026.02.08-22.25.03:311][726]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_0, Health: 29.375000
+[2026.02.08-22.25.03:511][738]LogTemp: Warning: Changed Health on BP_Demon_Ranger_C_1, Health: 29.375000
+[2026.02.08-22.25.03:712][750]LogTemp: Warning: Changed Health on BP_Demon_Ranger_C_2, Health: 29.375000
+[2026.02.08-22.25.03:913][762]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_1, Health: 29.375000
+[2026.02.08-22.25.04:378][790]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.02.08-22.25.04:378][790]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.02.08-22.25.04:378][790]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.02.08-22.25.04:777][814]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.02.08-22.25.04:777][814]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.02.08-22.25.04:777][814]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.02.08-22.25.04:795][815]LogTemp: Warning: Changed Health on BP_Demon_Ranger_C_3, Health: 29.375000
+[2026.02.08-22.25.04:895][821]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.02.08-22.25.04:895][821]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.02.08-22.25.04:895][821]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.02.08-22.25.04:979][826]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_2, Health: 29.375000
+[2026.02.08-22.25.05:179][838]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_3, Health: 29.375000
+[2026.02.08-22.25.05:379][850]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_4, Health: 29.375000
+[2026.02.08-22.25.05:444][854]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.02.08-22.25.05:444][854]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.02.08-22.25.05:444][854]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.02.08-22.25.05:646][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-22.25.05:646][864]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2026.02.08-22.25.05:646][864]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.02.08-22.25.05:647][864]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-22.25.05:649][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-22.25.05:650][864]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2026.02.08-22.25.05:651][864]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_5 
+[2026.02.08-22.25.05:651][864]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_5 shut down
+[2026.02.08-22.25.05:651][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.08-22.25.05:653][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-22.25.05:673][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-22.25.05:673][864]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.02.08-22.25.05:673][864]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.02.08-22.25.05:675][864]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.02.08-22.25.05:683][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.02.08-22.25.05:721][866]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2026.02.08-22.25.06:136][891]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.08-22.25.06:146][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.08-22.25.06:146][891]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2026.02.08-22.25.06:158][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011188s)
+[2026.02.08-22.25.06:158][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.011390s)
+[2026.02.08-22.25.06:177][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.02.08-22.25.06:178][891]LogChaosDD: Creating Chaos Debug Draw Scene for world StartupMap
+[2026.02.08-22.25.06:179][891]LogPlayLevel: PIE: World Init took: (0.001261s)
+[2026.02.08-22.25.06:179][891]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.02.08-22.25.06:180][891]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.08-22.25.06:180][891]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.08-22.25.06:180][891]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.08-22.25.06:180][891]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.08-22.25.06:180][891]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.08-22.25.06:180][891]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.08-22.25.06:180][891]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.08-22.25.06:180][891]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.08-22.25.06:180][891]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.08-22.25.06:180][891]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.08-22.25.06:180][891]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.08-22.25.06:182][891]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.08-22.25.06:197][891]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.08-22.25.06:197][891]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.08-22.25.06:197][891]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.08-22.25.06:198][891]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.08-22.25.06:198][891]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.02.08-22.25.06:198][891]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.02.08-22.25.06:200][891]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.02.08-22.25.06:200][891]LogInit: FAudioDevice initialized with ID 8.
+[2026.02.08-22.25.06:200][891]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.02.08-22.25.06:200][891]LogAudio: Display: Audio Device (ID: 8) registered with world 'StartupMap'.
+[2026.02.08-22.25.06:200][891]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.02.08-22.25.06:203][891]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2026.02.08-22.25.06:208][891]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 60) at 2026.02.08-17.25.06
+[2026.02.08-22.25.06:210][891]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2026.02.08-22.25.06:211][891]LogWorld: Bringing up level for play took: 0.007166
+[2026.02.08-22.25.06:213][891]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 112.500000
+[2026.02.08-22.25.06:214][891]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.02.08-22.25.06:214][891]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.02.08-22.25.06:214][891]LogPushModel: PushModel HandleCreation is now enabled
+[2026.02.08-22.25.06:214][891]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.02.08-22.25.06:214][891]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2026.02.08-22.25.06:215][891]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2026.02.08-22.25.06:215][891]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.02.08-22.25.06:215][891]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2026.02.08-22.25.06:215][891]LogTemp: Warning: Changed Health on BP_Shaman_C_1, Health: 26.875000
+[2026.02.08-22.25.06:216][891]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.08-22.25.06:216][891]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.02.08-22.25.06:216][891]PIE: Server logged in
+[2026.02.08-22.25.06:218][891]PIE: Play in editor total start time 0.073 seconds.
+[2026.02.08-22.25.08:280][ 13]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_0, Health: 29.375000
+[2026.02.08-22.25.08:463][ 24]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_1, Health: 29.375000
+[2026.02.08-22.25.08:663][ 36]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_2, Health: 29.375000
+[2026.02.08-22.25.08:864][ 48]LogTemp: Warning: Changed Health on BP_Demon_Ranger_C_0, Health: 29.375000
+[2026.02.08-22.25.09:063][ 60]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_3, Health: 29.375000
+[2026.02.08-22.25.09:826][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-22.25.09:826][104]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2026.02.08-22.25.09:826][104]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.02.08-22.25.09:827][104]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-22.25.09:829][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-22.25.09:830][104]LogNet: World NetDriver shutdown IpNetDriver_6 [GameNetDriver]
+[2026.02.08-22.25.09:830][104]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_6 
+[2026.02.08-22.25.09:830][104]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_6 shut down
+[2026.02.08-22.25.09:830][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.08-22.25.09:833][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-22.25.09:850][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-22.25.09:850][104]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.02.08-22.25.09:850][104]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.02.08-22.25.09:852][104]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.02.08-22.25.09:859][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.02.08-22.25.09:899][106]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.02.08-22.25.15:214][425]LogAbilitySystem: Error: UAbilitySystemBlueprintLibrary::SendGameplayEventToActor: Invalid ability system component retrieved from Actor AnimationEditorPreviewActor_0. EventTag was Montage.Attack.1
+[2026.02.08-22.25.17:114][539]LogAbilitySystem: Error: UAbilitySystemBlueprintLibrary::SendGameplayEventToActor: Invalid ability system component retrieved from Actor AnimationEditorPreviewActor_0. EventTag was Montage.Attack.1
+[2026.02.08-22.25.27:857][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-22.25.27:877][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon] ([1] browsable assets)...
+[2026.02.08-22.25.27:884][916]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon.AM_Shaman_Summon]
+[2026.02.08-22.25.27:884][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon]
+[2026.02.08-22.25.27:887][916]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon
+[2026.02.08-22.25.27:888][916]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/AM_Shaman_SummonB0CDBE7040D01753B6F13A9EDBD5875B.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon.uasset'
+[2026.02.08-22.25.27:895][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.324 ms (total: 444.018 ms)
+[2026.02.08-22.25.27:917][916]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-22.25.27:918][916]LogContentValidation: Enabled validators:
+[2026.02.08-22.25.27:918][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-22.25.27:918][916]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-22.25.27:918][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-22.25.27:918][916]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-22.25.27:918][916]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-22.25.27:918][916]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-22.25.27:918][916]AssetCheck: /Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon Validating asset
+[2026.02.08-22.25.28:408][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-22.25.28:439][945]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon] ([1] browsable assets)...
+[2026.02.08-22.25.28:439][945]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon]
+[2026.02.08-22.25.28:440][945]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon
+[2026.02.08-22.25.28:441][945]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/AM_Shaman_SummonA8F2102146F85FBECFCE25B85AA7715E.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon.uasset'
+[2026.02.08-22.25.28:449][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.203 ms (total: 484.222 ms)
+[2026.02.08-22.25.28:481][945]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-22.25.28:481][945]LogContentValidation: Enabled validators:
+[2026.02.08-22.25.28:481][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-22.25.28:481][945]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-22.25.28:481][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-22.25.28:481][945]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-22.25.28:481][945]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-22.25.28:481][945]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-22.25.28:482][945]AssetCheck: /Game/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon Validating asset
+[2026.02.08-22.27.26:071][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.02.08-22.27.26:915][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-22.27.26:948][384]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_SummonAbility] ([2] browsable assets)...
+[2026.02.08-22.27.26:948][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_SummonAbility]
+[2026.02.08-22.27.26:955][384]LogSavePackage: Moving output files for package: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_SummonAbility
+[2026.02.08-22.27.26:955][384]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/GA_SummonAbilityC2BC9A0D460B1357ADDDCEBFDEA3DC48.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Enemy/Abilities/GA_SummonAbility.uasset'
+[2026.02.08-22.27.26:961][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.066 ms (total: 531.288 ms)
+[2026.02.08-22.27.26:994][384]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-22.27.26:995][384]LogContentValidation: Enabled validators:
+[2026.02.08-22.27.26:995][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-22.27.26:995][384]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-22.27.26:995][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-22.27.26:995][384]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-22.27.26:995][384]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-22.27.26:995][384]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-22.27.26:995][384]AssetCheck: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_SummonAbility Validating asset
+[2026.02.08-22.28.01:182][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.02.08-22.28.01:716][422]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-22.28.01:739][422]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_SummonAbility] ([2] browsable assets)...
+[2026.02.08-22.28.01:739][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_SummonAbility]
+[2026.02.08-22.28.01:746][422]LogSavePackage: Moving output files for package: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_SummonAbility
+[2026.02.08-22.28.01:747][422]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/GA_SummonAbility66F43F7747F2C8F8457BE08CBB096EB5.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AbilitySystem/Enemy/Abilities/GA_SummonAbility.uasset'
+[2026.02.08-22.28.01:754][422]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.762 ms (total: 569.051 ms)
+[2026.02.08-22.28.01:774][422]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-22.28.01:774][422]LogContentValidation: Enabled validators:
+[2026.02.08-22.28.01:774][422]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-22.28.01:774][422]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-22.28.01:774][422]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-22.28.01:774][422]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-22.28.01:774][422]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-22.28.01:774][422]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-22.28.01:774][422]AssetCheck: /Game/Blueprints/AbilitySystem/Enemy/Abilities/GA_SummonAbility Validating asset
+[2026.02.08-22.28.03:107][499]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.08-22.28.03:118][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.08-22.28.03:118][499]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2026.02.08-22.28.03:129][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010857s)
+[2026.02.08-22.28.03:129][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.011217s)
+[2026.02.08-22.28.03:148][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.02.08-22.28.03:151][499]LogChaosDD: Creating Chaos Debug Draw Scene for world StartupMap
+[2026.02.08-22.28.03:152][499]LogPlayLevel: PIE: World Init took: (0.001547s)
+[2026.02.08-22.28.03:153][499]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.02.08-22.28.03:153][499]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.08-22.28.03:153][499]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.08-22.28.03:153][499]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.08-22.28.03:153][499]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.08-22.28.03:153][499]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.08-22.28.03:153][499]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.08-22.28.03:154][499]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.08-22.28.03:154][499]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.08-22.28.03:154][499]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.08-22.28.03:154][499]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.08-22.28.03:154][499]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.08-22.28.03:156][499]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.08-22.28.03:171][499]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.08-22.28.03:171][499]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.08-22.28.03:172][499]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.08-22.28.03:172][499]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.08-22.28.03:172][499]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.02.08-22.28.03:172][499]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.02.08-22.28.03:174][499]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.02.08-22.28.03:174][499]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.02.08-22.28.03:174][499]LogInit: FAudioDevice initialized with ID 9.
+[2026.02.08-22.28.03:174][499]LogAudio: Display: Audio Device (ID: 9) registered with world 'StartupMap'.
+[2026.02.08-22.28.03:175][499]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.02.08-22.28.03:177][499]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2026.02.08-22.28.03:181][499]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 60) at 2026.02.08-17.28.03
+[2026.02.08-22.28.03:183][499]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2026.02.08-22.28.03:185][499]LogWorld: Bringing up level for play took: 0.007549
+[2026.02.08-22.28.03:188][499]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 112.500000
+[2026.02.08-22.28.03:188][499]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.02.08-22.28.03:188][499]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.02.08-22.28.03:188][499]LogPushModel: PushModel HandleCreation is now enabled
+[2026.02.08-22.28.03:188][499]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.02.08-22.28.03:189][499]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2026.02.08-22.28.03:189][499]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2026.02.08-22.28.03:189][499]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.02.08-22.28.03:189][499]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_7 IpNetDriver listening on port 17777
+[2026.02.08-22.28.03:190][499]LogTemp: Warning: Changed Health on BP_Shaman_C_1, Health: 26.875000
+[2026.02.08-22.28.03:190][499]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.08-22.28.03:190][499]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.02.08-22.28.03:190][499]PIE: Server logged in
+[2026.02.08-22.28.03:192][499]PIE: Play in editor total start time 0.076 seconds.
+[2026.02.08-22.28.05:232][620]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_0, Health: 29.375000
+[2026.02.08-22.28.05:414][631]LogTemp: Warning: Changed Health on BP_Demon_Ranger_C_0, Health: 29.375000
+[2026.02.08-22.28.05:614][643]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_1, Health: 29.375000
+[2026.02.08-22.28.05:814][655]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_2, Health: 29.375000
+[2026.02.08-22.28.06:015][667]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_3, Health: 29.375000
+[2026.02.08-22.28.07:098][732]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_4, Health: 29.375000
+[2026.02.08-22.28.07:099][732]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Fire on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.02.08-22.28.07:099][732]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Lightning on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.02.08-22.28.07:099][732]LogGameplayEffects: Error: FGameplayEffectSpec::GetMagnitude called for Data Damage.Arcane on Def Default__GE_Damage_C when magnitude had not yet been set by caller.
+[2026.02.08-22.28.07:282][743]LogTemp: Warning: Changed Health on BP_Demon_Ranger_C_1, Health: 29.375000
+[2026.02.08-22.28.07:482][755]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_5, Health: 29.375000
+[2026.02.08-22.28.07:682][767]LogTemp: Warning: Changed Health on BP_Demon_Ranger_C_2, Health: 29.375000
+[2026.02.08-22.28.07:881][779]LogTemp: Warning: Changed Health on BP_Demon_Ranger_C_3, Health: 29.375000
+[2026.02.08-22.28.10:597][942]LogTemp: Warning: Changed Health on BP_Demon_Ranger_C_4, Health: 29.375000
+[2026.02.08-22.28.10:782][953]LogTemp: Warning: Changed Health on BP_Demon_Ranger_C_5, Health: 29.375000
+[2026.02.08-22.28.10:983][965]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_6, Health: 29.375000
+[2026.02.08-22.28.11:182][977]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_7, Health: 29.375000
+[2026.02.08-22.28.11:382][989]LogTemp: Warning: Changed Health on BP_Demon_Ranger_C_6, Health: 29.375000
+[2026.02.08-22.28.16:656][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-22.28.16:656][304]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2026.02.08-22.28.16:656][304]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.02.08-22.28.16:656][304]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-22.28.16:659][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-22.28.16:660][304]LogNet: World NetDriver shutdown IpNetDriver_7 [GameNetDriver]
+[2026.02.08-22.28.16:660][304]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_7 
+[2026.02.08-22.28.16:660][304]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_7 shut down
+[2026.02.08-22.28.16:660][304]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.08-22.28.16:663][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-22.28.16:681][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-22.28.16:682][304]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.02.08-22.28.16:682][304]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.02.08-22.28.16:683][304]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.02.08-22.28.16:693][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.02.08-22.28.16:731][306]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2026.02.08-22.28.40:675][532]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Assets/Enemies/Shaman/Animations/Shaman_Summon.Shaman_Summon
+[2026.02.08-22.28.40:757][532]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2026.02.08-22.28.40:766][532]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.02.08-22.28.47:252][840]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-22.28.47:282][840]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Enemies/Shaman/Animations/Shaman_Summon] ([1] browsable assets)...
+[2026.02.08-22.28.47:289][840]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Assets/Enemies/Shaman/Animations/Shaman_Summon.Shaman_Summon]
+[2026.02.08-22.28.47:289][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Enemies/Shaman/Animations/Shaman_Summon]
+[2026.02.08-22.28.47:297][840]LogSavePackage: Moving output files for package: /Game/Assets/Enemies/Shaman/Animations/Shaman_Summon
+[2026.02.08-22.28.47:298][840]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/Shaman_Summon1DC8088D41C0075AE35001BF47CB239C.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Shaman/Animations/Shaman_Summon.uasset'
+[2026.02.08-22.28.47:304][840]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.739 ms (total: 621.790 ms)
+[2026.02.08-22.28.47:335][840]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-22.28.47:335][840]LogContentValidation: Enabled validators:
+[2026.02.08-22.28.47:335][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-22.28.47:335][840]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-22.28.47:335][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-22.28.47:335][840]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-22.28.47:335][840]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-22.28.47:335][840]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-22.28.47:335][840]AssetCheck: /Game/Assets/Enemies/Shaman/Animations/Shaman_Summon Validating asset
+[2026.02.08-22.28.47:352][840]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.08-22.28.47:875][872]LogEOSSDK: Warning: LogHttp: 000001DD21D06000: HTTP request timed out after 30.00 seconds URL=https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B85C1346C-4696-516B-CB18-279316AFDEFB%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.02.08-22.28.47:875][872]LogEOSSDK: Warning: LogHttp: 000001DD21D06000: request failed, libcurl error: 0 (No error)
+[2026.02.08-22.28.47:875][872]LogEOSSDK: Warning: LogHttp: 000001DD21D06000: libcurl info message cache 0 (Found bundle for host: 0x1dc58880090 [serially])
+[2026.02.08-22.28.47:875][872]LogEOSSDK: Warning: LogHttp: 000001DD21D06000: libcurl info message cache 1 (Re-using existing connection with host api.epicgames.dev)
+[2026.02.08-22.28.47:875][872]LogEOSSDK: Warning: LogHttp: 000001DD21D06000: libcurl info message cache 2 (We are completely uploaded and fine)
+[2026.02.08-22.28.47:875][872]LogEOSSDK: Warning: LogHttp: 000001DD21D06000: libcurl info message cache 3 (Closing connection)
+[2026.02.08-22.28.47:875][872]LogEOSSDK: Warning: LogHttp: 000001DD21D06000: libcurl info message cache 4 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.02.08-22.28.47:875][872]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B85C1346C-4696-516B-CB18-279316AFDEFB%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.02.08-22.28.49:023][939]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-22.28.49:023][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-22.28.49:028][939]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-22.28.49:028][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-22.28.49:062][939]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-22.28.49:062][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-22.28.49:087][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.02.08-22.28.50:718][ 37]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.08-22.28.50:728][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.08-22.28.50:728][ 37]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartupMap
+[2026.02.08-22.28.50:739][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010200s)
+[2026.02.08-22.28.50:739][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartupMap.StartupMap to /Game/Maps/UEDPIE_0_StartupMap.StartupMap (0.010500s)
+[2026.02.08-22.28.50:758][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.02.08-22.28.50:759][ 37]LogChaosDD: Creating Chaos Debug Draw Scene for world StartupMap
+[2026.02.08-22.28.50:761][ 37]LogPlayLevel: PIE: World Init took: (0.001195s)
+[2026.02.08-22.28.50:761][ 37]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.02.08-22.28.50:761][ 37]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.08-22.28.50:761][ 37]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.08-22.28.50:762][ 37]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.08-22.28.50:762][ 37]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.08-22.28.50:762][ 37]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.08-22.28.50:762][ 37]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.08-22.28.50:762][ 37]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.08-22.28.50:762][ 37]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.08-22.28.50:762][ 37]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.08-22.28.50:762][ 37]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.08-22.28.50:762][ 37]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.08-22.28.50:764][ 37]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.08-22.28.50:778][ 37]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.08-22.28.50:779][ 37]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.08-22.28.50:779][ 37]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.08-22.28.50:779][ 37]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.08-22.28.50:779][ 37]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.02.08-22.28.50:779][ 37]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.02.08-22.28.50:782][ 37]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.02.08-22.28.50:782][ 37]LogInit: FAudioDevice initialized with ID 10.
+[2026.02.08-22.28.50:782][ 37]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.02.08-22.28.50:782][ 37]LogAudio: Display: Audio Device (ID: 10) registered with world 'StartupMap'.
+[2026.02.08-22.28.50:782][ 37]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.02.08-22.28.50:784][ 37]LogLoad: Game class is 'BP_AuraGameMode_C'
+[2026.02.08-22.28.50:788][ 37]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 60) at 2026.02.08-17.28.50
+[2026.02.08-22.28.50:790][ 37]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2026.02.08-22.28.50:792][ 37]LogWorld: Bringing up level for play took: 0.007438
+[2026.02.08-22.28.50:795][ 37]LogTemp: Warning: Changed Health on BP_AuraCharacter_C_0, Health: 112.500000
+[2026.02.08-22.28.50:795][ 37]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.02.08-22.28.50:795][ 37]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.02.08-22.28.50:795][ 37]LogPushModel: PushModel HandleCreation is now enabled
+[2026.02.08-22.28.50:795][ 37]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.02.08-22.28.50:796][ 37]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2026.02.08-22.28.50:796][ 37]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2026.02.08-22.28.50:796][ 37]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.02.08-22.28.50:796][ 37]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_8 IpNetDriver listening on port 17777
+[2026.02.08-22.28.50:797][ 37]LogTemp: Warning: Changed Health on BP_Shaman_C_1, Health: 26.875000
+[2026.02.08-22.28.50:797][ 37]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.08-22.28.50:797][ 37]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.02.08-22.28.50:798][ 37]PIE: Server logged in
+[2026.02.08-22.28.50:799][ 37]PIE: Play in editor total start time 0.072 seconds.
+[2026.02.08-22.28.52:805][156]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_0, Health: 29.375000
+[2026.02.08-22.28.52:989][167]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_1, Health: 29.375000
+[2026.02.08-22.28.53:188][179]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_2, Health: 29.375000
+[2026.02.08-22.28.53:388][191]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_3, Health: 29.375000
+[2026.02.08-22.28.53:589][203]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_4, Health: 29.375000
+[2026.02.08-22.28.55:238][302]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_5, Health: 29.375000
+[2026.02.08-22.28.55:423][313]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_6, Health: 29.375000
+[2026.02.08-22.28.55:623][325]LogTemp: Warning: Changed Health on BP_Demon_Warrior_C_7, Health: 29.375000
+[2026.02.08-22.28.55:824][337]LogTemp: Warning: Changed Health on BP_Demon_Ranger_C_0, Health: 29.375000
+[2026.02.08-22.28.56:024][349]LogTemp: Warning: Changed Health on BP_Demon_Ranger_C_1, Health: 29.375000
+[2026.02.08-22.28.59:636][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-22.28.59:636][564]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartupMap
+[2026.02.08-22.28.59:636][564]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.02.08-22.28.59:637][564]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-22.28.59:639][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-22.28.59:640][564]LogNet: World NetDriver shutdown IpNetDriver_8 [GameNetDriver]
+[2026.02.08-22.28.59:640][564]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_8 
+[2026.02.08-22.28.59:640][564]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_8 shut down
+[2026.02.08-22.28.59:640][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.08-22.28.59:643][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-22.28.59:662][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-22.28.59:663][564]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.02.08-22.28.59:663][564]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.02.08-22.28.59:665][564]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.02.08-22.28.59:673][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.02.08-22.28.59:728][566]LogPlayLevel: Display: Destroying online subsystem :Context_22
