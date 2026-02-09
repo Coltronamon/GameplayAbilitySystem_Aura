@@ -180,6 +180,8 @@
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Shaman/Animations/AM_Shaman_Summon.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Shaman/Animations/Shaman_Summon.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BehaviorTree/BT_BehaviortTree_Elementalist.uasset",
+				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BehaviorTree/BT_BehaviorTree_Elementalist.uasset",
+				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/Tasks/BTT_Attack_Elementalist.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Sounds/Enemies/Ghoul/Growl/sfx_Template_multi.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Goblin/Animations/Spear/AM_HitReact_GoblinSpear.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Enemies/Goblin/Animations/Slingshot/AM_HitReact_GoblinSlingshot.uasset",
