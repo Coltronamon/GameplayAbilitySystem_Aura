@@ -1483,3 +1483,1204 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.11-00.49.55:235][690]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
 [2026.02.11-00.49.55:235][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2026.02.11-00.49.55:305][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.02.11-00.52.28:946][717]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2107.151611
+[2026.02.11-00.52.29:038][727]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-00.52.29:038][727]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2107.235107, Update Interval: 336.177246
+[2026.02.11-00.59.02:529][948]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2500.728516
+[2026.02.11-00.59.03:529][951]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-00.59.03:529][951]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2501.394531, Update Interval: 339.802856
+[2026.02.11-01.05.39:070][194]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2897.266113
+[2026.02.11-01.05.40:071][197]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-01.05.40:071][197]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2897.934082, Update Interval: 356.779083
+[2026.02.11-01.08.35:112][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.08.35:134][723]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Overlay/SubWidget/WBP_HealthManaSpells] ([2] browsable assets)...
+[2026.02.11-01.08.35:134][723]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Overlay/SubWidget/WBP_HealthManaSpells]
+[2026.02.11-01.08.35:142][723]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/Overlay/SubWidget/WBP_HealthManaSpells
+[2026.02.11-01.08.35:142][723]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_HealthManaSpellsAD8E9F35451E57E958277AAE22296D9F.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/Overlay/SubWidget/WBP_HealthManaSpells.uasset'
+[2026.02.11-01.08.35:149][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.684 ms (total: 810.548 ms)
+[2026.02.11-01.08.35:182][723]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.08.35:182][723]LogContentValidation: Enabled validators:
+[2026.02.11-01.08.35:182][723]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.08.35:182][723]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.08.35:182][723]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.08.35:182][723]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.08.35:182][723]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.08.35:182][723]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.08.35:184][723]AssetCheck: /Game/Blueprints/UI/Overlay/SubWidget/WBP_HealthManaSpells Validating asset
+[2026.02.11-01.12.16:270][749]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3294.458008
+[2026.02.11-01.12.17:271][752]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-01.12.17:271][752]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3295.125732, Update Interval: 315.659668
+[2026.02.11-01.18.14:648][824]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3652.837158
+[2026.02.11-01.18.15:649][827]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-01.18.15:649][827]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3653.503662, Update Interval: 317.639099
+[2026.02.11-01.19.19:566][ 19]LogDerivedDataCache: C:/Users/kkear/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.11-01.24.29:710][949]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4027.895264
+[2026.02.11-01.24.30:710][952]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-01.24.30:710][952]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4028.563232, Update Interval: 357.839294
+[2026.02.11-01.26.08:776][514]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.02.11-01.26.08:782][514]LogContentBrowser: Creating deferred item: NewFolder
+[2026.02.11-01.26.08:788][515]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.02.11-01.26.13:107][ 34]LogContentBrowser: Attempting asset rename: NewFolder -> SpellGlobes
+[2026.02.11-01.26.13:109][ 34]LogContentBrowser: End creating deferred item NewFolder
+[2026.02.11-01.26.25:165][965]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.02.11-01.26.25:174][965]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.02.11-01.26.25:179][965]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.02.11-01.26.25:195][967]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.02.11-01.26.34:115][881]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_SpellGlobe
+[2026.02.11-01.26.34:121][881]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.02.11-01.26.35:684][ 49]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe
+[2026.02.11-01.26.35:684][ 49]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2026.02.11-01.26.35:689][ 49]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2026.02.11-01.26.54:095][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.11-01.27.04:039][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.02.11-01.27.04:828][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.27.04:857][439]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.27.04:858][439]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.27.04:858][439]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.27.04:860][439]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.27.04:860][439]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobe7CDE71804F27876B99ED0889C514EA4C.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.27.04:870][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.290 ms (total: 852.838 ms)
+[2026.02.11-01.27.04:890][439]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.27.04:890][439]LogContentValidation: Enabled validators:
+[2026.02.11-01.27.04:890][439]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.27.04:890][439]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.27.04:890][439]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.27.04:890][439]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.27.04:890][439]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.27.04:890][439]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.27.04:892][439]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.27.04:907][439]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.11-01.27.14:340][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.02.11-01.27.15:228][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.27.15:252][650]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.27.15:254][650]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.27.15:254][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.27.15:256][650]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.27.15:257][650]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobe6B96E67A49783C5C283B2B8086C8FFD3.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.27.15:263][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.080 ms (total: 887.919 ms)
+[2026.02.11-01.27.15:293][650]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.27.15:293][650]LogContentValidation: Enabled validators:
+[2026.02.11-01.27.15:293][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.27.15:293][650]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.27.15:293][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.27.15:293][650]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.27.15:293][650]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.27.15:293][650]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.27.15:294][650]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.28.03:423][315]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.02.11-01.29.08:902][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.02.11-01.29.09:640][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.29.09:669][ 98]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.29.09:671][ 98]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.29.09:671][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.29.09:674][ 98]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.29.09:674][ 98]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobeAE747B6243E417D92281B4950A1FA54B.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.29.09:680][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.890 ms (total: 927.810 ms)
+[2026.02.11-01.29.09:710][ 98]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.29.09:710][ 98]LogContentValidation: Enabled validators:
+[2026.02.11-01.29.09:710][ 98]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.29.09:710][ 98]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.29.09:710][ 98]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.29.09:710][ 98]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.29.09:710][ 98]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.29.09:710][ 98]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.29.09:710][ 98]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.30.00:413][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.02.11-01.30.01:039][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.30.01:067][966]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.30.01:068][966]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.30.01:068][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.30.01:072][966]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.30.01:072][966]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobe1DFBD0214A0C4A586B2F22894B654FAE.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.30.01:079][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.329 ms (total: 968.139 ms)
+[2026.02.11-01.30.01:105][966]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.30.01:105][966]LogContentValidation: Enabled validators:
+[2026.02.11-01.30.01:105][966]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.30.01:106][966]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.30.01:106][966]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.30.01:106][966]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.30.01:106][966]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.30.01:106][966]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.30.01:106][966]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.30.15:111][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.02.11-01.30.15:963][448]LogSlate: Window 'Save Content' being destroyed
+[2026.02.11-01.30.15:976][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.30.16:003][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.30.16:003][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.30.16:006][448]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.30.16:006][448]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobeB67EBAC7417D368AC536F09671849951.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.30.16:013][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.976 ms (total: 1.00 sec)
+[2026.02.11-01.30.16:044][448]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.30.16:045][448]LogContentValidation: Enabled validators:
+[2026.02.11-01.30.16:045][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.30.16:045][448]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.30.16:045][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.30.16:045][448]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.30.16:045][448]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.30.16:045][448]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.30.16:045][448]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.30.29:569][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.02.11-01.30.30:216][118]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.30.30:246][118]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.30.30:247][118]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.30.30:247][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.30.30:250][118]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.30.30:252][118]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobe2D8749A949402B62581D3881C1C60378.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.30.30:258][118]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.805 ms (total: 1.04 sec)
+[2026.02.11-01.30.30:287][118]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.30.30:287][118]LogContentValidation: Enabled validators:
+[2026.02.11-01.30.30:287][118]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.30.30:287][118]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.30.30:287][118]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.30.30:287][118]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.30.30:287][118]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.30.30:287][118]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.30.30:287][118]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.31.21:814][268]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4439.976074
+[2026.02.11-01.31.21:980][288]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-01.31.21:980][288]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4440.135254, Update Interval: 345.949890
+[2026.02.11-01.32.48:696][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.02.11-01.32.49:547][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.32.49:573][148]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.32.49:575][148]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.32.49:575][148]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.32.49:579][148]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.32.49:579][148]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobe02FB585F42F57DAEB56969958539D6C0.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.32.49:586][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.910 ms (total: 1.08 sec)
+[2026.02.11-01.32.49:608][148]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.32.49:608][148]LogContentValidation: Enabled validators:
+[2026.02.11-01.32.49:608][148]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.32.49:608][148]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.32.49:608][148]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.32.49:608][148]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.32.49:608][148]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.32.49:608][148]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.32.49:608][148]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.34.16:885][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.02.11-01.34.22:805][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.34.22:831][251]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.34.22:833][251]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.34.22:833][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.34.22:838][251]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.34.22:838][251]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobeF5122825476619F2C35D4E918344769C.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.34.22:845][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.786 ms (total: 1.12 sec)
+[2026.02.11-01.34.22:864][251]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.34.22:864][251]LogContentValidation: Enabled validators:
+[2026.02.11-01.34.22:864][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.34.22:864][251]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.34.22:864][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.34.22:864][251]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.34.22:865][251]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.34.22:865][251]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.34.22:865][251]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.34.57:137][115]LogStreaming: Display: FlushAsyncLoading(497): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.11-01.34.57:148][115]LogTexture: Display: Building textures: /Game/Assets/UI/Rings/SkillRing/SkillRing_1.SkillRing_1 (BGRA8, 512x511 x1x1x1) (Required Memory Estimate: 9.982407 MB), EncodeSpeed: Fast
+[2026.02.11-01.34.59:717][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.02.11-01.35.00:433][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.35.00:458][300]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.35.00:460][300]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.35.00:460][300]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.35.00:464][300]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.35.00:464][300]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobeA64588584D09842B2E5DD09DD6D74C87.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.35.00:471][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.590 ms (total: 1.16 sec)
+[2026.02.11-01.35.00:498][300]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.35.00:498][300]LogContentValidation: Enabled validators:
+[2026.02.11-01.35.00:498][300]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.35.00:498][300]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.35.00:498][300]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.35.00:498][300]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.35.00:498][300]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.35.00:498][300]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.35.00:498][300]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.35.36:632][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.02.11-01.35.47:795][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.02.11-01.36.14:897][681]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/ProgressBar/WBP_GlobeProgressBar_Base.WBP_GlobeProgressBar_Base
+[2026.02.11-01.36.14:897][681]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_62
+[2026.02.11-01.36.14:902][681]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_63
+[2026.02.11-01.37.29:061][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.02.11-01.37.30:215][645]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.37.30:242][645]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.37.30:244][645]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.37.30:244][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.37.30:250][645]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.37.30:251][645]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobeC2B4707C4E09F2C31CB241BDD1EF8B97.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.37.30:256][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.322 ms (total: 1.20 sec)
+[2026.02.11-01.37.30:290][645]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.37.30:291][645]LogContentValidation: Enabled validators:
+[2026.02.11-01.37.30:291][645]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.37.30:291][645]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.37.30:291][645]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.37.30:291][645]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.37.30:291][645]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.37.30:291][645]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.37.30:291][645]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.37.40:011][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.11-01.37.45:254][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.37.45:284][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/ProgressBar/WBP_GlobeProgressBar_Base] ([2] browsable assets)...
+[2026.02.11-01.37.45:284][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/ProgressBar/WBP_GlobeProgressBar_Base]
+[2026.02.11-01.37.45:302][388]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/ProgressBar/WBP_GlobeProgressBar_Base
+[2026.02.11-01.37.45:303][388]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_GlobeProgressBar_Base4C6D3D464C03ABC33B5AF6A11390355B.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/ProgressBar/WBP_GlobeProgressBar_Base.uasset'
+[2026.02.11-01.37.45:310][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.521 ms (total: 1.26 sec)
+[2026.02.11-01.37.45:332][388]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.37.45:332][388]LogContentValidation: Enabled validators:
+[2026.02.11-01.37.45:332][388]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.37.45:332][388]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.37.45:332][388]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.37.45:332][388]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.37.45:332][388]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.37.45:332][388]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.37.45:332][388]AssetCheck: /Game/Blueprints/UI/ProgressBar/WBP_GlobeProgressBar_Base Validating asset
+[2026.02.11-01.37.46:743][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.37.46:771][556]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.37.46:772][556]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.37.46:772][556]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.37.46:778][556]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.37.46:778][556]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobe626B5D5C4F846D6D1C97A8A4089F6552.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.37.46:785][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.154 ms (total: 1.30 sec)
+[2026.02.11-01.37.46:820][556]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.37.46:820][556]LogContentValidation: Enabled validators:
+[2026.02.11-01.37.46:820][556]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.37.46:820][556]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.37.46:820][556]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.37.46:820][556]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.37.46:820][556]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.37.46:820][556]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.37.46:820][556]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.38.06:807][783]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4845.000977
+[2026.02.11-01.38.06:898][794]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-01.38.06:898][794]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4845.083984, Update Interval: 313.021027
+[2026.02.11-01.40.07:408][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.02.11-01.40.08:046][414]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.40.08:076][414]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.40.08:078][414]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.40.08:078][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.40.08:085][414]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.40.08:086][414]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobeC7A2C2654B51A308FEEF4AA0A75F685C.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.40.08:092][414]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.002 ms (total: 1.35 sec)
+[2026.02.11-01.40.08:124][414]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.40.08:125][414]LogContentValidation: Enabled validators:
+[2026.02.11-01.40.08:125][414]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.40.08:125][414]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.40.08:125][414]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.40.08:125][414]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.40.08:125][414]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.40.08:125][414]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.40.08:125][414]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.40.25:828][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.02.11-01.41.08:349][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.02.11-01.41.09:197][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.41.09:216][678]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.41.09:218][678]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.41.09:218][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.41.09:225][678]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.41.09:225][678]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobeA1C421A842485977913AC695BA4F0651.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.41.09:232][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.319 ms (total: 1.38 sec)
+[2026.02.11-01.41.09:264][678]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.41.09:264][678]LogContentValidation: Enabled validators:
+[2026.02.11-01.41.09:264][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.41.09:264][678]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.41.09:264][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.41.09:264][678]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.41.09:264][678]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.41.09:264][678]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.41.09:265][678]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.41.15:768][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.41.15:792][458]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.41.15:792][458]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.41.15:798][458]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.41.15:800][458]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobeF8A9A30B4F8B1C53B599019B84A8B81F.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.41.15:806][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.124 ms (total: 1.42 sec)
+[2026.02.11-01.41.15:840][458]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.41.15:840][458]LogContentValidation: Enabled validators:
+[2026.02.11-01.41.15:840][458]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.41.15:840][458]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.41.15:840][458]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.41.15:840][458]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.41.15:840][458]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.41.15:840][458]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.41.15:841][458]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.41.24:818][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.41.24:843][529]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.41.24:843][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.41.24:850][529]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.41.24:850][529]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobe4941C7B44E76F3CA5ACF61BD09C61806.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.41.24:857][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.600 ms (total: 1.46 sec)
+[2026.02.11-01.41.24:883][529]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.41.24:883][529]LogContentValidation: Enabled validators:
+[2026.02.11-01.41.24:883][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.41.24:883][529]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.41.24:883][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.41.24:883][529]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.41.24:883][529]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.41.24:883][529]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.41.24:884][529]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.41.31:236][286]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.41.31:264][286]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.41.31:264][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.41.31:271][286]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.41.31:272][286]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobeE488B83B45E2FAA386E772997EA6A4D1.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.41.31:278][286]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.662 ms (total: 1.50 sec)
+[2026.02.11-01.41.31:312][286]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.41.31:312][286]LogContentValidation: Enabled validators:
+[2026.02.11-01.41.31:313][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.41.31:313][286]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.41.31:313][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.41.31:313][286]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.41.31:313][286]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.41.31:313][286]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.41.31:313][286]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.41.38:678][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.41.38:708][162]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.41.38:710][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.41.38:717][162]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.41.38:717][162]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobe46A38DE0488793F5F599B29965C7F3F7.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.41.38:723][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.921 ms (total: 1.55 sec)
+[2026.02.11-01.41.38:755][162]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.41.38:756][162]LogContentValidation: Enabled validators:
+[2026.02.11-01.41.38:756][162]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.41.38:756][162]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.41.38:756][162]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.41.38:756][162]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.41.38:756][162]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.41.38:756][162]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.41.38:756][162]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.41.43:206][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.41.43:240][693]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.41.43:240][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.41.43:247][693]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.41.43:247][693]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobe41CF08BC4FBB17404D6DF5BED48CA1A2.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.41.43:254][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.094 ms (total: 1.59 sec)
+[2026.02.11-01.41.43:286][693]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.41.43:286][693]LogContentValidation: Enabled validators:
+[2026.02.11-01.41.43:286][693]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.41.43:286][693]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.41.43:286][693]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.41.43:286][693]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.41.43:286][693]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.41.43:286][693]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.41.43:287][693]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.43.59:621][879]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5197.817871
+[2026.02.11-01.43.59:714][890]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-01.43.59:714][890]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5197.902344, Update Interval: 346.327087
+[2026.02.11-01.44.32:084][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.11-01.44.32:719][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.44.32:743][270]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.44.32:746][270]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.44.32:746][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.44.32:753][270]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.44.32:754][270]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobe40EC9F674A7589EC053BD181CE6189F8.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.44.32:760][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.818 ms (total: 1.63 sec)
+[2026.02.11-01.44.32:795][270]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.44.32:795][270]LogContentValidation: Enabled validators:
+[2026.02.11-01.44.32:795][270]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.44.32:795][270]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.44.32:795][270]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.44.32:795][270]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.44.32:795][270]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.44.32:795][270]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.44.32:795][270]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.44.48:035][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.11-01.45.08:018][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.02.11-01.45.08:687][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.45.08:718][241]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.45.08:720][241]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.45.08:720][241]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.45.08:726][241]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.45.08:726][241]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobeA332933444DE70055D584E82BD23CAE0.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.45.08:733][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.491 ms (total: 1.68 sec)
+[2026.02.11-01.45.08:765][241]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.45.08:766][241]LogContentValidation: Enabled validators:
+[2026.02.11-01.45.08:766][241]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.45.08:766][241]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.45.08:766][241]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.45.08:766][241]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.45.08:766][241]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.45.08:766][241]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.45.08:766][241]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.46.12:971][561]LogStreaming: Display: FlushAsyncLoading(498): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.11-01.46.15:984][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.02.11-01.46.16:847][803]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.46.16:877][803]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.46.16:878][803]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.46.16:878][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.46.16:886][803]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.46.16:887][803]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobeC168255746459F77CD6251998493E8C7.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.46.16:893][803]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.249 ms (total: 1.73 sec)
+[2026.02.11-01.46.16:926][803]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.46.16:926][803]LogContentValidation: Enabled validators:
+[2026.02.11-01.46.16:926][803]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.46.16:926][803]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.46.16:926][803]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.46.16:926][803]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.46.16:926][803]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.46.16:926][803]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.46.16:927][803]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.46.36:505][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.02.11-01.46.37:294][196]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.46.37:322][196]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.46.37:324][196]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.46.37:324][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.46.37:331][196]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.46.37:331][196]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobeC57B6CE840A08DB98BD117AF94FE3819.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.46.37:339][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.016 ms (total: 1.77 sec)
+[2026.02.11-01.46.37:368][196]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.46.37:368][196]LogContentValidation: Enabled validators:
+[2026.02.11-01.46.37:368][196]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.46.37:368][196]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.46.37:368][196]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.46.37:368][196]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.46.37:368][196]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.46.37:368][196]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.46.37:370][196]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.47.00:820][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.11-01.47.01:424][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.47.01:455][698]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.47.01:457][698]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.47.01:457][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.47.01:464][698]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.47.01:465][698]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobeD9F3E38248DA54731DC8AE84FDB8AB60.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.47.01:470][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.572 ms (total: 1.82 sec)
+[2026.02.11-01.47.01:503][698]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.47.01:503][698]LogContentValidation: Enabled validators:
+[2026.02.11-01.47.01:503][698]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.47.01:503][698]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.47.01:503][698]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.47.01:503][698]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.47.01:503][698]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.47.01:503][698]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.47.01:504][698]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.47.54:397][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.02.11-01.47.54:935][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.47.54:964][609]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.47.54:967][609]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SlotAsWidgetSwitcherSlot_ReturnValue in not an UClass
+	WBP_SpellGlobe_C /Game/Maps/Dungeon.Dungeon:WBP_SpellGlobe_C_17
+	Function /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe_C:UpdateGlobePadding:0192
+[2026.02.11-01.47.54:969][609]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.47.54:969][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.47.54:977][609]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.47.54:977][609]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobe7BA0C151458E3C466EC1BFA3DB439756.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.47.54:984][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.578 ms (total: 1.86 sec)
+[2026.02.11-01.47.55:016][609]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.47.55:016][609]LogContentValidation: Enabled validators:
+[2026.02.11-01.47.55:016][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.47.55:016][609]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.47.55:017][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.47.55:017][609]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.47.55:017][609]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.47.55:017][609]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.47.55:017][609]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.47.58:510][  0]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SlotAsWidgetSwitcherSlot_ReturnValue in not an UClass
+	WBP_SpellGlobe_C /Engine/Transient.World_41:WBP_SpellGlobe_C_113
+	Function /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe_C:UpdateGlobePadding:0192
+[2026.02.11-01.48.47:270][165]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.48.47:304][165]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.48.47:304][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.48.47:311][165]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.48.47:311][165]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobe8962743B4331819D6E875A8BA6289313.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.48.47:318][165]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.352 ms (total: 1.91 sec)
+[2026.02.11-01.48.47:351][165]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.48.47:351][165]LogContentValidation: Enabled validators:
+[2026.02.11-01.48.47:351][165]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.48.47:351][165]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.48.47:351][165]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.48.47:351][165]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.48.47:351][165]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.48.47:351][165]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.48.47:351][165]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.49.00:533][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.11-01.49.01:399][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.49.01:428][824]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.49.01:428][824]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SlotAsWidgetSwitcherSlot_ReturnValue in not an UClass
+	WBP_SpellGlobe_C /Game/Maps/Dungeon.Dungeon:WBP_SpellGlobe_C_18
+	Function /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe_C:UpdateGlobePadding:0192
+[2026.02.11-01.49.01:431][824]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.49.01:431][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.49.01:439][824]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.49.01:439][824]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobe7A28D92046BB4583CD17A68EAA29B43A.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.49.01:446][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.034 ms (total: 1.96 sec)
+[2026.02.11-01.49.01:474][824]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.49.01:475][824]LogContentValidation: Enabled validators:
+[2026.02.11-01.49.01:475][824]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.49.01:475][824]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.49.01:475][824]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.49.01:475][824]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.49.01:475][824]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.49.01:475][824]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.49.01:475][824]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.49.04:631][174]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SlotAsWidgetSwitcherSlot_ReturnValue in not an UClass
+	WBP_SpellGlobe_C /Engine/Transient.World_41:WBP_SpellGlobe_C_116
+	Function /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe_C:UpdateGlobePadding:0192
+[2026.02.11-01.49.08:921][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.02.11-01.49.11:350][930]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SlotAsWidgetSwitcherSlot_ReturnValue in not an UClass
+	WBP_SpellGlobe_C /Engine/Transient.World_41:WBP_SpellGlobe_C_116
+	Function /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe_C:UpdateGlobePadding:0192
+[2026.02.11-01.49.29:937][786]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SlotAsWidgetSwitcherSlot_ReturnValue in not an UClass
+	WBP_SpellGlobe_C /Engine/Transient.World_41:WBP_SpellGlobe_C_117
+	Function /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe_C:UpdateGlobePadding:0192
+[2026.02.11-01.49.48:087][943]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SlotAsWidgetSwitcherSlot_ReturnValue in not an UClass
+	WBP_SpellGlobe_C /Engine/Transient.World_41:WBP_SpellGlobe_C_118
+	Function /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe_C:UpdateGlobePadding:0192
+[2026.02.11-01.49.49:581][113]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SlotAsWidgetSwitcherSlot_ReturnValue in not an UClass
+	WBP_SpellGlobe_C /Engine/Transient.World_41:WBP_SpellGlobe_C_119
+	Function /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe_C:UpdateGlobePadding:0192
+[2026.02.11-01.50.06:493][104]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SlotAsWidgetSwitcherSlot_ReturnValue in not an UClass
+	WBP_SpellGlobe_C /Engine/Transient.World_41:WBP_SpellGlobe_C_120
+	Function /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe_C:UpdateGlobePadding:0192
+[2026.02.11-01.50.15:028][808]LogStreaming: Display: FlushAsyncLoading(499): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.11-01.50.15:030][808]LogTexture: Display: Building textures: /Game/Assets/UI/Spells/FireBolt.FireBolt (BGRA8, 200x200 x1x1x1) (Required Memory Estimate: 2.373283 MB), EncodeSpeed: Fast
+[2026.02.11-01.50.16:380][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.02.11-01.50.16:506][960]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SlotAsWidgetSwitcherSlot_ReturnValue in not an UClass
+	WBP_SpellGlobe_C /Engine/Transient.World_41:WBP_SpellGlobe_C_122
+	Function /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe_C:UpdateGlobePadding:0192
+[2026.02.11-01.50.17:277][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.50.17:301][ 47]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.50.17:303][ 47]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SlotAsWidgetSwitcherSlot_ReturnValue in not an UClass
+	WBP_SpellGlobe_C /Game/Maps/Dungeon.Dungeon:WBP_SpellGlobe_C_19
+	Function /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe_C:UpdateGlobePadding:0192
+[2026.02.11-01.50.17:304][ 47]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.50.17:304][ 47]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.50.17:311][ 47]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.50.17:313][ 47]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobe90BAF48F4247C8F182FDDD877B72797B.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.50.17:319][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.735 ms (total: 2.00 sec)
+[2026.02.11-01.50.17:351][ 47]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.50.17:351][ 47]LogContentValidation: Enabled validators:
+[2026.02.11-01.50.17:351][ 47]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.50.17:351][ 47]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.50.17:353][ 47]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.50.17:353][ 47]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.50.17:353][ 47]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.50.17:353][ 47]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.50.17:353][ 47]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.50.26:356][268]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5584.562012
+[2026.02.11-01.50.27:355][271]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-01.50.27:355][271]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5585.228027, Update Interval: 357.566467
+[2026.02.11-01.50.33:352][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.50.33:380][289]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.50.33:380][289]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.50.33:388][289]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.50.33:388][289]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobeE0AE03414BA2C974CDF668A12562A10C.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.50.33:395][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.848 ms (total: 2.04 sec)
+[2026.02.11-01.50.33:420][289]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.50.33:420][289]LogContentValidation: Enabled validators:
+[2026.02.11-01.50.33:420][289]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.50.33:420][289]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.50.33:420][289]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.50.33:420][289]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.50.33:420][289]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.50.33:420][289]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.50.33:421][289]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.51.42:914][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.02.11-01.51.43:493][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.51.43:526][466]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.51.43:526][466]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SlotAsWidgetSwitcherSlot_ReturnValue_1 in not an UClass
+	WBP_SpellGlobe_C /Game/Maps/Dungeon.Dungeon:WBP_SpellGlobe_C_20
+	Function /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe_C:UpdateGlobePadding:0192
+[2026.02.11-01.51.43:526][466]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SlotAsWidgetSwitcherSlot_ReturnValue in not an UClass
+	WBP_SpellGlobe_C /Game/Maps/Dungeon.Dungeon:WBP_SpellGlobe_C_20
+	Function /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe_C:UpdateGlobePadding:026A
+[2026.02.11-01.51.43:528][466]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.51.43:528][466]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.51.43:536][466]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.51.43:537][466]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobeF98E47BA45FF1573BEA02B91CAB150EA.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.51.43:544][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.818 ms (total: 2.09 sec)
+[2026.02.11-01.51.43:574][466]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.51.43:575][466]LogContentValidation: Enabled validators:
+[2026.02.11-01.51.43:575][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.51.43:575][466]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.51.43:575][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.51.43:575][466]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.51.43:575][466]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.51.43:575][466]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.51.43:575][466]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.51.44:861][591]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SlotAsWidgetSwitcherSlot_ReturnValue_1 in not an UClass
+	WBP_SpellGlobe_C /Engine/Transient.World_41:WBP_SpellGlobe_C_124
+	Function /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe_C:UpdateGlobePadding:0192
+[2026.02.11-01.51.44:861][591]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SlotAsWidgetSwitcherSlot_ReturnValue in not an UClass
+	WBP_SpellGlobe_C /Engine/Transient.World_41:WBP_SpellGlobe_C_124
+	Function /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe_C:UpdateGlobePadding:026A
+[2026.02.11-01.51.56:769][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.02.11-01.52.05:679][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.02.11-01.52.06:758][  7]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SlotAsWidgetSwitcherSlot_ReturnValue_1 in not an UClass
+	WBP_SpellGlobe_C /Engine/Transient.World_41:WBP_SpellGlobe_C_128
+	Function /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe_C:UpdateGlobePadding:0192
+[2026.02.11-01.52.06:758][  7]LogScript: Warning: Accessed None trying to read (real) property CallFunc_SlotAsWidgetSwitcherSlot_ReturnValue in not an UClass
+	WBP_SpellGlobe_C /Engine/Transient.World_41:WBP_SpellGlobe_C_128
+	Function /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe_C:UpdateGlobePadding:026A
+[2026.02.11-01.53.06:895][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.02.11-01.53.07:571][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.53.07:603][ 78]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.53.07:605][ 78]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.53.07:605][ 78]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.53.07:614][ 78]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.53.07:614][ 78]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobeDCD3205E4A82987A440BA48843AFF523.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.53.07:620][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.999 ms (total: 2.14 sec)
+[2026.02.11-01.53.07:650][ 78]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.53.07:650][ 78]LogContentValidation: Enabled validators:
+[2026.02.11-01.53.07:651][ 78]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.53.07:651][ 78]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.53.07:651][ 78]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.53.07:651][ 78]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.53.07:651][ 78]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.53.07:651][ 78]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.53.07:651][ 78]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.53.14:103][809]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.14:105][809]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.14:106][809]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.15:145][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.02.11-01.53.15:994][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.53.16:020][992]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.53.16:021][992]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.53.16:021][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.53.16:030][992]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.53.16:030][992]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobeB4DA331748AE3BDDAAF6309CDAF77B1F.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.53.16:037][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.703 ms (total: 2.19 sec)
+[2026.02.11-01.53.16:068][992]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.53.16:069][992]LogContentValidation: Enabled validators:
+[2026.02.11-01.53.16:069][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.53.16:069][992]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.53.16:069][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.53.16:069][992]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.53.16:069][992]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.53.16:069][992]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.53.16:069][992]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.53.16:935][ 93]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.16:936][ 93]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.16:937][ 93]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.16:938][ 93]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.16:939][ 93]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.16:940][ 93]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.16:940][ 93]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.16:943][ 93]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.16:993][ 94]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.16:999][ 94]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.17:049][ 95]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.17:105][ 96]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.17:157][ 97]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.17:203][ 98]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.17:899][164]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.17:900][164]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.17:901][164]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.17:951][165]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.17:953][165]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.17:954][165]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.17:959][165]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:010][166]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:011][166]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:011][166]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:014][166]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:060][167]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:116][168]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:118][168]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:165][169]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:170][169]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:230][171]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:278][172]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:337][174]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:386][175]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:436][176]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:483][177]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:489][177]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:541][178]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:542][178]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:544][178]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:591][179]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:646][180]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:649][180]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:700][181]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:749][182]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:798][183]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:799][183]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:805][183]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:854][184]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:857][184]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:905][185]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:959][186]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.18:961][186]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:008][187]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:009][187]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:015][187]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:065][188]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:111][189]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:118][189]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:166][190]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:168][190]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:169][190]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:171][190]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:217][191]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:220][191]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:220][191]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:221][191]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:221][191]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:275][192]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:278][192]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:284][193]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:286][193]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:291][194]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:293][194]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:300][195]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:301][195]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:303][195]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:309][196]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:310][196]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:317][197]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:325][198]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:325][198]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:327][198]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:333][199]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:335][199]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:341][200]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:350][201]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:350][201]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:353][201]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:358][202]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:360][202]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:367][203]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:375][204]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:376][204]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:378][204]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:383][205]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:385][205]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:391][206]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:393][206]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:400][207]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:401][207]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:403][207]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:408][208]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:410][208]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:417][209]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:418][209]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:418][209]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:425][210]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:425][210]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:428][210]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:433][211]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:436][211]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:441][212]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:450][213]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:451][213]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:459][214]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:460][214]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:467][215]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:475][216]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:476][216]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:478][216]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:486][217]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:491][218]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:501][219]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:509][220]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:526][222]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:535][223]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:550][225]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:553][225]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:558][226]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:560][226]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:567][227]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:575][228]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:578][228]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:583][229]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:586][229]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:592][230]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:601][231]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:609][232]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:627][234]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:634][235]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:651][237]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:659][238]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:676][240]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:685][241]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:701][243]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:709][244]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:726][246]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:735][247]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:751][249]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:759][250]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:776][252]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:785][253]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:791][254]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:800][255]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:800][255]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:803][255]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:809][256]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:810][256]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:817][257]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:818][257]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:825][258]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:825][258]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:826][258]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:828][258]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:833][259]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:836][259]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:841][260]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:843][260]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:844][260]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:850][261]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:851][261]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:853][261]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:858][262]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:860][262]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:867][263]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:875][264]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:876][264]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:877][264]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:884][265]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:885][265]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:891][266]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:893][266]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:900][267]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:903][267]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:904][267]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:905][267]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:907][267]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:953][268]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:954][268]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:956][268]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:956][268]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.19:961][268]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:011][269]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:061][270]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:066][270]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:117][271]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:118][271]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:119][271]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:121][271]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:168][272]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:169][272]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:224][273]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:225][273]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:226][273]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:227][273]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:230][273]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:275][274]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:281][274]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:341][276]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:391][277]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:443][278]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:444][278]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:445][278]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:446][278]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:447][278]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:448][278]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:449][278]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:450][278]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:450][278]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:499][279]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:501][279]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:505][279]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:554][280]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:556][280]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:557][280]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:558][280]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:559][280]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:604][281]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:656][282]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:659][282]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:665][283]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:681][285]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:690][286]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:707][288]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:715][289]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:731][291]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:740][292]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:757][294]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:765][295]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:782][297]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:790][298]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:807][300]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:815][301]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:832][303]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:840][304]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:857][306]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:865][307]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:882][309]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:890][310]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:907][312]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:915][313]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:931][315]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:940][316]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:957][318]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:965][319]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:981][321]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.20:990][322]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:007][324]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:015][325]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:030][327]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:033][327]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:039][328]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:041][328]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:048][329]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:056][330]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:058][330]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:064][331]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:064][331]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:065][331]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:067][331]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:071][332]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:073][332]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:074][332]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:075][332]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:080][333]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:083][333]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:089][334]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:089][334]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:091][334]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:097][335]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:106][336]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:108][336]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:114][337]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:115][337]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:117][337]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:118][337]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:119][337]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:120][337]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:121][337]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:167][338]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:168][338]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:169][338]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:170][338]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:171][338]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:171][338]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:226][339]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:228][339]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:275][340]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:280][340]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:329][341]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:376][342]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:382][342]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:433][343]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:534][345]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:584][346]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:644][348]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:693][349]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:751][351]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.21:798][352]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-01.53.23:576][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.02.11-01.53.24:331][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.53.24:360][627]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.53.24:361][627]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.53.24:361][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.53.24:370][627]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.53.24:371][627]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobe4C5A5BF44045C7CB7D926292AE7F3A26.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.53.24:376][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.600 ms (total: 2.23 sec)
+[2026.02.11-01.53.24:408][627]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.53.24:409][627]LogContentValidation: Enabled validators:
+[2026.02.11-01.53.24:409][627]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.53.24:409][627]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.53.24:409][627]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.53.24:409][627]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.53.24:409][627]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.53.24:409][627]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.53.24:409][627]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.54.28:298][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.11-01.54.29:090][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.54.29:117][520]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.54.29:119][520]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.54.29:119][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.54.29:128][520]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.54.29:128][520]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobe9E0451984BCBB43738F1CCA186A59C62.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.54.29:134][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.591 ms (total: 2.28 sec)
+[2026.02.11-01.54.29:164][520]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.54.29:165][520]LogContentValidation: Enabled validators:
+[2026.02.11-01.54.29:165][520]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.54.29:165][520]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.54.29:165][520]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.54.29:165][520]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.54.29:165][520]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.54.29:165][520]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.54.29:165][520]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.54.44:597][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.02.11-01.54.45:409][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.54.45:437][243]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.54.45:438][243]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.54.45:438][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.54.45:447][243]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.54.45:448][243]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobe32DA40F74ED92ADBB35588BCBE3F6E6C.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.54.45:454][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.122 ms (total: 2.32 sec)
+[2026.02.11-01.54.45:477][243]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.54.45:478][243]LogContentValidation: Enabled validators:
+[2026.02.11-01.54.45:478][243]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.54.45:478][243]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.54.45:478][243]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.54.45:478][243]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.54.45:478][243]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.54.45:478][243]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.54.45:478][243]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.54.56:315][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.02.11-01.55.27:784][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.11-01.55.28:430][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.55.28:457][403]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.55.28:459][403]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.55.28:459][403]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.55.28:468][403]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.55.28:469][403]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobe8CA76A404EAADA69D2FB2BAB6A3A3BC3.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.55.28:475][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.788 ms (total: 2.37 sec)
+[2026.02.11-01.55.28:506][403]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.55.28:506][403]LogContentValidation: Enabled validators:
+[2026.02.11-01.55.28:506][403]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.55.28:507][403]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.55.28:507][403]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.55.28:507][403]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.55.28:507][403]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.55.28:507][403]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.55.28:507][403]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.55.42:473][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.02.11-01.55.43:246][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-01.55.43:270][139]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-01.55.43:271][139]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-01.55.43:271][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-01.55.43:280][139]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-01.55.43:282][139]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobe3B823D364954338C2D8832B5B2C300E6.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-01.55.43:288][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.104 ms (total: 2.41 sec)
+[2026.02.11-01.55.43:311][139]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-01.55.43:312][139]LogContentValidation: Enabled validators:
+[2026.02.11-01.55.43:312][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-01.55.43:312][139]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-01.55.43:312][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-01.55.43:312][139]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-01.55.43:312][139]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-01.55.43:312][139]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-01.55.43:312][139]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-01.57.13:284][874]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5991.532227
+[2026.02.11-01.57.14:285][877]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-01.57.14:285][877]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5992.199219, Update Interval: 314.687347
+[2026.02.11-02.03.15:009][959]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6353.256836
+[2026.02.11-02.03.16:009][962]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-02.03.16:009][962]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6353.923340, Update Interval: 317.069611
+[2026.02.11-02.09.24:395][315]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6722.644043
+[2026.02.11-02.09.24:504][328]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-02.09.24:504][328]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6722.744629, Update Interval: 333.875549
+[2026.02.11-02.10.56:359][730]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data E:/Assets/Fonts/David_Libre/DavidLibre-Regular.ttf
+[2026.02.11-02.10.56:361][730]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data E:/Assets/Fonts/David_Libre/DavidLibre-Medium.ttf
+[2026.02.11-02.10.56:361][730]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data E:/Assets/Fonts/David_Libre/DavidLibre-Bold.ttf
+[2026.02.11-02.11.07:078][427]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data E:/Assets/Fonts/David_Libre/DavidLibre-Regular.ttf
+[2026.02.11-02.11.07:078][427]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data E:/Assets/Fonts/David_Libre/DavidLibre-Medium.ttf
+[2026.02.11-02.11.07:079][427]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data E:/Assets/Fonts/David_Libre/DavidLibre-Bold.ttf
+[2026.02.11-02.11.07:731][503]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data E:/Assets/Fonts/David_Libre/DavidLibre-Regular.ttf
+[2026.02.11-02.11.07:731][503]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data E:/Assets/Fonts/David_Libre/DavidLibre-Medium.ttf
+[2026.02.11-02.11.07:731][503]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data E:/Assets/Fonts/David_Libre/DavidLibre-Bold.ttf
+[2026.02.11-02.11.32:001][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.02.11-02.11.32:845][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-02.11.32:873][262]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-02.11.32:876][262]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-02.11.32:876][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-02.11.32:886][262]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-02.11.32:887][262]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobeB4D1AB784A42A3756CAEE6B15EFE920A.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-02.11.32:894][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.052 ms (total: 2.46 sec)
+[2026.02.11-02.11.32:920][262]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-02.11.32:921][262]LogContentValidation: Enabled validators:
+[2026.02.11-02.11.32:921][262]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-02.11.32:921][262]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-02.11.32:921][262]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-02.11.32:921][262]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-02.11.32:921][262]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-02.11.32:921][262]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-02.11.32:921][262]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-02.12.48:404][ 74]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.11-02.12.54:312][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.02.11-02.13.29:535][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.02.11-02.13.30:349][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-02.13.30:380][955]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-02.13.30:382][955]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-02.13.30:382][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-02.13.30:392][955]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-02.13.30:392][955]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobe07B7D1D244EF03AF7E435593C8091B95.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-02.13.30:400][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.432 ms (total: 2.51 sec)
+[2026.02.11-02.13.30:427][955]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-02.13.30:428][955]LogContentValidation: Enabled validators:
+[2026.02.11-02.13.30:428][955]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-02.13.30:428][955]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-02.13.30:428][955]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-02.13.30:428][955]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-02.13.30:428][955]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-02.13.30:428][955]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-02.13.30:428][955]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-02.13.41:165][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.02.11-02.13.41:922][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-02.13.41:971][313]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-02.13.41:974][313]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-02.13.41:974][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-02.13.41:985][313]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-02.13.41:986][313]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobeE64CD9394EEED436E224628F05BA3E99.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-02.13.41:992][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.044 ms (total: 2.58 sec)
+[2026.02.11-02.13.42:026][313]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-02.13.42:026][313]LogContentValidation: Enabled validators:
+[2026.02.11-02.13.42:026][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-02.13.42:026][313]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-02.13.42:026][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-02.13.42:026][313]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-02.13.42:026][313]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-02.13.42:026][313]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-02.13.42:026][313]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-02.14.22:995][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.02.11-02.14.27:020][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-02.14.27:046][355]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-02.14.27:048][355]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-02.14.27:048][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-02.14.27:059][355]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-02.14.27:059][355]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobe7F4DE43442F1CED61F4D5EBF7455072A.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-02.14.27:065][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.761 ms (total: 2.63 sec)
+[2026.02.11-02.14.27:095][355]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-02.14.27:095][355]LogContentValidation: Enabled validators:
+[2026.02.11-02.14.27:095][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-02.14.27:095][355]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-02.14.27:095][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-02.14.27:095][355]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-02.14.27:095][355]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-02.14.27:095][355]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-02.14.27:095][355]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-02.14.35:246][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.02.11-02.14.35:888][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-02.14.35:916][850]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-02.14.35:918][850]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-02.14.35:918][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-02.14.35:929][850]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-02.14.35:929][850]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobeE83C2BC44A63BC65D339CFB90DD7197E.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-02.14.35:937][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.633 ms (total: 2.67 sec)
+[2026.02.11-02.14.35:971][850]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-02.14.35:971][850]LogContentValidation: Enabled validators:
+[2026.02.11-02.14.35:972][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-02.14.35:972][850]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-02.14.35:972][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-02.14.35:972][850]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-02.14.35:972][850]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-02.14.35:972][850]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-02.14.35:972][850]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-02.14.49:846][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.02.11-02.14.56:558][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.02.11-02.15.08:323][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-02.15.08:351][567]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-02.15.08:353][567]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-02.15.08:353][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-02.15.08:363][567]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-02.15.08:363][567]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobe420901164082DF9675CA3F9B288CB011.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-02.15.08:370][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.330 ms (total: 2.72 sec)
+[2026.02.11-02.15.08:394][567]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-02.15.08:394][567]LogContentValidation: Enabled validators:
+[2026.02.11-02.15.08:394][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-02.15.08:394][567]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-02.15.08:394][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-02.15.08:394][567]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-02.15.08:394][567]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-02.15.08:394][567]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-02.15.08:395][567]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-02.15.29:598][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.02.11-02.15.32:630][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.02.11-02.15.33:436][941]LogSlate: Window 'Save Content' being destroyed
+[2026.02.11-02.15.33:446][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-02.15.33:479][941]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe] ([2] browsable assets)...
+[2026.02.11-02.15.33:480][941]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.WBP_SpellGlobe]
+[2026.02.11-02.15.33:480][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe]
+[2026.02.11-02.15.33:491][941]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe
+[2026.02.11-02.15.33:491][941]LogSavePackage: Moving '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Saved/WBP_SpellGlobeDEF80B964D0398AE4E5134AEDEBE53F0.tmp' to '../../../../../../UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe.uasset'
+[2026.02.11-02.15.33:499][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.389 ms (total: 2.78 sec)
+[2026.02.11-02.15.33:527][941]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-02.15.33:527][941]LogContentValidation: Enabled validators:
+[2026.02.11-02.15.33:527][941]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-02.15.33:527][941]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-02.15.33:527][941]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-02.15.33:527][941]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-02.15.33:527][941]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-02.15.33:527][941]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-02.15.33:530][941]AssetCheck: /Game/Blueprints/UI/SpellGlobes/WBP_SpellGlobe Validating asset
+[2026.02.11-02.15.56:305][955]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7114.536621
+[2026.02.11-02.15.57:305][957]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-02.15.57:305][958]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7115.204102, Update Interval: 310.629608
