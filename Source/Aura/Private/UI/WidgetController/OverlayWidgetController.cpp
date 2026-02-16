@@ -129,4 +129,3 @@ void UOverlayWidgetController::OnXPChanged(int32 NewXP) const
 		OnXPPercentChangedDelegate.Broadcast(XPBarPercent);
 	}
 }
-
