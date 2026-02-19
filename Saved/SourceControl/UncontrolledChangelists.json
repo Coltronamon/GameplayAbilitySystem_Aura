@@ -359,6 +359,8 @@
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/UI/Globes/M_FlowingUIBG.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellGlobes/WBP_SpellGlobe_Button.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellMenu/WBP_OffensiveSpellTree.uasset",
+				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/SpellMenu/WBP_PassiveSpellTree.uasset",
+				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/UI/Globes/MI_LockedBG.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Assets/Sounds/LevelUp/sfx_Template_single.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/UI/Overlay/WBP_PictureFrame.uasset",
 				"C:/UnrealGames/GameplayAbilitySystem_Aura/Content/Blueprints/AI/BehaviorTree/BT_BehaviortTree_Elementalist.uasset",
