@@ -48,12 +48,14 @@ public:
 	FGameplayTag InputTag_4;
 	FGameplayTag InputTag_Passive_1;
 	FGameplayTag InputTag_Passive_2;
-
+ 
 	FGameplayTag Damage;
 	FGameplayTag Damage_Fire;
 	FGameplayTag Damage_Lightning;
 	FGameplayTag Damage_Arcane;
 	FGameplayTag Damage_Physical;
+	
+	FGameplayTag Abilities_None;
 	
 	FGameplayTag Abilities_Attack;
 	FGameplayTag Abilities_Summon;
