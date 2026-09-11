@@ -2,14 +2,10 @@
 
 
 #include "AbilitySystem/Abilities/AuraProjectileSpell.h"
-
 #include "AbilitySystemBlueprintLibrary.h"
 #include "AbilitySystemComponent.h"
-#include "NiagaraVolumeRendererProperties.h"
-#include "SAdvancedTransformInputBox.h"
 #include "Actor/AuraProjectile.h"
 #include "Aura/Public/AuraGameplayTags.h"
-#include "EnvironmentQuery/EnvQueryTypes.h"
 #include "Interaction/CombatInterface.h"
 
 
